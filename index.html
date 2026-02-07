@@ -1,46 +1,196 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Notícias Conectadas</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
-    body { font-family: Arial, sans-serif; background:#f4f6f8; margin:0; padding:16px; }
-    h1 { margin-bottom:6px; }
-    .info { color:#666; font-size:14px; margin-bottom:16px; }
-    .news { background:#fff; padding:12px; margin-bottom:12px; border-radius:6px; box-shadow:0 1px 3px rgba(0,0,0,.08); }
-    .news a { font-weight:bold; text-decoration:none; color:#1a0dab; }
-    .meta { font-size:13px; color:#555; margin-top:4px; }
+    :root { --bg:#f4f6f8; --card:#fff; --text:#111; --muted:#666; --blue:#1a0dab; }
+    body { font-family: Arial, sans-serif; background: var(--bg); margin: 0; padding: 16px; color: var(--text); }
+    h1 { margin: 0 0 6px 0; font-size: 40px; }
+    .info { color: var(--muted); font-size: 14px; margin-bottom: 14px; }
+
+    .tabs { display: flex; gap: 10px; margin: 12px 0 16px 0; flex-wrap: wrap; }
+    .tab {
+      border: 1px solid #d0d7de;
+      background: #fff;
+      padding: 10px 14px;
+      border-radius: 10px;
+      cursor: pointer;
+      font-weight: 700;
+      color: #222;
+      user-select: none;
+    }
+    .tab.active { background: #111; color: #fff; border-color: #111; }
+
+    .row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 12px; }
+    .pill {
+      background: #fff;
+      border: 1px solid #d0d7de;
+      padding: 8px 10px;
+      border-radius: 999px;
+      font-size: 13px;
+      color: #333;
+    }
+
+    .news { background: var(--card); padding: 12px; margin-bottom: 12px; border-radius: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+    .news a { text-decoration: none; color: var(--blue); font-weight: 800; }
+    .meta { font-size: 13px; color: #555; margin-top: 6px; display:flex; gap:10px; flex-wrap: wrap; }
+    .meta span { color:#555; }
+    .btn {
+      border: 1px solid #d0d7de;
+      background: #fff;
+      padding: 10px 12px;
+      border-radius: 10px;
+      cursor: pointer;
+      font-weight: 700;
+    }
+    .btn:disabled { opacity: .5; cursor: not-allowed; }
+
+    .empty { padding: 14px; color: #333; }
+    .error { padding: 14px; color: #b00020; }
+
+    @media (max-width: 520px) {
+      h1 { font-size: 34px; }
+    }
   </style>
 </head>
+
 <body>
   <h1>🗞️ Notícias Conectadas</h1>
-  <div class="info">Atualizado automaticamente</div>
+  <div class="info" id="status">Atualizado automaticamente</div>
+
+  <div class="tabs">
+    <div class="tab active" id="tab-stf">STF</div>
+    <div class="tab" id="tab-saude">Saúde</div>
+  </div>
+
+  <div class="row">
+    <div class="pill" id="countPill">Carregando…</div>
+    <button class="btn" id="btnMore" disabled>Carregar mais</button>
+  </div>
+
   <div id="lista">Carregando notícias…</div>
+
   <script>
-    fetch('data.json')
-      .then(r => r.json())
-      .then(data => {
-        const el = document.getElementById('lista');
-        el.innerHTML = '';
-        if (!data.items || data.items.length === 0) {
-          el.innerHTML = '<p>Nenhuma notícia encontrada.</p>';
-          return;
-        }
-        data.items.slice(0, 30).forEach(item => {
-          const div = document.createElement('div');
-          div.className = 'news';
-          div.innerHTML = `
-            <a href="${item.link}" target="_blank">${item.title}</a>
+    const PAGE_SIZE = 30;
+
+    let allItems = [];
+    let activeTab = "stf";
+    let visibleCount = PAGE_SIZE;
+
+    const elLista = document.getElementById("lista");
+    const elStatus = document.getElementById("status");
+    const elCount = document.getElementById("countPill");
+    const btnMore = document.getElementById("btnMore");
+
+    const tabStf = document.getElementById("tab-stf");
+    const tabSaude = document.getElementById("tab-saude");
+
+    function fmtDate(iso) {
+      try { return new Date(iso).toLocaleString("pt-BR"); }
+      catch { return ""; }
+    }
+
+    function normalizeTopics(item) {
+      // Garante que cada item tenha topics
+      // Se vier sem topics, assume "stf" (para não sumir tudo)
+      if (!item.topics || !Array.isArray(item.topics) || item.topics.length === 0) {
+        item.topics = ["stf"];
+      }
+      return item;
+    }
+
+    function getFiltered() {
+      return allItems
+        .map(normalizeTopics)
+        .filter(i => (i.topics || []).includes(activeTab));
+    }
+
+    function setActiveTab(tab) {
+      activeTab = tab;
+      visibleCount = PAGE_SIZE;
+
+      tabStf.classList.toggle("active", tab === "stf");
+      tabSaude.classList.toggle("active", tab === "saude");
+
+      render();
+    }
+
+    function updateHeader(filtered) {
+      const total = filtered.length;
+      elCount.textContent = `Mostrando ${Math.min(visibleCount, total)} de ${total} notícias • Aba: ${activeTab.toUpperCase()}`;
+
+      btnMore.disabled = visibleCount >= total;
+    }
+
+    function render() {
+      const filtered = getFiltered();
+
+      if (!filtered.length) {
+        elLista.innerHTML = `<div class="empty">Nenhuma notícia encontrada para essa aba.</div>`;
+        updateHeader(filtered);
+        return;
+      }
+
+      const slice = filtered.slice(0, visibleCount);
+
+      elLista.innerHTML = slice.map(item => {
+        const title = item.title || "(sem título)";
+        const link = item.link || "#";
+        const source = item.source || "";
+        const date = item.dateISO ? fmtDate(item.dateISO) : "";
+
+        return `
+          <div class="news">
+            <a href="${link}" target="_blank" rel="noopener noreferrer">${title}</a>
             <div class="meta">
-              ${item.source || ''} • ${new Date(item.dateISO).toLocaleString('pt-BR')}
-            </div>`;
-          el.appendChild(div);
-        });
-      })
-      .catch(() => {
-        document.getElementById('lista').innerHTML = '<p>Erro ao carregar as notícias.</p>';
-      });
+              <span>${source}</span>
+              <span>${date}</span>
+            </div>
+          </div>
+        `;
+      }).join("");
+
+      updateHeader(filtered);
+    }
+
+    btnMore.addEventListener("click", () => {
+      visibleCount += PAGE_SIZE;
+      render();
+    });
+
+    tabStf.addEventListener("click", () => setActiveTab("stf"));
+    tabSaude.addEventListener("click", () => setActiveTab("saude"));
+
+    async function load() {
+      try {
+        const res = await fetch("data.json", { cache: "no-store" });
+        if (!res.ok) throw new Error("data.json não encontrado (404).");
+
+        const data = await res.json();
+
+        // status
+        if (data.generatedAtISO) {
+          elStatus.textContent = `Atualizado automaticamente • Última geração: ${fmtDate(data.generatedAtISO)}`;
+        }
+
+        // itens
+        allItems = Array.isArray(data.items) ? data.items : [];
+
+        // Ordena mais novo primeiro (se não estiver)
+        allItems.sort((a, b) => new Date(b.dateISO || 0) - new Date(a.dateISO || 0));
+
+        btnMore.disabled = false;
+        render();
+      } catch (e) {
+        elLista.innerHTML = `<div class="error">Erro ao carregar as notícias. (${String(e.message || e)})</div>`;
+        elCount.textContent = "Não foi possível carregar";
+        btnMore.disabled = true;
+      }
+    }
+
+    load();
   </script>
 </body>
 </html>
