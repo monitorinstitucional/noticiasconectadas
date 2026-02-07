@@ -4,7 +4,7 @@ import Parser from "rss-parser";
 
 const FEEDS_FILE = "feeds.json";
 const OUT_FILE = "data.json";
-const KEEP_HOURS = 48; // últimas 48h no site
+const KEEP_HOURS = 48;
 
 const parser = new Parser({
   timeout: 20000,
@@ -30,7 +30,7 @@ function pickDate(item) {
   const raw = item.isoDate || item.pubDate || item.date;
   if (!raw) return null;
   const d = new Date(raw);
-  return isNaN(d.getTime()) ? null : d.toISOString();
+  return Number.isNaN(d.getTime()) ? null : d.toISOString();
 }
 
 function makeId(source, link, title) {
@@ -42,11 +42,10 @@ function makeId(source, link, title) {
 }
 
 async function main() {
-  const cfgRaw = await fs.readFile(FEEDS_FILE, "utf-8");
-  const config = JSON.parse(cfgRaw);
+  const config = JSON.parse(await fs.readFile(FEEDS_FILE, "utf-8"));
 
-  let allItems = [];
   let failures = [];
+  let rawItems = [];
 
   for (const topicKey of Object.keys(config)) {
     const topic = config[topicKey] || {};
@@ -66,7 +65,7 @@ async function main() {
           const text = `${item.title || ""} ${item.contentSnippet || ""} ${item.content || ""}`;
           if (keywords.length && !matchesKeywords(text, keywords)) continue;
 
-          allItems.push({
+          rawItems.push({
             id: makeId(feed.name, item.link, item.title),
             title: item.title || "(sem título)",
             link: item.link,
@@ -81,33 +80,48 @@ async function main() {
     }
   }
 
-  // dedupe por link
+  // Dedup por LINK, mesclando topics
   const map = new Map();
-  for (const i of allItems) map.set(i.link, i);
-  allItems = [...map.values()];
+  for (const it of rawItems) {
+    const key = it.link;
+    if (!map.has(key)) {
+      map.set(key, it);
+    } else {
+      const prev = map.get(key);
+      const merged = new Set([...(prev.topics || []), ...(it.topics || [])]);
+      prev.topics = [...merged];
+      // mantém o mais recente se houver diferença
+      if (new Date(it.dateISO) > new Date(prev.dateISO)) {
+        prev.dateISO = it.dateISO;
+        prev.title = it.title || prev.title;
+        prev.source = it.source || prev.source;
+      }
+    }
+  }
 
-  // ordena mais novo primeiro
-  allItems.sort((a, b) => new Date(b.dateISO) - new Date(a.dateISO));
+  let items = [...map.values()];
 
-  // mantém janela de tempo
+  // Ordena mais novo primeiro
+  items.sort((a, b) => new Date(b.dateISO) - new Date(a.dateISO));
+
+  // Janela de tempo
   const cutoff = Date.now() - KEEP_HOURS * 60 * 60 * 1000;
-  allItems = allItems.filter(i => new Date(i.dateISO).getTime() >= cutoff);
+  items = items.filter(i => new Date(i.dateISO).getTime() >= cutoff);
 
   // SEMPRE escreve data.json (mesmo vazio)
   await fs.writeFile(
     OUT_FILE,
     JSON.stringify(
-      { generatedAtISO: new Date().toISOString(), failures, items: allItems },
+      { generatedAtISO: new Date().toISOString(), failures, items },
       null,
       2
     )
   );
 
-  console.log(`OK: ${allItems.length} notícias (failures: ${failures.length})`);
+  console.log(`OK: ${items.length} notícias (failures: ${failures.length})`);
 }
 
 main().catch(async (err) => {
-  // mesmo em erro, tenta escrever um data.json básico para o site não quebrar
   const fallback = {
     generatedAtISO: new Date().toISOString(),
     failures: [{ name: "script", url: "", error: String(err.message || err) }],
