@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Notícias Conectadas</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial, sans-serif; background:#f4f6f8; margin:0; padding:16px; }
+    h1 { margin-bottom:6px; }
+    .info { color:#666; font-size:14px; margin-bottom:16px; }
+    .news { background:#fff; padding:12px; margin-bottom:12px; border-radius:6px; box-shadow:0 1px 3px rgba(0,0,0,.08); }
+    .news a { font-weight:bold; text-decoration:none; color:#1a0dab; }
+    .meta { font-size:13px; color:#555; margin-top:4px; }
+  </style>
+</head>
+<body>
+  <h1>🗞️ Notícias Conectadas</h1>
+  <div class="info">Atualizado automaticamente</div>
+  <div id="lista">Carregando notícias…</div>
+  <script>
+    fetch('data.json')
+      .then(r => r.json())
+      .then(data => {
+        const el = document.getElementById('lista');
+        el.innerHTML = '';
+        if (!data.items || data.items.length === 0) {
+          el.innerHTML = '<p>Nenhuma notícia encontrada.</p>';
+          return;
+        }
+        data.items.slice(0, 30).forEach(item => {
+          const div = document.createElement('div');
+          div.className = 'news';
+          div.innerHTML = `
+            <a href="${item.link}" target="_blank">${item.title}</a>
+            <div class="meta">
+              ${item.source || ''} • ${new Date(item.dateISO).toLocaleString('pt-BR')}
+            </div>`;
+          el.appendChild(div);
+        });
+      })
+      .catch(() => {
+        document.getElementById('lista').innerHTML = '<p>Erro ao carregar as notícias.</p>';
+      });
+  </script>
+</body>
+</html>
