@@ -1,1 +1,41 @@
-{"stf": {}, "saude": {}}
+{
+  "stf": {
+    "keywords": [
+      "STF",
+      "Supremo Tribunal Federal",
+      "Alexandre de Moraes",
+      "Gilmar Mendes",
+      "Cármen Lúcia",
+      "Dias Toffoli",
+      "Luiz Fux",
+      "Flávio Dino",
+      "Cristiano Zanin",
+      "André Mendonça",
+      "Nunes Marques",
+      "Edson Fachin"
+    ],
+    "feeds": [
+      {
+        "name": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
+      }
+    ]
+  },
+  "saude": {
+    "keywords": [
+      "Ministério da Saúde",
+      "Anvisa",
+      "SUS",
+      "planos de saúde",
+      "Rede D'Or",
+      "vacina",
+      "vigilância sanitária"
+    ],
+    "feeds": [
+      {
+        "name": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
+      }
+    ]
+  }
+}
