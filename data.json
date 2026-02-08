@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-08T10:00:33.135Z",
+  "generatedAtISO": "2026-02-08T11:00:58.730Z",
   "failures": [
     {
       "name": "UOL",
@@ -77,11 +77,6 @@
       "error": "Status code 404"
     },
     {
-      "name": "Metrópoles",
-      "url": "https://www.metropoles.com/feed",
-      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    },
-    {
       "name": "Correio Braziliense",
       "url": "https://www.correiobraziliense.com.br/rss/ultimas.xml",
       "error": "Status code 404"
@@ -124,11 +119,181 @@
   ],
   "items": [
     {
+      "id": "b7a4c097321cfad3",
+      "title": "Associações de pacientes de Cannabis saem das sombras jurídicas",
+      "link": "https://veja.abril.com.br/agenda-verde/associacoes-de-pacientes-de-cannabis-saem-das-sombras-juridicas/",
+      "source": "Veja",
+      "dateISO": "2026-02-08T11:00:03.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b36114990c03b01e",
+      "title": "Governo muda percepção e prevê postura 'recatada' de Trump nas eleições brasileiras",
+      "link": "https://g1.globo.com/politica/noticia/2026/02/08/governo-muda-percepcao-e-preve-postura-recatada-de-trump-nas-eleicoes-brasileiras.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T10:51:41.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "0ef64b2d794aa155",
+      "title": "Corpo de professora morta por aluno é transferido para a Bahia",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/brasil/corpo-de-professora-morta-por-aluno-e-transferido-para-a-bahia",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-08T10:47:03.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f593e2994ae910ab",
+      "title": "Rússia anuncia prisão de suspeitos por ataque a general",
+      "link": "https://istoe.com.br/russia-anuncia-prisao-de-suspeitos-por-ataque-a-general",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-08T10:31:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "8c155586d05055e1",
+      "title": "Alambiques preservam a tradição da cachaça artesanal",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/02/08/alambiques-preservam-a-tradicao-da-cachaca-artesanal.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T10:30:36.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "a765a2709421c0d2",
+      "title": "Produtores paulistas colhem safra de quiabo",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/02/08/produtores-paulistas-colhem-safra-de-quiabo.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T10:30:33.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f568df798044770d",
+      "title": "Política no Brasil hoje: o que está acontecendo?",
+      "link": "https://revistaoeste.com/politica/politica-no-brasil-hoje/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-08T10:30:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "30336e223ab84c98",
+      "title": "Rússia prende suspeitos de atentado a diretor de Inteligência",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/mundo/russia-prende-suspeitos-de-atentado-a-diretor-de-inteligencia",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-08T10:27:52.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ac4eeab39d67f465",
+      "title": "Custo de Vida na Região Metropolitana de SP sobe 4,71% em 2025",
+      "link": "https://www.poder360.com.br/poder-economia/custo-de-vida-na-regiao-metropolitana-de-sp-sobe-471-em-2025/",
+      "source": "Poder360",
+      "dateISO": "2026-02-08T10:20:06.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2acbd66539b2d946",
+      "title": "Jogos de hoje, 08/02/26: Horários e onde assistir",
+      "link": "https://oantagonista.com.br/ladooa/esportes/jogos-de-hoje-08-02-26-horarios-e-onde-assistir/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-08T10:09:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "43f8febcbf2e813c",
+      "title": "Anitta convida grupo religioso para conhecer orixás e deuses hindus",
+      "link": "https://www.poder360.com.br/poder-gente/anitta-convida-grupo-religioso-para-conhecer-orixas-e-deuses-hindus/",
+      "source": "Poder360",
+      "dateISO": "2026-02-08T10:07:19.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c5d7f652ea214a2e",
+      "title": "O que muda na importação de derivados de cannabis após a nova RDC 327?",
+      "link": "https://www.conjur.com.br/2026-fev-08/o-que-muda-na-importacao-de-derivados-de-cannabis-apos-a-nova-rdc-327/",
+      "source": "ConJur",
+      "dateISO": "2026-02-08T10:01:38.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "02a8221c095f3145",
+      "title": "Menina de 2 anos ganha galinha e cria como pet dentro de casa no Acre: 'Faz parte da nossa família', diz mãe",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/02/08/menina-de-2-anos-ganha-galinha-e-cria-como-pet-dentro-de-casa-no-acre-faz-parte-da-nossa-familia-diz-mae.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T10:00:56.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2fb13d364382aaee",
+      "title": "Iniciativa sustentável: praças e enfeites feitos com recicláveis atraem olhares em cidade no Tocantins",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/02/08/iniciativa-sustentavel-pracas-e-enfeites-feitos-com-reciclaveis-atraem-olhares-em-cidade-no-tocantins.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T10:00:37.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ed3627ba5260cd3b",
+      "title": "Mesmo com fim da greve geral, rodoviários do Expresso Rei de França, antiga 1001, continuam paralisados",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/02/08/mesmo-com-fim-da-greve-geral-rodoviarios-do-expresso-rei-de-franca-antiga-1001-continuam-paralisados.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T10:00:35.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "e57716062efac947",
       "title": "Horóscopo do dia: previsão para os 12 signos em 08/02/2026",
       "link": "https://www.cartacapital.com.br/astrologia/horoscopo-do-dia-previsao-para-os-12-signos-em-08-02-2026/",
       "source": "CartaCapital",
       "dateISO": "2026-02-08T10:00:04.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f2a4445cac652fba",
+      "title": "Corinthians e Palmeiras fazem 1º dérbi do ano após 2025 de soberania alvinegra",
+      "link": "https://istoe.com.br/corinthians-e-palmeiras-fazem-1o-derbi-do-ano-apos-2025-de-soberania-alvinegra",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-08T10:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "5f55d66d0cb141b1",
+      "title": "Sucessão bem feita deixou de ser tema familiar e virou decisão econômica",
+      "link": "https://revistaoeste.com/economia/sucessao-bem-feita-deixou-de-ser-tema-familiar-e-virou-decisao-economica/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-08T10:00:00.000Z",
       "topics": [
         "saude"
       ]
@@ -276,16 +441,6 @@
       ]
     },
     {
-      "id": "57f7e6eef209ad67",
-      "title": "“Eleição será de rejeição, não de virtudes”, diz Eduardo Cunha",
-      "link": "https://www.poder360.com.br/poder-eleicoes/eleicao-sera-de-rejeicao-nao-de-virtudes-diz-eduardo-cunha/",
-      "source": "Poder360",
-      "dateISO": "2026-02-08T08:58:01.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
       "id": "12cfea6c6ec98f2e",
       "title": "Entre Kafka e a Lei da Liberdade Econômica: silêncio do Estado e arte de não decidir",
       "link": "https://www.jota.info/opiniao-e-analise/artigos/entre-kafka-e-a-lei-da-liberdade-economica-silencio-do-estado-e-arte-de-nao-decidir",
@@ -322,16 +477,6 @@
       "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/02/08/idoso-perde-r-150-mil-ao-cair-em-golpe-de-mulher-que-prometia-cura-espiritual.ghtml",
       "source": "G1",
       "dateISO": "2026-02-08T08:09:51.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "21579c612426bf2e",
-      "title": "Adeus medo de perder o auxílio: essa regra do Bolsa Família mantém renda mesmo com emprego em 2026",
-      "link": "https://oantagonista.com.br/brasil/adeus-medo-de-perder-o-auxilio-essa-regra-do-bolsa-familia-mantem-renda-mesmo-com-emprego-em-2026/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-08T08:04:00.000Z",
       "topics": [
         "saude"
       ]
@@ -749,16 +894,6 @@
       ]
     },
     {
-      "id": "10ada9d227cc8d41",
-      "title": "Esses 3 signos sentem fevereiro cobrar descanso e autocuidado",
-      "link": "https://oantagonista.com.br/ladooa/entretenimento/esses-3-signos-sentem-fevereiro-cobrar-descanso-e-autocuidado-2/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-08T04:07:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "ccb3bb74e4c7685f",
       "title": "'Com o que eu ganho não dá para sobreviver': quase um quarto dos idosos está endividado no RS, aponta Serasa",
       "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/02/08/com-o-que-eu-ganho-nao-da-para-sobreviver-quase-um-quarto-dos-idosos-esta-endividado-no-rs-aponta-serasa.ghtml",
@@ -859,16 +994,6 @@
       ]
     },
     {
-      "id": "62dece579fbff3bc",
-      "title": "Vídeo: Tempestades com granizo causam danos em Santa Catarina",
-      "link": "https://revistaoeste.com/brasil/tempestades-com-granizo-causam-danos-em-santa-catarina/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-08T02:02:03.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "4c33e36c0fdfdb83",
       "title": "H� palestras e pale$tra$ de ministros do STF",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/02/ha-palestras-e-paletra-de-ministros-do-stf.shtml",
@@ -894,16 +1019,6 @@
       "link": "https://g1.globo.com/pa/para/rainha-das-rainhas/oficial/noticia/2026/02/07/rainha-das-rainhas-2026-ordem-de-desfile-regras-premios-e-tudo-que-voce-precisa-saber-sobre-o-concurso-em-belem.ghtml",
       "source": "G1",
       "dateISO": "2026-02-08T01:30:29.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "b8ee822b100068ab",
-      "title": "O que significa para um agente de trânsito quando um carro está usando pisca-alerta em movimento?",
-      "link": "https://oantagonista.com.br/brasil/o-que-significa-para-um-agente-de-transito-quando-um-carro-esta-usando-pisca-alerta-em-movimento/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-08T01:30:00.000Z",
       "topics": [
         "saude"
       ]
@@ -989,51 +1104,11 @@
       ]
     },
     {
-      "id": "a43a6ea5af5d922c",
-      "title": "Enxurrada provoca interdições, quedas de árvores e arrasta objetos em Rio Bonito; oito famílias estão desalojadas",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/02/07/enxurrada-provoca-interdicoes-quedas-de-arvores-e-arrasta-objetos-em-rio-bonito-oito-familias-estao-desalojadas.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T23:28:13.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "bb3f31baae0af651",
-      "title": "Acidentes de trânsito custam quase R$ 170 milhões à saúde pública em três cidades da região",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/02/07/acidentes-de-transito-custam-quase-r-170-milhoes-a-saude-publica-em-tres-cidades-da-regiao.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T23:20:53.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "ae1e6a1344c30979",
-      "title": "Mulher de 30 anos é morta em São Francisco de Paula; suspeito do crime está foragido",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/02/07/mulher-de-30-anos-e-morta-em-sao-francisco-de-paula-suspeito-do-crime-esta-foragido.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T23:15:12.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "06602e8ee1a70db4",
       "title": "Cowboy engasga no BBB e brothers se desesperam",
       "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/cowboy-engasta-no-bbb-e-recebe-atendimento/",
       "source": "CNN Brasil",
       "dateISO": "2026-02-07T23:14:36.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "bd10df6678b08c60",
-      "title": "VÍDEO: Clientes são assaltados dentro de bar na Avenida Litorânea, em São Luís",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/02/07/video-clientes-sao-assaltados-dentro-de-bar-na-avenida-litoranea-em-sao-luis.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T23:12:42.000Z",
       "topics": [
         "saude"
       ]
@@ -1260,16 +1335,6 @@
       ]
     },
     {
-      "id": "216bdfaa5b8af69d",
-      "title": "Súmula nº 711 do STF, Lex Gravior e o crime continuado",
-      "link": "https://www.conjur.com.br/2026-fev-07/sumula-no-711-do-stf-lex-gravior-e-o-crime-continuado/",
-      "source": "ConJur",
-      "dateISO": "2026-02-07T16:18:11.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
       "id": "953030186a065b05",
       "title": "Morre adolescente de 16 anos agredido por piloto em Bras�lia",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/morre-adolescente-de-16-anos-agredido-por-piloto-em-brasilia.shtml",
@@ -1459,16 +1524,6 @@
       "dateISO": "2026-02-06T12:48:04.000Z",
       "topics": [
         "saude"
-      ]
-    },
-    {
-      "id": "b4a6b790ceaf6aad",
-      "title": "Gilmar Mendes pede vista em julgamento sobre debêntures de Eike Batista",
-      "link": "https://www.jota.info/stf/do-supremo/gilmar-mendes-pede-vista-em-julgamento-sobre-debentures-de-eike-batista",
-      "source": "JOTA",
-      "dateISO": "2026-02-06T12:41:47.000Z",
-      "topics": [
-        "stf"
       ]
     }
   ]
