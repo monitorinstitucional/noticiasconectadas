@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-08T05:50:03.394Z",
+  "generatedAtISO": "2026-02-08T07:53:57.161Z",
   "failures": [
     {
       "name": "UOL",
@@ -15,11 +15,6 @@
       "name": "O Globo",
       "url": "https://oglobo.globo.com/rss/oglobo.xml",
       "error": "Status code 404"
-    },
-    {
-      "name": "Metrópoles",
-      "url": "https://www.metropoles.com/feed",
-      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
     },
     {
       "name": "Correio Braziliense",
@@ -119,11 +114,212 @@
   ],
   "items": [
     {
+      "id": "0ebd6e8f6e4c967d",
+      "title": "Pescoço inchado, sangramento, rosto paralisado: veja relatos de mulheres que denunciaram dentista após complicações em procedimentos estéticos",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/02/08/pescoco-inchado-sangramento-rosto-paralisado-veja-relatos-de-mulheres-que-denunciaram-dentista-apos-complicacoes-em-procedimentos-esteticos.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T07:03:29.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2f4169450d2b339e",
+      "title": "O que é a vantagem social cumulativa e por que ela protege sua saúde",
+      "link": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/02/08/o-que-e-a-vantagem-social-cumulativa-e-por-que-ela-protege-sua-saude.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T07:01:39.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "bb376c05c0d5ff5e",
+      "title": "Estudos indicam que psicodélicos podem exercer influência sobre o processo de envelhecimento celular",
+      "link": "https://g1.globo.com/ciencia/noticia/2026/02/08/estudos-indicam-que-psicodelicos-podem-exercer-influencia-sobre-o-processo-de-envelhecimento-celular.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T07:01:37.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "6d711e0b3dff8d2a",
+      "title": "Calor nas cidades pode ser até o dobro do previsto com o aquecimento global, aponta estudo",
+      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/02/08/calor-nas-cidades-pode-ser-ate-o-dobro-do-previsto-com-o-aquecimento-global-aponta-estudo.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T07:01:33.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "37f632d70f829f04",
+      "title": "Entenda as consequências de eventuais punições aos réus da trama golpista no STM ",
+      "link": "https://g1.globo.com/politica/noticia/2026/02/08/entenda-as-consequencias-de-eventuais-punicoes-aos-reus-da-trama-golpista-no-stm.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T07:01:27.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "e3ac1202e47373bb",
+      "title": "Rússia diz que suspeitos de ataque ao general Alekseyev foram detidos nos Emirados Árabes",
+      "link": "https://g1.globo.com/mundo/noticia/2026/02/08/suspeitos-ataque-general-alekseyev-detidos.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T07:01:26.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "bb469ad096a2a782",
+      "title": "\nA ofensiva da União Europeia para enquadrar as big techs americanas",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/02/08/a-ofensiva-da-uniao-europeia-para-enquadrar-as-big-techs-americanas.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T07:01:25.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "334e78222b71a065",
+      "title": "Big techs planejam gastar US$ 600 bilhões na ‘corrida da IA’ em 2026 e deixam investidores apavorados",
+      "link": "https://g1.globo.com/economia/noticia/2026/02/08/big-techs-planejam-gastar-us-600-bilhoes-na-corrida-da-ia-em-2026-e-deixam-investidores-apavorados.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T07:01:24.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "0a55125c56038844",
+      "title": "Latinha de whisky com limão, gin com gengibre, rum com mate: como os drinques prontos de Minas viraram febre no carnaval",
+      "link": "https://g1.globo.com/mg/minas-gerais/carnaval/2026/noticia/2026/02/08/latinha-de-whisky-com-limao-gin-com-gengibre-rum-com-mate-como-os-drinques-prontos-de-minas-viraram-febre-no-carnaval.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T07:01:03.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "62a756cd1732c3f2",
+      "title": "Funerais de pet com chuva de pétalas de rosas e cremação que transforma cinzas em joia chamam a atenção em Goiás",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/02/08/funerais-de-pet-com-chuva-de-petalas-de-rosas-e-cremacao-que-transforma-cinzas-em-joia-chamam-a-atencao-em-goias.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T07:01:01.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "1f81494e23829c86",
+      "title": "Estudo revela desigualdade na mortalidade por infec��es em hospitais no SUS paulista",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/02/estudo-revela-desigualdade-na-mortalidade-por-infeccoes-em-hospitais-no-sus-paulista.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-08T07:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "32a296c44697fe28",
+      "title": "C�meras com IA flagram uso de celular e falta de cinto e se multiplicam por rodovias paulistas",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/cameras-com-ia-flagram-uso-de-celular-e-falta-de-cinto-e-se-multiplicam-por-rodovias-paulistas.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-08T07:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ab4e7ec4b7c9db74",
+      "title": "Luiz Felipe Pond� criticou o 'hype' em torno do autismo",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-105-anos/2026/02/luiz-felipe-ponde-criticou-o-hype-em-torno-do-autismo.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-08T07:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "a8196a5d6eb877ba",
+      "title": "Empresa que “ressuscitou” lobo-terrível cria biobanco congelado; entenda",
+      "link": "https://www.cnnbrasil.com.br/ciencia/empresa-que-ressuscitou-lobo-terrivel-cria-biobanco-congelado-entenda/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-08T06:33:59.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "0afe738503f5fe49",
+      "title": "Suvaco do Cristo faz neste domingo seu último desfile após 40 anos; museu virtual e documentário manterão memória viva",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/08/suvaco-do-cristo-faz-neste-domingo-seu-ultimo-desfile-apos-40-anos-museu-virtual-e-documentario-manterao-memoria-viva.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T06:00:58.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f4dffc9c8a425524",
+      "title": "Companhia lançará classe executiva com cabine privativa e assento-cama no Japão; veja imagens",
+      "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/02/08/companhia-lancara-classe-executiva-com-cabine-privativa-e-assento-cama-no-japao-veja-imagens.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T06:00:56.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2b3d24d14fbb1aaa",
+      "title": "Marca de luxo descarta equipes consagradas para patrocinar o Brasil nas Olimpíadas de Inverno; saiba motivo",
+      "link": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/02/08/marca-de-luxo-descarta-equipes-consagradas-para-patrocinar-o-brasil-nas-olimpiadas-de-inverno-saiba-motivo.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T06:00:39.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "835329f13f132d28",
+      "title": "Sem neve, sem Jogos? Aquecimento global ameaça Olimpíadas de Inverno",
+      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/02/08/sem-neve-sem-jogos-aquecimento-global-ameaca-olimpiadas-de-inverno.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T06:00:29.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f0c5f49313a9fbab",
+      "title": "Assista aos telejornais da TV Liberal",
+      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T05:59:57.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "badc14b7b4ebb6fd",
       "title": "Vencedora do Rainha das Rainhas 2026 fez referência ao búfalo carabao do Marajó; veja como foi",
       "link": "https://g1.globo.com/pa/para/rainha-das-rainhas/oficial/ao-vivo/rainha-das-rainhas-2026-transmissao-ao-vivo-assistir.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-08T05:45:42.000Z",
+      "dateISO": "2026-02-08T05:51:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "fe2203105491ba40",
+      "title": "CEO do Washington Post deixa o cargo após onda de demissões",
+      "link": "https://g1.globo.com/economia/noticia/2026/02/08/ceo-washington-post-deixa-cargo.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T05:48:15.000Z",
       "topics": [
         "saude"
       ]
@@ -156,6 +352,16 @@
       "dateISO": "2026-02-08T05:00:51.000Z",
       "topics": [
         "saude"
+      ]
+    },
+    {
+      "id": "041397daed3533a3",
+      "title": "Lira avalia ir ao STF contra acareação autorizada à PF por Dino",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/colunas/manoela-alcantara/lira-avalia-ir-ao-stf-contra-acareacao-autorizada-a-pf-por-dino",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-08T05:00:50.000Z",
+      "topics": [
+        "stf"
       ]
     },
     {
@@ -203,16 +409,6 @@
       "title": "A nova vanguarda de Tarsila: herdeira conecta nova geração às obras da artista morta há mais de 50 anos",
       "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/02/08/a-nova-vanguarda-de-tarsila-herdeira-conecta-nova-geracao-as-obras-da-artista-morta-ha-mais-de-50-anos.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-08T05:00:32.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "e8d3da58bdd43d7a",
-      "title": "Adesivos nos olhos são nova técnica de skincare masculino; conheça",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/colunas/ilca-maria-estevao/adesivos-nos-olhos-sao-nova-tecnica-de-skincare-masculino-conheca",
-      "source": "Metrópoles",
       "dateISO": "2026-02-08T05:00:32.000Z",
       "topics": [
         "saude"
@@ -424,16 +620,6 @@
       "link": "https://oantagonista.com.br/brasil/o-que-significa-para-um-agente-de-transito-quando-um-carro-esta-usando-pisca-alerta-em-movimento/",
       "source": "O Antagonista",
       "dateISO": "2026-02-08T01:30:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "f0c5f49313a9fbab",
-      "title": "Assista aos telejornais da TV Liberal",
-      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T00:55:10.000Z",
       "topics": [
         "saude"
       ]
@@ -720,26 +906,6 @@
       ]
     },
     {
-      "id": "1d53150b79db1ca2",
-      "title": "Ambulância que fazia resgate de idosa se envolve em acidente em Franca, SP",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/02/07/ambulancia-que-fazia-resgate-de-idosa-se-envolve-em-acidente-em-franca-sp.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T22:25:07.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "8d4949944e6ca15a",
-      "title": "Jovem é assassinado a tiros em frente a supermercado em Boa Vista ",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/02/07/jovem-e-assassinado-a-tiros-em-frente-a-supermercado-em-boa-vista.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T22:22:26.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "e96f7d0b82b942d3",
       "title": "Braga Netto pede ao STF para cursar faculdade a dist�ncia e ter TV a cabo na pris�o",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/02/braga-netto-pede-ao-stf-para-cursar-faculdade-a-distancia-e-ter-tv-a-cabo-na-prisao.shtml",
@@ -747,66 +913,6 @@
       "dateISO": "2026-02-07T22:21:00.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "d0d969aec95f7564",
-      "title": "VÍDEOS: Jornal do Acre 1ª edição deste sábado, 7 de fevereiro de 2026",
-      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-deste-sabado-7-de-fevereiro-de-2026.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T22:20:53.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c9c2efb14fa0d191",
-      "title": "Briga generalizada por assento em ônibus coletivo termina com mulher agredida com pedaço de ferro e mordida",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/02/07/briga-generalizada-por-assento-em-onibus-coletivo-termina-com-mulher-agredida-com-pedaco-de-ferro-e-mordida.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T22:17:32.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "8140ebe0779b11e3",
-      "title": "Queda de árvores, pontos de alagamento, evento cancelado: temporal deixa estragos em Ribeirão Preto, SP",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/02/07/queda-de-arvores-pontos-de-alagamento-evento-cancelado-temporal-deixa-estragos-em-ribeirao-preto-sp.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T22:14:42.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "7d53cdcc2bc1eb66",
-      "title": "Cavalgada homenageia Yasmin Amorim, menina com câncer que teve R$ 2,5 milhões destinados ao tratamento desviado por empresários",
-      "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/02/07/cavalgada-homenagem-yasmin-amorim.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T22:13:06.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "b9e73e775e719411",
-      "title": "Relatório aponta falhas e prejuízo R$ 4,5 milhões na compra de kits do ‘Aedes do Bem’ pela Prefeitura de Rio Branco",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/02/07/relatorio-aponta-falhas-e-prejuizo-r-45-milhoes-na-compra-de-kits-do-aedes-do-bem-pela-prefeitura-de-rio-branco.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T22:13:06.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "9f94e2a668ffc11a",
-      "title": "Filme 'Mulheres que Sustentam a Amazônia’ dá visibilidade à força feminina no campo",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/02/07/filme-mulheres-que-sustentam-a-amazonia-da-visibilidade-a-forca-feminina-no-campo.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T22:07:11.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
@@ -820,81 +926,11 @@
       ]
     },
     {
-      "id": "37f48bd8a9ebc29a",
-      "title": "Secretário que pediu exoneração é denunciado por assédio sexual de ex-servidora em Cuiabá ",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/02/07/secretario-pediu-exoneracao-e-denunciado-por-assedio-sexual-de-ex-servidora-em-cuiaba.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T22:00:59.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "32cf935bf7702c88",
-      "title": "Viviane de Moraes integra a defesa de sócio de Vorcaro na Biomm",
-      "link": "https://www.poder360.com.br/poder-justica/viviane-de-moraes-integra-a-defesa-de-socio-de-vorcaro-na-biomm/",
-      "source": "Poder360",
-      "dateISO": "2026-02-07T21:51:52.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "76adf7a268d066d6",
-      "title": "Com chuva, cratera mais antiga também cede e aumenta de tamanho na Zona Sul de São José",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/02/07/com-chuva-cratera-mais-antiga-tambem-cede-e-aumenta-de-tamanho-na-zona-sul-de-sao-jose.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T21:51:38.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "ac1a304eb3c208be",
-      "title": "Chuva em SP causa alagamentos e afasta parte do público dos blocos; veja imagens ",
-      "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/07/chuva-em-sp-causa-alagamentos-e-afasta-parte-do-publico-dos-blocos-veja-imagens.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T21:49:41.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "498cc18e3fde21ab",
       "title": "Classe dominante brasileira entende o Estado como dela, diz Haddad",
       "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/classe-dominante-brasileira-entende-o-estado-como-dela-diz-haddad",
       "source": "Agência Brasil",
       "dateISO": "2026-02-07T21:48:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "23513a46947a100b",
-      "title": "Buscas por mineradores sequestrados revelam valas e corpos perto de mina no México",
-      "link": "https://g1.globo.com/mundo/noticia/2026/02/07/mineradores-sequestrados-buscas.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T21:46:54.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "0a5cf27ea80faa9a",
-      "title": "VÍDEO: Homem é cercado e assaltado por criminosos em duas motos em Juiz de Fora",
-      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/02/07/video-homem-e-cercado-e-assaltado-por-criminosos-em-duas-motos-em-juiz-de-fora.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T21:46:39.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "3c25e74cc93da4d0",
-      "title": "Homem é preso após roubar salão de beleza em Fortaleza",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/02/07/homem-e-preso-apos-roubar-salao-de-beleza-em-fortaleza.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T21:35:20.000Z",
       "topics": [
         "saude"
       ]
@@ -1007,16 +1043,6 @@
       "dateISO": "2026-02-07T18:36:00.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "b993e42d09bc6503",
-      "title": "Corinthians tem conversas avançadas com Allan, do Flamengo",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-tem-conversas-avancadas-com-allan-do-flamengo/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-07T18:30:59.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
