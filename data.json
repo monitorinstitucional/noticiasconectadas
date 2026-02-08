@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-08T09:03:35.560Z",
+  "generatedAtISO": "2026-02-08T10:00:33.135Z",
   "failures": [
     {
       "name": "UOL",
@@ -77,6 +77,11 @@
       "error": "Status code 404"
     },
     {
+      "name": "Metrópoles",
+      "url": "https://www.metropoles.com/feed",
+      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    },
+    {
       "name": "Correio Braziliense",
       "url": "https://www.correiobraziliense.com.br/rss/ultimas.xml",
       "error": "Status code 404"
@@ -119,11 +124,133 @@
   ],
   "items": [
     {
+      "id": "e57716062efac947",
+      "title": "Horóscopo do dia: previsão para os 12 signos em 08/02/2026",
+      "link": "https://www.cartacapital.com.br/astrologia/horoscopo-do-dia-previsao-para-os-12-signos-em-08-02-2026/",
+      "source": "CartaCapital",
+      "dateISO": "2026-02-08T10:00:04.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "94bf530b74f4797a",
+      "title": "Saiba como o colchão Pillowmed virou referência em ajudar no alívio das dores",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/pillowmed-de-ferias-para-sua-coluna/noticia/2026/02/08/saiba-como-o-colchao-pillowmed-virou-referencia-em-ajudar-no-alivio-das-dores.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T09:45:28.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "e105d56ece5ca3b8",
+      "title": "Povos indígenas, preservação do mar, periferia e o jogo do bicho: escolas de samba encantam no 2º dia de desfiles em Santos",
+      "link": "https://g1.globo.com/sp/santos-regiao/carnaval/carnaval-2026-em-santos/noticia/2026/02/08/povos-indigenas-preservacao-mar-periferia-e-o-jogo-do-bicho-escolas-de-samba-encantam-no-2o-dia-de-desfiles-em-santos.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T09:38:52.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "9ed1a930b0364516",
+      "title": "STF e o Banco Master: os heróis de fancaria acordaram?",
+      "link": "https://revistaoeste.com/politica/stf-e-o-banco-master-os-herois-de-fancaria-acordaram/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-08T09:30:00.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "a9d40e2377ca9255",
+      "title": "Receita estima para 2026 menor risco fiscal com ações tributárias em 8 anos",
+      "link": "https://www.jota.info/tributos/receita-estima-para-2026-menor-risco-fiscal-com-acoes-tributarias-em-8-anos",
+      "source": "JOTA",
+      "dateISO": "2026-02-08T09:07:27.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "c5b4a1d853e3c687",
+      "title": "Entre as menores do país, praia em SC pode ser totalmente percorrida em apenas 26 passos; VÍDEO",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/02/08/entre-menores-pais-praiam-sc-percorrida-26-passos-video.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T09:01:29.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "a197aedb1d6b6c81",
+      "title": "Bloco de carnaval no hospital? Palhaços fazem a festa de pacientes internados em SP",
+      "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/08/bloco-de-carnaval-no-hospital-palhacos-fazem-a-festa-de-pacientes-internados-em-sp.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T09:00:57.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c9b32292383f532d",
+      "title": "Plantio consorciado ajuda pequenos agricultores a manter produção no interior de Roraima",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/02/08/plantio-consorciado-ajuda-pequenos-agricultores-a-manter-producao-no-interior-de-roraima.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T09:00:53.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "a9ea28b301600a19",
+      "title": "Carnavalesco da Tijuca tentará mostrar Carolina Maria de Jesus além do sofrimento conhecido em sua obra",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/08/carnavalesco-da-tijuca-tentara-mostrar-carolina-maria-de-jesus-alem-do-sofrimento-conhecido-em-sua-obra.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T09:00:51.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "c583ccaffb01399c",
       "title": "Jogos de hoje, domingo, 8 de fevereiro: onde assistir futebol ao vivo e horários",
       "link": "https://veja.abril.com.br/esporte/jogos-de-hoje-domingo-8-de-fevereiro-onde-assistir-futebol-ao-vivo-e-horarios/",
       "source": "Veja",
       "dateISO": "2026-02-08T09:00:39.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "a1dfb110ec24eaee",
+      "title": "Carro que ‘andou sozinho’ em garagem teve partida acionada por infiltração de água",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/02/08/carro-que-andou-sozinho-em-garagem-teve-partida-acionada-por-infiltracao-de-agua.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T09:00:36.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "46675ec19b67ee4b",
+      "title": "Entenda como projeto que mapeou o Coliseu de Roma pode ajudar na preservação do centros históricos paulistas",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/08/entenda-como-projeto-que-mapeou-o-coliseu-de-roma-pode-ajudar-na-preservacao-do-centros-historicos-paulistas.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T09:00:34.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "3ad1bee483c19ddf",
+      "title": "Eleições 2026: 18 dos 27 governadores não poderão disputar novo mandato neste ano",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/02/08/eleicoes-2026-governadores-reeleicao.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T09:00:32.000Z",
       "topics": [
         "saude"
       ]
@@ -562,26 +689,6 @@
       ]
     },
     {
-      "id": "bbc33684393c6677",
-      "title": "Derby Paulista movimenta penúltima rodada da 1ª fase do Paulistão",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/esportes/derby-paulista-movimenta-penultima-rodada-da-1a-fase-do-paulistao",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-08T05:00:51.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "5fba80454b13616d",
-      "title": "Transou sem camisinha? Infectologista revela o que fazer no Carnaval",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/colunas/pouca-vergonha/transou-sem-camisinha-infectologista-revela-o-que-fazer-no-carnaval",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-08T05:00:47.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "2d2c34499a6721de",
       "title": "Licenciamento 2026 para veículos do DF vence a partir do dia 23; veja o calendário e se programe",
       "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/02/08/licenciamento-2026-para-veiculos-do-df-vence-a-partir-do-dia-23-veja-o-calendario-e-se-programe.ghtml",
@@ -802,16 +909,6 @@
       ]
     },
     {
-      "id": "45053b5d4f8a2892",
-      "title": "Janja participa de ensaio de escola de samba que recebeu R$ 1 milhão do governo",
-      "link": "https://revistaoeste.com/politica/janja-participa-de-ensaio-de-escola-de-samba-que-recebeu-r-1-milhao-do-governo/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-08T00:42:40.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "f54dca8691c1f663",
       "title": "Pol�cia pede apreens�o de passaporte de adolescente suspeito de matar c�o Orelha",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/policia-pede-apreensao-de-passaporte-de-adolescente-suspeito-de-matar-cao-orelha.shtml",
@@ -827,16 +924,6 @@
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/02/anvisa-registra-seis-mortes-suspeitas-de-pancreatite-associadas-ao-uso-de-canetas-emagrecedoras.shtml",
       "source": "Folha de S.Paulo",
       "dateISO": "2026-02-08T00:35:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "4cd605d4c509d410",
-      "title": "Leila cobra apoio da Globo a futebol feminino: ‘Precisamos de investimento e melhores horários’",
-      "link": "https://istoe.com.br/leila-cobra-apoio-da-globo-a-futebol-feminino-precisamos-de-investimento-e-melhores-horarios",
-      "source": "IstoÉ",
-      "dateISO": "2026-02-08T00:25:00.000Z",
       "topics": [
         "saude"
       ]
@@ -962,36 +1049,6 @@
       ]
     },
     {
-      "id": "1161229f8c99a7e9",
-      "title": "Pela primeira vez, Defesa Civil emite alerta sonoro em celulares de moradores de Curitiba por risco de tempestade",
-      "link": "https://g1.globo.com/pr/parana/noticia/2026/02/07/alerta-sonoro-curitiba-tempestade-primeira-vez.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T23:01:38.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "309864940124e0cb",
-      "title": "Poetisa Adélia Prado recebe alta hospitalar e inicia recuperação em casa em Divinópolis",
-      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/02/07/poetisa-adelia-prado-recebe-alta-hospitalar-e-inicia-recuperacao-em-casa-em-divinopolis.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T23:01:35.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "1144f92a56b05b75",
-      "title": "Vídeo mostra momento que criança autista é resgatada de suspeito de estupro no AP",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/02/07/video-mostra-momento-que-crianca-autista-e-resgatada-de-suspeito-de-estupro-no-ap.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T23:01:26.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "bd3b6b3927e82c6e",
       "title": "Tribunal de �tica da OAB-SP vai analisar se advogado deve declarar proximidade com juiz ap�s caso Toffoli",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/tribunal-de-etica-da-oab-sp-vai-analisar-se-advogado-deve-declarar-proximidade-com-juiz-apos-caso-toffoli.shtml",
@@ -1089,16 +1146,6 @@
       "dateISO": "2026-02-07T21:01:00.000Z",
       "topics": [
         "saude"
-      ]
-    },
-    {
-      "id": "9494fe56a9da3cbb",
-      "title": "Esposa de Moraes assume novo caso no STF e defende empresário Lucas Kallas",
-      "link": "https://www.cnnbrasil.com.br/politica/esposa-de-moraes-assume-novo-caso-no-stf-e-defende-empresario-lucas-kallas/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-07T20:41:56.000Z",
-      "topics": [
-        "stf"
       ]
     },
     {
@@ -1270,16 +1317,6 @@
       "dateISO": "2026-02-07T14:53:00.000Z",
       "topics": [
         "saude"
-      ]
-    },
-    {
-      "id": "8eeb4544a2defb11",
-      "title": "STF manda governo do RJ apresentar imagens da ação no Alemão para perícia",
-      "link": "https://www.conjur.com.br/2026-fev-07/stf-manda-governo-do-rj-apresentar-imagens-da-acao-no-alemao-para-pericia/",
-      "source": "ConJur",
-      "dateISO": "2026-02-07T14:44:06.000Z",
-      "topics": [
-        "stf"
       ]
     },
     {
