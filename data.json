@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-08T20:58:21.038Z",
+  "generatedAtISO": "2026-02-08T21:56:39.909Z",
   "failures": [
     {
       "name": "UOL",
@@ -15,11 +15,6 @@
       "name": "O Globo",
       "url": "https://oglobo.globo.com/rss/oglobo.xml",
       "error": "Status code 404"
-    },
-    {
-      "name": "Metrópoles",
-      "url": "https://www.metropoles.com/feed",
-      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
     },
     {
       "name": "Correio Braziliense",
@@ -124,11 +119,202 @@
   ],
   "items": [
     {
+      "id": "38ce924761d777c8",
+      "title": "Próxima Balneário Camboriú já está a caminho",
+      "link": "https://oantagonista.com.br/brasil/proxima-balneario-camboriu-ja-esta-a-caminho/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-08T21:48:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c37cfa033ab8d874",
+      "title": "Torcedores entram em confronto em diversos bairros horas antes de partida entre Ceará x Fortaleza",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/02/08/torcedores-briga-jogo-fortaleza-ceara-classico-rei.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T21:39:52.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "d96139f42c7dde14",
+      "title": "Polícia investiga morte de aluna depois de nadar em piscina de academia de São Paulo",
+      "link": "https://revistaoeste.com/brasil/policia-investiga-morte-piscina-c4-gym/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-08T21:36:59.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b112b3cdb4aedd4e",
+      "title": "Seop apreende suspeitos de furtar celulares em blocos; PM recolhe mais de 130 objetos cortantes",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/08/suspeito-furto-celulares-blocos-pm-objetos-cortantes.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T21:36:40.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "29a7ad26370b8f5e",
+      "title": "Academia onde mulher morreu após nadar em piscina não tinha alvará; suspeita é de intoxicação por produtos químicos",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/02/08/academia-onde-mulher-morreu-apos-nadar-em-piscina-nao-tinha-alvara-de-funcionamento-suspeita-e-de-intoxicacao-por-produtos-quimicos.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T21:32:49.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "56c13f5048487506",
+      "title": "Três mulheres de 59, 70 e 71 anos são resgatadas após passarem mais de 20 horas perdidas em uma área de mata no litoral do PR",
+      "link": "https://g1.globo.com/pr/parana/noticia/2026/02/08/tres-mulheres-resgatadas-area-de-mata-litoral-do-pr.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T21:32:07.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "7fc99bf06fd18997",
+      "title": "Dupla é presa suspeita de render e roubar motorista de aplicativo em Jundiaí",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/02/08/dupla-e-presa-suspeita-de-render-e-roubar-motorista-de-aplicativo-em-jundiai.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T21:30:09.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "66cf066cd9af8004",
+      "title": "Incêndio atinge apartamento e mobiliza bombeiros no litoral de SP ",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/02/08/incendio-atinge-apartamento-e-mobiliza-bombeiros-no-litoral-de-sp.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T21:15:54.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c91dc4ed70eebf22",
+      "title": "Candidato do Partido Socialista é eleito presidente de Portugal",
+      "link": "https://revistaoeste.com/mundo/candidato-do-partido-socialista-e-eleito-presidente-de-portugal/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-08T21:14:30.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "1c97af85d76575fe",
+      "title": "Entenda como instalação de macromedidores muda controle de água em condomínios fechados de Piracicaba",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/02/08/entenda-como-instalacao-de-macromedidores-muda-controle-de-agua-em-condominios-fechados-de-piracicaba.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T21:08:32.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "0203dde25ba4e9c6",
+      "title": "\nPrazo para renegociar dívidas com Prefeitura de Mogi é prorrogado",
+      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/02/08/prazo-para-renegociar-dividas-com-prefeitura-de-mogi-e-prorrogado.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T21:07:45.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "d1310e5aab40523a",
+      "title": "Os vulcões mais assustadores do mundo que desafiam a ciência e a segurança humana",
+      "link": "https://oantagonista.com.br/ladooa/entretenimento/os-vulcoes-mais-assustadores-do-mundo-que-desafiam-a-ciencia-e-a-seguranca-humana/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-08T21:04:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "d8716e9efa1e7531",
+      "title": "Incêndio atinge memorial dedicado às vítimas de tragédia em Crans-Montana",
+      "link": "https://istoe.com.br/incendio-atinge-memorial-dedicado-as-vitimas-de-tragedia-em-crans-montana",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-08T21:01:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "e59c50095de5048c",
+      "title": "Portugal, Japão e Tailândia vão às urnas em contextos distintos",
+      "link": "https://istoe.com.br/portugal-japao-e-tailandia-vao-as-urnas-em-contextos-distintos",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-08T21:01:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "3523670ada1a17c6",
+      "title": "Castas do funcionalismo afrontam a Rep�blica",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lygia-maria/2026/02/castas-do-funcionalismo-afrontam-a-republica.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-08T21:00:00.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "52847340ad7c935c",
+      "title": "Mais censura na República do Tayayá",
+      "link": "https://revistaoeste.com/politica/mais-censura-na-republica-do-tayaya/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-08T21:00:00.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "833a5176f44acb6d",
+      "title": "Chuvas provocam alagamentos, queda de muros e aumento do nível das águas do Açude Velho, em Campina Grande",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/02/08/chuvas-provocam-alagamentos-queda-de-muros-e-aumento-do-nivel-das-aguas-do-acude-velho-em-campina-grande.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T20:59:55.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "82f115bc25c3f919",
       "title": "Chuvas fortes atingem litoral norte de SP e provocam deslizamento de terra na Rio-Santos",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/chuvas-fortes-atingem-litoral-norte-de-sp-e-provocam-deslizamento-de-terra-na-rio-santos.shtml",
       "source": "Folha de S.Paulo",
       "dateISO": "2026-02-08T20:54:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "833c610556304e7e",
+      "title": "Adolescente que morreu afogado tentou salvar amigo em açude no PI; nenhum sabia nadar, diz PM",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/02/08/adolescente-afogado-ajudou-amigo.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T20:53:47.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "7364e697dc6b64ad",
+      "title": "Você viu? Indígenas Yanomami criam peixes em tanques, morte de técnica, idoso preso com estufa de maconha e mais em RR",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/02/08/voce-viu-indigenas-yanomami-criam-peixes-em-tanques-morte-de-tecnica-idoso-preso-com-estufa-de-maconha-e-mais-em-rr.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T20:53:07.000Z",
       "topics": [
         "saude"
       ]
@@ -169,26 +355,6 @@
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/policiais-fantasiados-de-caca-fantasmas-prendem-3-sob-suspeita-de-furto-de-celular-na-consolacao.shtml",
       "source": "Folha de S.Paulo",
       "dateISO": "2026-02-08T20:40:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "ed2d9793fa587ddc",
-      "title": "Israel anuncia medidas para aumentar controle sobre a Cisjordânia ocupada",
-      "link": "https://istoe.com.br/israel-anuncia-medidas-para-aumentar-controle-sobre-a-cisjordania-ocupada",
-      "source": "IstoÉ",
-      "dateISO": "2026-02-08T20:33:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "9bc3a99e8baf32a0",
-      "title": "Itália conquista sua 8ª medalha nos Jogos Olímpicos de Inverno",
-      "link": "https://istoe.com.br/italia-conquista-sua-8a-medalha-nos-jogos-olimpicos-de-inverno",
-      "source": "IstoÉ",
-      "dateISO": "2026-02-08T20:26:00.000Z",
       "topics": [
         "saude"
       ]
@@ -284,8 +450,8 @@
       ]
     },
     {
-      "id": "42d8d6cc0d93556e",
-      "title": "Portugal elege António José Seguro como novo presidente, apontam prévias",
+      "id": "0843a43db6a06776",
+      "title": "Portugal elege António José Seguro como novo presidente",
       "link": "https://g1.globo.com/mundo/noticia/2026/02/08/portugal-elege-antonio-jose-seguro-presidente.ghtml",
       "source": "G1",
       "dateISO": "2026-02-08T20:03:43.000Z",
@@ -294,8 +460,8 @@
       ]
     },
     {
-      "id": "3dd8026c5e47d5be",
-      "title": "Chuva provoca deslizamento de terra, queda de ponte e alagamentos em ruas e casas na região de Jundiaí",
+      "id": "4596386cc7ed1d8a",
+      "title": "Chuva provoca deslizamento de terra, cratera em ponte e alagamentos em ruas e casas na região de Jundiaí",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/02/08/chuva-estragos-regiao-de-jundiai.ghtml",
       "source": "G1",
       "dateISO": "2026-02-08T20:01:48.000Z",
@@ -414,16 +580,6 @@
       ]
     },
     {
-      "id": "1d2d9c1bdd523ba5",
-      "title": "Como um quintal simples ficou com cara de resort mediterrâneo com uma simples reforma",
-      "link": "https://oantagonista.com.br/ladooa/entretenimento/como-um-quintal-simples-ficou-com-cara-de-resort-mediterraneo-com-uma-simples-reforma/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-08T19:18:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "2ded99aae693215d",
       "title": "Explosão em marina deixa 4 feridos com queimaduras em Florianópolis",
       "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/02/08/explosao-marina-feridos-queimaduras-florianopolis.ghtml",
@@ -504,8 +660,8 @@
       ]
     },
     {
-      "id": "f040c746411b0d06",
-      "title": "Suspeito de tentar decolar com helicóptero em aeroporto é preso em MG; homem disse que queria 'testar' a aeronave",
+      "id": "f17996d4015bfa96",
+      "title": "Homem invade aeroporto para 'testar' helicóptero, tenta decolar e derruba aeronave em MG",
       "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/02/08/suspeito-de-tentar-furtar-helicoptero-em-aeroporto-e-preso-em-mg-homem-disse-que-queria-testar-a-aeronave.ghtml",
       "source": "G1",
       "dateISO": "2026-02-08T19:05:20.000Z",
@@ -684,8 +840,8 @@
       ]
     },
     {
-      "id": "8c4f1480e2dd786f",
-      "title": "Casal é preso suspeito de furtar 16 celulares no pré-carnaval de Salvador",
+      "id": "6c1531ac2372fa4f",
+      "title": "Mulher é presa suspeito de furtar 15 celulares no pré-carnaval de Salvador",
       "link": "https://g1.globo.com/ba/bahia/noticia/2026/02/08/furto-de-celulares-no-pre-carnaval-de-salvador.ghtml",
       "source": "G1",
       "dateISO": "2026-02-08T18:10:42.000Z",
@@ -739,16 +895,6 @@
       "link": "https://g1.globo.com/ac/acre/noticia/2026/02/08/jovem-de-22-anos-e-morto-a-tiros-por-dois-homens-encapuzados-no-interior-do-acre.ghtml",
       "source": "G1",
       "dateISO": "2026-02-08T18:02:34.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "94bc22fbde91dea0",
-      "title": "Chuvas interditam trecho da Rio-Santos e colocam São Sebastião em alerta",
-      "link": "https://revistaoeste.com/brasil/chuvas-interditam-trecho-da-rio-santos-e-colocam-sao-sebastiao-em-alerta/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-08T17:55:47.000Z",
       "topics": [
         "saude"
       ]
@@ -954,101 +1100,11 @@
       ]
     },
     {
-      "id": "8d550ee174c60507",
-      "title": "Sem previsão de retorno, moradores de prédio interditado ao lado de cratera retiram pertences em São José",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/02/08/sem-previsao-de-retorno-moradores-de-predio-interditado-ao-lado-de-cratera-retiram-pertences-em-sao-jose.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T16:21:43.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "4638291e38e642f2",
-      "title": "Mogi das Cruzes recebe mais de 1,5 mil denúncias de maus-tratos contra animais em um ano",
-      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/02/08/mogi-das-cruzes-recebe-mais-de-15-mil-denuncias-de-maus-tratos-contra-animais-em-um-ano.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T16:21:27.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "e834947386cced12",
-      "title": "Vídeo flagra grupo rendendo vítimas com ‘mata-leão’ em assalto na saída da Catraia, em Santos",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/02/08/video-flagra-grupo-rendendo-vitimas-com-mata-leao-em-assalto-na-saida-da-catraia-em-santos.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T16:18:01.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "77e3bb909ad5a73a",
-      "title": "Ônibus com atletas de vôlei se envolve em acidente com carro em rodovia de Bauru",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/02/08/onibus-com-atletas-de-volei-se-envolve-em-acidente-com-carro-em-rodovia-de-bauru.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T16:16:34.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "e1247cd8dc6e139a",
-      "title": "Chuva volumosa alaga vias e atinge casas em Campinas; VÍDEO",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/08/chuva-volumosa-alaga-vias-e-atinge-casas-em-campinas-video.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T16:10:56.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "4190c97ae3afc0ef",
-      "title": "Rainha das Rainhas 2026: Layane Santos, do Guará Acqua Park, vence o maior concurso de beleza e fantasia da Amazônia; veja como foi",
-      "link": "https://g1.globo.com/pa/para/rainha-das-rainhas/oficial/ao-vivo/rainha-das-rainhas-2026-transmissao-ao-vivo-assistir.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T16:10:03.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "2faefe28276ebfc4",
-      "title": "Advogado é preso por violência doméstica em Itapira e PMs relatam ofensa: ‘Ganham R$ 1.500 por mês’",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/08/advogado-e-preso-por-violencia-domestica-em-itapira-e-pms-relatam-ofensa-ganham-r-1500-por-mes.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T16:03:19.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "13df7dbf35251583",
-      "title": "Corinthians x Palmeiras no Paulistão: onde assistir, horário e escalações",
-      "link": "https://veja.abril.com.br/esporte/corinthians-x-palmeiras-no-paulistao-onde-assistir-horario-e-escalacoes/",
-      "source": "Veja",
-      "dateISO": "2026-02-08T16:00:36.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "e48a14ca3cd4b436",
       "title": "Inspirada no Rio, Buenos Aires se mobiliza para salvar sua �ltima linha de bondes",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/inspirada-no-rio-buenos-aires-se-mobiliza-para-salvar-sua-ultima-linha-de-bondes.shtml",
       "source": "Folha de S.Paulo",
       "dateISO": "2026-02-08T16:00:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "aee5798d79cf62cf",
-      "title": "Mais de 2 toneladas de fios irregulares devem ser retirados de postes em Cuiabá",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/02/08/mais-de-2-toneladas-de-fios-irregulares-devem-ser-retirados-de-postes-em-cuiaba.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T15:57:27.000Z",
       "topics": [
         "saude"
       ]
@@ -1061,36 +1117,6 @@
       "dateISO": "2026-02-08T15:57:00.000Z",
       "topics": [
         "stf",
-        "saude"
-      ]
-    },
-    {
-      "id": "5875501da76d97dd",
-      "title": "Homem com veículo elétrico morre ao ser atingido por motocicleta em SC",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/02/08/homem-veiculo-eletrico-morre-atingido-motocicleta-sc.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T15:53:33.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "aee181ef45f9bf45",
-      "title": "Corpo de professora assassinada a facadas por aluno em RO é cremado em Salvador",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/02/08/corpo-de-professora-e-velado-em-salvador.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T15:53:25.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "0c24e585ee681e5b",
-      "title": "Jovem morto a tiros em frente a supermercado de Boa Vista era gari e foi vítima de latrocínio, diz PM",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/02/08/jovem-morto-a-tiros-em-frente-a-supermercado-de-boa-vista-era-gari-e-foi-vitima-de-latrocinio-diz-pm.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T15:52:10.000Z",
-      "topics": [
         "saude"
       ]
     },
@@ -1125,31 +1151,11 @@
       ]
     },
     {
-      "id": "13a92deb10ceb785",
-      "title": "Estamos vivendo uma epidemia de violência entre adolescentes, diz pediatra",
-      "link": "https://www.cnnbrasil.com.br/nacional/brasil/estamos-vivendo-uma-epidemia-de-violencia-entre-adolescentes-diz-pediatra/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-08T15:05:42.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "2774e9ada4b64c24",
       "title": "Fam�lia de adolescente morto acusa piloto Pedro Turra de ter orquestrado 'emboscada cruel'",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/familia-de-adolescente-morto-acusa-piloto-pedro-turra-de-ter-orquestrado-emboscada-cruel.shtml",
       "source": "Folha de S.Paulo",
       "dateISO": "2026-02-08T14:51:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "3a0a1effb476befa",
-      "title": "Deborah Secco passa perrengue com look no Baile da Vogue; veja",
-      "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/deborah-secco-passa-perrengue-com-look-no-baile-da-vogue-veja/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-08T14:35:47.000Z",
       "topics": [
         "saude"
       ]
@@ -1393,16 +1399,6 @@
       "link": "https://www.jota.info/stf/do-supremo/maioria-do-stf-valida-punicao-de-caixa-dois-como-crime-eleitoral-e-improbidade",
       "source": "JOTA",
       "dateISO": "2026-02-06T23:49:35.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "8b1b60ada6f039fd",
-      "title": "STF delibera sobre limitação de R$ 500 para anuidade da OAB",
-      "link": "https://www.congressoemfoco.com.br/noticia/116214/stf-delibera-sobre-limitacao-de-r-500-para-anuidade-da-oab",
-      "source": "Congresso em Foco",
-      "dateISO": "2026-02-06T21:52:18.000Z",
       "topics": [
         "stf"
       ]
