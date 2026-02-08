@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-07T23:47:45.999Z",
+  "generatedAtISO": "2026-02-08T00:12:56.978Z",
   "failures": [
     {
       "name": "UOL",
@@ -77,6 +77,11 @@
       "error": "Status code 404"
     },
     {
+      "name": "Metrópoles",
+      "url": "https://www.metropoles.com/feed",
+      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    },
+    {
       "name": "Correio Braziliense",
       "url": "https://www.correiobraziliense.com.br/rss/ultimas.xml",
       "error": "Status code 404"
@@ -119,6 +124,56 @@
   ],
   "items": [
     {
+      "id": "48fda2cecf12f2f2",
+      "title": "Evasão de pedágios em rodovias federais cresce mais de 50% em três anos",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/07/evasao-de-pedagios-em-rodovias-federais-cresce-mais-de-50percent-em-tres-anos.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T00:02:34.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "78cc1e11136cb99a",
+      "title": "Ministério da Agricultura unifica e simplifica regras para entrada de produtos agropecuários no Brasil",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/07/ministerio-da-agricultura-unifica-e-simplifica-regras-para-entrada-de-produtos-agropecuarios-no-brasil.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-07T23:59:21.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "255e496df8084dee",
+      "title": "Professora de Direito é assassinada por estudante em centro universitário de Porto Velho",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/07/professora-de-direito-e-assassinada-por-estudante-em-centro-universitario-de-porto-velho.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-07T23:52:24.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c85201b6f222edd2",
+      "title": "Ruas do Rio abrem espaço para mais de 460 blocos e mistura de ritmos ",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/07/ruas-do-rio-abrem-espaco-para-mais-de-460-blocos-e-mistura-de-ritmos.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-07T23:43:12.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f79f1749c26d3e96",
+      "title": "Quem tem empréstimo e quer trocar de banco para reduzir os juros já pode fazer isso pelo celular ",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/07/quem-tem-emprestimo-e-quer-trocar-de-banco-para-reduzir-os-juros-ja-pode-fazer-isso-pelo-celular.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-07T23:36:21.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "afb58050f041e7f4",
       "title": "Procurado pela Interpol, casal que administrava orfanato é preso em MG",
       "link": "https://revistaoeste.com/brasil/procurado-pela-interpol-casal-que-administrava-orfanato-e-preso-em-mg/",
@@ -134,36 +189,6 @@
       "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/02/07/enxurrada-provoca-interdicoes-quedas-de-arvores-e-arrasta-objetos-em-rio-bonito-oito-familias-estao-desalojadas.ghtml",
       "source": "G1",
       "dateISO": "2026-02-07T23:28:13.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "0fa5d47f9c64710c",
-      "title": "Nova York entra em alerta de frio extremo com sensação de -25 °C",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/mundo/nova-york-entra-em-alerta-de-frio-extremo-com-sensacao-de-25-c",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-07T23:27:07.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "a28c1ba7b2f9d474",
-      "title": "Prefeitura de São Sebastião aciona plano de contingência após temporal alagar ruas da cidade",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/02/07/prefeitura-de-sao-sebastiao-aciona-plano-de-contingencia-apos-temporal-alagar-ruas-da-cidade.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T23:23:59.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "9487c7e74d6a5f32",
-      "title": "Vocalista do 3 Doors Down, Brad Arnold, morre aos 47 anos",
-      "link": "https://veja.abril.com.br/cultura/vocalista-do-3-doors-down-brad-arnold-morre-aos-47-anos/",
-      "source": "Veja",
-      "dateISO": "2026-02-07T23:22:30.000Z",
       "topics": [
         "saude"
       ]
@@ -199,9 +224,9 @@
       ]
     },
     {
-      "id": "03ef8295b8b6e16e",
+      "id": "06602e8ee1a70db4",
       "title": "Cowboy engasga no BBB e brothers se desesperam",
-      "link": "https://www.cnnbrasil.com.br/entretenimento/cowboy-engasta-no-bbb-e-recebe-atendimento/",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/bbb/cowboy-engasta-no-bbb-e-recebe-atendimento/",
       "source": "CNN Brasil",
       "dateISO": "2026-02-07T23:14:36.000Z",
       "topics": [
@@ -229,11 +254,11 @@
       ]
     },
     {
-      "id": "a5985c68c0c8fce0",
-      "title": "Em meio a muito glitter, fantasias e chuva forte, Bloco Califórnia mantém público animado em pré-carnaval em Ribeirão Preto, SP",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/02/07/em-meio-a-muito-glitter-fantasias-e-chuva-forte-bloco-california-mantem-publico-animado-em-pre-carnaval-em-ribeirao-preto-sp.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T23:02:28.000Z",
+      "id": "e6b4e1da1642dcf5",
+      "title": "Confúcio, o pensador chinês: “O homem que move montanhas começa carregando pedras pequenas.”",
+      "link": "https://oantagonista.com.br/ladooa/entretenimento/confucio-o-pensador-chines-o-homem-que-move-montanhas-comeca-carregando-pedras-pequenas/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-07T23:02:00.000Z",
       "topics": [
         "saude"
       ]
@@ -264,16 +289,6 @@
       "link": "https://g1.globo.com/ap/amapa/noticia/2026/02/07/video-mostra-momento-que-crianca-autista-e-resgatada-de-suspeito-de-estupro-no-ap.ghtml",
       "source": "G1",
       "dateISO": "2026-02-07T23:01:26.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "df7f7dbedb3d2994",
-      "title": "Caso Milena no BBB 26 expõe rótulos e autodiagnóstico nas redes",
-      "link": "https://veja.abril.com.br/comportamento/caso-milena-no-bbb-26-expoe-rotulos-e-autodiagnostico-nas-redes/",
-      "source": "Veja",
-      "dateISO": "2026-02-07T23:00:39.000Z",
       "topics": [
         "saude"
       ]
@@ -349,16 +364,6 @@
       ]
     },
     {
-      "id": "7b10c5615b298c91",
-      "title": "Samba é interrompido pela PM em BH, e organização denuncia truculência e intimidação",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/02/07/samba-e-interrompido-pela-pm-em-bh.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T22:41:42.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "d0f80d7fda6adc88",
       "title": "Prazo para tirar ou regularizar título eleitoral termina em maio",
       "link": "https://revistaoeste.com/politica/prazo-para-tirar-ou-regularizar-titulo-eleitoral-termina-em-maio/",
@@ -430,41 +435,11 @@
       ]
     },
     {
-      "id": "3dfdd68a5e44ec17",
-      "title": "Martínez retorna aos treinos no Corinthians após crise na Venezuela e inicia atividades em 2026",
-      "link": "https://istoe.com.br/martinez-retorna-aos-treinos-no-corinthians-apos-crise-na-venezuela-e-inicia-atividades-em-2026",
-      "source": "IstoÉ",
-      "dateISO": "2026-02-07T22:25:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "898cf1bfa6565643",
-      "title": "Contatos imediatos: ETs da polícia apreendem bebidas falsas em SP. Veja vídeo",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/sao-paulo/carnaval-policia-bebidas-sp",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-07T22:24:07.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "8d4949944e6ca15a",
       "title": "Jovem é assassinado a tiros em frente a supermercado em Boa Vista ",
       "link": "https://g1.globo.com/rr/roraima/noticia/2026/02/07/jovem-e-assassinado-a-tiros-em-frente-a-supermercado-em-boa-vista.ghtml",
       "source": "G1",
       "dateISO": "2026-02-07T22:22:26.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "1ea7e1b426bf2275",
-      "title": "STJ condena escola de SP a pagar R$ 1 milhão a família de aluna morta em excursão em 2015",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/02/07/stj-condena-escola-de-sp-a-pagar-r-1-milhao-a-familia-de-aluna-morta-em-excursao-em-2015.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T22:21:26.000Z",
       "topics": [
         "saude"
       ]
@@ -495,16 +470,6 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/02/07/briga-generalizada-por-assento-em-onibus-coletivo-termina-com-mulher-agredida-com-pedaco-de-ferro-e-mordida.ghtml",
       "source": "G1",
       "dateISO": "2026-02-07T22:17:32.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "f9ed73c6dfe8e48b",
-      "title": "Oeste Saúde, com Denise Steiner: assista ao programa de 7/2/2026",
-      "link": "https://revistaoeste.com/videos/oeste-saude/oeste-saude-com-denise-steiner-assista-ao-programa-de-7-2-2026/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-07T22:15:00.000Z",
       "topics": [
         "saude"
       ]
@@ -565,16 +530,6 @@
       "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/02/07/secretario-pediu-exoneracao-e-denunciado-por-assedio-sexual-de-ex-servidora-em-cuiaba.ghtml",
       "source": "G1",
       "dateISO": "2026-02-07T22:00:59.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "a6f0e2341fd4bc85",
-      "title": "As plantas mais perigosas do mundo que parecem inofensivas, mas podem causar danos graves ao simples toque",
-      "link": "https://oantagonista.com.br/ladooa/entretenimento/as-plantas-mais-perigosas-do-mundo-que-parecem-inofensivas-mas-podem-causar-danos-graves-ao-simples-toque/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-07T21:53:00.000Z",
       "topics": [
         "saude"
       ]
@@ -655,26 +610,6 @@
       "link": "https://g1.globo.com/ce/ceara/noticia/2026/02/07/homem-e-preso-apos-roubar-salao-de-beleza-em-fortaleza.ghtml",
       "source": "G1",
       "dateISO": "2026-02-07T21:35:20.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "06cdd8c671785225",
-      "title": "Carro capota na BR-210 em Macapá e deixa duas pessoas feridas",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/02/07/carro-capota-na-br-210-em-macapa-e-deixa-duas-pessoas-feridas.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T21:33:22.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "fa6a81160cd4a23b",
-      "title": "Nietzsche ensina: “Aquele que tem um ‘porquê’ para viver pode suportar quase qualquer ‘como’.”",
-      "link": "https://oantagonista.com.br/ladooa/entretenimento/nietzsche-ensina-aquele-que-tem-um-porque-para-viver-pode-suportar-quase-qualquer-como/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-07T21:33:00.000Z",
       "topics": [
         "saude"
       ]
@@ -830,16 +765,6 @@
       ]
     },
     {
-      "id": "e40e817ba5c24c0c",
-      "title": "Exerc�cios para assoalho p�lvico reduzem risco de incontin�ncia no p�s-parto",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/02/exercicios-para-assoalho-pelvico-reduzem-risco-de-incontinencia-no-pos-parto.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-07T21:04:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "13715dacebd54b57",
       "title": "Mulheres de 50 a 59 anos são maioria entre professores afastados por problemas de saúde na região de Piracicaba",
       "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/02/07/mulheres-de-50-a-59-anos-sao-maioria-entre-professores-afastados-por-problemas-de-saude-na-regiao-de-piracicaba.ghtml",
@@ -860,32 +785,11 @@
       ]
     },
     {
-      "id": "2f907577641d73b2",
-      "title": "Por que os juízes do STF acham que não devem satisfação a ninguém",
-      "link": "https://revistaoeste.com/politica/por-que-os-juizes-do-stf-acham-que-nao-devem-satisfacao-a-ninguem/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-07T21:00:00.000Z",
-      "topics": [
-        "stf",
-        "saude"
-      ]
-    },
-    {
       "id": "2880798b9e9a5552",
       "title": "Mandado de prisão por homicídio é cumprido no Santarenzinho",
       "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/02/07/mandado-de-prisao-por-homicidio-e-cumprido-no-santarenzinho.ghtml",
       "source": "G1",
       "dateISO": "2026-02-07T20:58:12.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "71848c2bb9bdb82c",
-      "title": "Leilão de banco tem imóveis a partir de R$ 39 mil em Goiás; veja detalhes",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/02/07/leilao-de-banco-tem-imoveis-a-partir-de-r-39-mil-em-goias-veja-detalhes.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T20:57:39.000Z",
       "topics": [
         "saude"
       ]
@@ -926,26 +830,6 @@
       "link": "https://g1.globo.com/ro/rondonia/noticia/2026/02/07/corpo-de-professora-assassinada-a-facadas-por-aluno-em-ro-e-transladado-para-a-ba.ghtml",
       "source": "G1",
       "dateISO": "2026-02-07T20:51:11.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "cd1f44856b55a7bc",
-      "title": "Ibama multa a Petrobras em mais de R$ 2 milhões por vazamento na Foz do Amazonas",
-      "link": "https://revistaoeste.com/economia/ibama-multa-a-petrobras-em-mais-de-r-2-milhoes-por-vazamento-na-foz-do-amazonas/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-07T20:45:46.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "6bb535f0ecc2f062",
-      "title": "Henrique Maderite e o 'sexta-feira, papai!': relembre o bordão que viralizou",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/02/07/henrique-maderite-e-o-sexta-feira-papai-relembre-o-bordao-que-viralizou.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T20:43:48.000Z",
       "topics": [
         "saude"
       ]
@@ -1011,16 +895,6 @@
       ]
     },
     {
-      "id": "6511793d630cee13",
-      "title": "Avalanches na Itália matam três esquiadores nas regiões dos Jogos Olímpicos de Inverno",
-      "link": "https://g1.globo.com/mundo/noticia/2026/02/07/avalanches-na-italia-matam-tres-esquiadores-nas-regioes-dos-jogos-olimpicos-de-inverno.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T20:34:09.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "11356874824fa977",
       "title": "VÍDEO: Homem é morto a tiros após ser perseguido por bandidos próximo a creche em MG",
       "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/02/07/video-homem-e-morto-a-tiros-apos-ser-perseguido-por-bandidos-proximo-a-creche-em-mg.ghtml",
@@ -1031,121 +905,11 @@
       ]
     },
     {
-      "id": "264aabe475b6646e",
-      "title": "Brad Arnold, vocalista do 3 Doors Down, morre aos 47 anos",
-      "link": "https://g1.globo.com/pop-arte/musica/noticia/2026/02/07/brad-arnold.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T20:29:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "aa89564883f470ef",
-      "title": "Trio de bolivianos é preso com mais de 300 kg de folhas de coca em ônibus no interior de SP",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/02/07/trio-de-bolivianos-e-preso-com-mais-de-300-kg-de-folhas-de-coca-em-onibus-no-interior-de-sp.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T20:25:59.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "8416ac8f463de6bf",
-      "title": "Sede de torcida do Paysandu é alvo de ataque em Belém um dia antes do Re-Pa",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/02/07/sede-de-torcida-do-paysandu-e-alvo-de-ataque-em-belem-um-dia-antes-do-re-pa.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T20:20:14.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "a826ddb64a5bdaa6",
-      "title": "Homem é preso suspeito de agredir a mãe com socos na cabeça em Taguaí",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/02/07/homem-e-preso-suspeito-de-agredir-a-mae-com-socos-na-cabeca-em-taguai.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T20:17:57.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "bd76ed41530390a7",
-      "title": "Dois primos são presos suspeitos de matar homem a tiros em São Geraldo do Baixio",
-      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/02/07/dois-primos-sao-presos-suspeitos-de-matar-homem-a-tiros-em-sao-geraldo-do-baixio.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T20:16:53.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "2afe339d370f3c0a",
-      "title": "Pedestre morre atropelado na Rodovia dos Bandeirantes em Jundiaí",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/02/07/pedestre-morre-atropelado-na-rodovia-dos-bandeirantes-em-jundiai.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T20:12:47.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "2b46a664599f1929",
-      "title": "VÍDEO: Homem é agredido com barra de ferro em posto de combustível em Rio Branco",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/02/07/video-homem-e-agredido-com-barra-de-ferro-em-posto-de-combustivel-em-rio-branco.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T20:12:46.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "6e825e10f87faaca",
-      "title": "Chuvas e ventania deixam feridos e causam prejuízos em Sergipe",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/02/07/chuvas-causam-transtornos-em-cidades-do-interior-de-sergipe.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T20:12:31.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "37637c1ca3ffa292",
       "title": "CPTM terá operação especial durante o Carnaval em São Paulo",
       "link": "https://www.poder360.com.br/poder-brasil/cptm-tera-operacao-especial-durante-o-carnaval-em-sao-paulo/",
       "source": "Poder360",
       "dateISO": "2026-02-07T20:07:06.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "5d1b281e0d9d4bb6",
-      "title": "VÍDEO: Nova cratera se abre em rua onde caminhão foi 'engolido' por buraco gigante em São José dos Campos",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/02/07/video-nova-cratera-se-abre-em-rua-onde-caminhao-foi-engolido-por-buraco-gigante-em-sao-jose-dos-campos.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T20:04:57.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "b438fe786dd89b9d",
-      "title": "Motorista erra manobra e ônibus derruba muro de casa em Campinas",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/07/motorista-erra-manobra-e-onibus-derruba-muro-de-casa-em-campinas.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T20:04:50.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "413e63bbc2dbbbe3",
-      "title": "VÍDEO: temporais com granizo derrubam árvores e fazem rio transbordar em SC",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/02/07/video-temporais-granizo-derrubam-arvores-rio-transbordar-sc.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T20:00:26.000Z",
       "topics": [
         "saude"
       ]
@@ -1168,16 +932,6 @@
       "dateISO": "2026-02-07T19:30:38.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "9a88a5c7a2093954",
-      "title": "Polícia quer apreender passaporte de envolvido na morte do cão Orelha",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/policia-quer-apreender-passaporte-de-quem-matou-cao-orelha",
-      "source": "Agência Brasil",
-      "dateISO": "2026-02-07T19:25:00.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
@@ -1292,31 +1046,11 @@
       ]
     },
     {
-      "id": "4b816c65f0419e92",
-      "title": "Protesto re�ne milhares em Mil�o contra os Jogos Ol�mpicos de Inverno",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/02/protesto-reune-milhares-em-milao-contra-os-jogos-olimpicos-de-inverno.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-07T17:16:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "d857a3e09a9c0930",
       "title": "Sabotagem interrompe viagens de trem na It�lia durante Jogos Ol�mpicos de Inverno",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/02/sabotagem-interrompe-viagens-de-trem-na-italia-durante-jogos-olimpicos-de-inverno.shtml",
       "source": "Folha de S.Paulo",
       "dateISO": "2026-02-07T16:37:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "0864503449727c54",
-      "title": "Guarda-civil � morto ao tentar impedir assalto a farm�cia na zona oeste de SP",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/guarda-civil-e-morto-ao-tentar-impedir-assalto-a-farmacia-na-zona-oeste-de-sp.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-07T16:30:00.000Z",
       "topics": [
         "saude"
       ]
@@ -1372,16 +1106,6 @@
       ]
     },
     {
-      "id": "98b23f466a3ef6d0",
-      "title": "Morre adolescente que foi agredido por piloto em Brasília",
-      "link": "https://www.cartacapital.com.br/sociedade/morre-adolescente-que-foi-agredido-por-piloto-em-brasilia/",
-      "source": "CartaCapital",
-      "dateISO": "2026-02-07T15:37:50.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "ee21c6f5c7bdf088",
       "title": "O jogo da linguagem",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/02/o-jogo-da-linguagem.shtml",
@@ -1392,31 +1116,11 @@
       ]
     },
     {
-      "id": "cf03fc7978f66772",
-      "title": "Adolescente agredido em briga no DF morre após 16 dias internado",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/adolescente-agredido-em-briga-no-df-morre-apos-16-dias-internado",
-      "source": "Agência Brasil",
-      "dateISO": "2026-02-07T15:26:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "6b67903a4bc03df4",
       "title": "Rio, Minas e São Paulo têm alerta de “grande perigo” para chuvas",
       "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/rio-minas-e-sao-paulo-tem-alerta-de-grande-perigo-para-chuvas",
       "source": "Agência Brasil",
       "dateISO": "2026-02-07T15:08:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "004cc879523bd608",
-      "title": "Quando o celular virou escritório: a era da autonomia mobile",
-      "link": "https://www.cartacapital.com.br/toquetec/quando-o-celular-virou-escritorio-a-era-da-autonomia-mobile/",
-      "source": "CartaCapital",
-      "dateISO": "2026-02-07T15:00:21.000Z",
       "topics": [
         "saude"
       ]
@@ -1521,16 +1225,6 @@
       "dateISO": "2026-02-07T10:30:53.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "3122da06d291f348",
-      "title": "Paradigma m�dico atual cria entraves a morte mais humana, diz Camila Appel",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/02/paradigma-medico-atual-cria-entraves-a-morte-mais-humana-diz-camila-appel.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-07T10:00:00.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
@@ -1642,8 +1336,7 @@
       "source": "BBC Brasil",
       "dateISO": "2026-02-06T20:00:49.000Z",
       "topics": [
-        "stf",
-        "saude"
+        "stf"
       ]
     },
     {
@@ -1652,16 +1345,6 @@
       "link": "https://www.congressoemfoco.com.br/noticia/116206/lula-afirma-ter-conversado-com-filho-sobre-suspeitas-na-cpmi-do-inss",
       "source": "Congresso em Foco",
       "dateISO": "2026-02-06T19:38:46.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "40ca89e52cdaf58d",
-      "title": "Perícia médica conclui que Bolsonaro tem doenças crônicas, mas não precisa de hospital",
-      "link": "https://www.jota.info/stf/do-supremo/pericia-medica-conclui-que-bolsonaro-tem-doencas-cronicas-mas-nao-precisa-de-hospital",
-      "source": "JOTA",
-      "dateISO": "2026-02-06T18:02:30.000Z",
       "topics": [
         "saude"
       ]
