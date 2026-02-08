@@ -1,6 +1,61 @@
 {
-  "generatedAtISO": "2026-02-08T11:00:58.730Z",
+  "generatedAtISO": "2026-02-08T11:54:52.372Z",
   "failures": [
+    {
+      "name": "UOL",
+      "url": "https://rss.uol.com.br/feed/noticias.xml",
+      "error": "Feed not recognized as RSS 1 or 2."
+    },
+    {
+      "name": "Estadão",
+      "url": "https://www.estadao.com.br/rss/ultimas.xml",
+      "error": "Status code 404"
+    },
+    {
+      "name": "O Globo",
+      "url": "https://oglobo.globo.com/rss/oglobo.xml",
+      "error": "Status code 404"
+    },
+    {
+      "name": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/rss/ultimas.xml",
+      "error": "Status code 404"
+    },
+    {
+      "name": "Valor Econômico",
+      "url": "https://valor.globo.com/rss/valor.xml",
+      "error": "Status code 404"
+    },
+    {
+      "name": "R7",
+      "url": "https://noticias.r7.com/rss.xml",
+      "error": "Status code 404"
+    },
+    {
+      "name": "Migalhas",
+      "url": "https://www.migalhas.com.br/rss",
+      "error": "Status code 404"
+    },
+    {
+      "name": "DW Brasil",
+      "url": "https://rss.dw.com/rdf/rss-pt-br",
+      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: E"
+    },
+    {
+      "name": "O Tempo",
+      "url": "https://www.otempo.com.br/rss/ultimas",
+      "error": "Status code 404"
+    },
+    {
+      "name": "ICL Notícias",
+      "url": "https://iclnoticias.com.br/feed/",
+      "error": "Status code 403"
+    },
+    {
+      "name": "Crusoé",
+      "url": "https://revistacrusoe.com.br/feed/",
+      "error": "getaddrinfo ENOTFOUND revistacrusoe.com.br"
+    },
     {
       "name": "UOL",
       "url": "https://rss.uol.com.br/feed/noticias.xml",
@@ -60,64 +115,220 @@
       "name": "Crusoé",
       "url": "https://revistacrusoe.com.br/feed/",
       "error": "getaddrinfo ENOTFOUND revistacrusoe.com.br"
-    },
-    {
-      "name": "UOL",
-      "url": "https://rss.uol.com.br/feed/noticias.xml",
-      "error": "Feed not recognized as RSS 1 or 2."
-    },
-    {
-      "name": "Estadão",
-      "url": "https://www.estadao.com.br/rss/ultimas.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "O Globo",
-      "url": "https://oglobo.globo.com/rss/oglobo.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "Correio Braziliense",
-      "url": "https://www.correiobraziliense.com.br/rss/ultimas.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "Valor Econômico",
-      "url": "https://valor.globo.com/rss/valor.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "R7",
-      "url": "https://noticias.r7.com/rss.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "Migalhas",
-      "url": "https://www.migalhas.com.br/rss",
-      "error": "Status code 404"
-    },
-    {
-      "name": "DW Brasil",
-      "url": "https://rss.dw.com/rdf/rss-pt-br",
-      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: E"
-    },
-    {
-      "name": "O Tempo",
-      "url": "https://www.otempo.com.br/rss/ultimas",
-      "error": "Status code 404"
-    },
-    {
-      "name": "ICL Notícias",
-      "url": "https://iclnoticias.com.br/feed/",
-      "error": "Status code 403"
-    },
-    {
-      "name": "Crusoé",
-      "url": "https://revistacrusoe.com.br/feed/",
-      "error": "getaddrinfo ENOTFOUND revistacrusoe.com.br"
     }
   ],
   "items": [
+    {
+      "id": "684cbd6c3b4085b3",
+      "title": "Do curtume ao Carnaval: tradicional bloco 'Nem Sangue Nem Areia' completa 80 anos em Campinas",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/08/do-curtume-ao-carnaval-tradicional-bloco-nem-sangue-nem-areia-completa-80-anos-em-campinas.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T11:42:19.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "1751f68aeb3f7360",
+      "title": "Partido de primeira-ministra do Jap�o deve ganhar elei��es decisivas, mostra boca de urna",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/02/partido-de-primeira-ministra-do-japao-deve-ganhar-eleicoes-decisivas-mostra-boca-de-urna.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-08T11:41:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ae7c3880c1f396b9",
+      "title": "Motorista morre e duas pessoas ficam feridas em acidente entre carro e caminhonete na PR-323, no PR",
+      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/02/08/motorista-morre-e-duas-pessoas-ficam-feridas-em-acidente-na-pr-323.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T11:37:52.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "8803b96d353b6a57",
+      "title": "Japão e Noruega fazem mistura de madeira com areia e descobrem como transformar o deserto em concreto",
+      "link": "https://oantagonista.com.br/ladooa/tecnologia/japao-e-noruega-fazem-mistura-de-madeira-com-areia-e-descobrem-como-transformar-o-deserto-em-concreto/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-08T11:35:53.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "caa7023d7f31ad7b",
+      "title": "Urnas fecham no Japão; partido de premiê apoiada por Trump deve garantir maioria no parlamento, projeta emissora japonesa",
+      "link": "https://g1.globo.com/mundo/noticia/2026/02/08/eleicoes-legislativas-no-japao.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T11:35:45.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "98703bf0ba63d2aa",
+      "title": "Ruas Goiás, Pernambuco e MG-050 lideram acidentes de trânsito em Divinópolis; veja ranking",
+      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/02/08/ruas-goias-pernambuco-e-mg-050-lideram-acidentes-de-transito-em-divinopolis-veja-ranking.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T11:31:07.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "263807ba086a4a5b",
+      "title": "Devo lavar o frango cru? A resposta para a pergunta que divide as redes sociais",
+      "link": "https://g1.globo.com/saude/noticia/2026/02/08/lavar-frango-cru-a-resposta-para-a-pergunta-que-divide-as-redes-sociais.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T11:29:34.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "0d78ccf69ae368d5",
+      "title": "Suspeito de tentar assassinar general russo em Moscou é preso",
+      "link": "https://istoe.com.br/suspeito-de-tentar-assassinar-general-russo-em-moscou-e-preso",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-08T11:28:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "92e7d9ea931fa5ab",
+      "title": "Receita de torta de frutas amarelas tem massa crocante e recheio cremoso; aprenda",
+      "link": "https://g1.globo.com/pr/parana/caminhos-do-campo/receitas-paranaenses/noticia/2026/02/08/receita-de-torta-de-frutas-amarelas-tem-massa-crocante-e-recheio-cremoso-aprenda.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T11:24:49.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "21f461ad47925101",
+      "title": "Nipah, gripe K, aviária: doenças no radar de infectologistas em 2026",
+      "link": "https://www.poder360.com.br/poder-saude/nipah-gripe-k-aviaria-doencas-no-radar-de-infectologistas-em-2026/",
+      "source": "Poder360",
+      "dateISO": "2026-02-08T11:22:34.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "fe17d768c2fac586",
+      "title": "Cidad�o russo suspeito de atirar em general � preso em Dubai",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/02/cidadao-russo-suspeito-de-atirar-em-general-e-preso-em-dubai.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-08T11:21:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "244f6a338a8212a3",
+      "title": "PF e MPF ampliam investigações sobre fraudes financeiras no Banco Master",
+      "link": "https://revistaoeste.com/economia/master-pf-e-mpf-ampliam-investigacoes-sobre-fraudes-financeiras/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-08T11:16:52.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "657b843e185686ce",
+      "title": "Carnaval de Santos 2026: assista o desfile das escolas de samba",
+      "link": "https://g1.globo.com/sp/santos-regiao/carnaval/carnaval-2026-em-santos/ao-vivo/carnaval-de-santos-2026-assista-o-desfile-das-escolas-de-samba.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T11:16:16.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ab28f2825348caa8",
+      "title": "Virgens de Tambaú desfila neste domingo (8), em João Pessoa",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/02/08/virgens-de-tambau-desfila-neste-domingo-8-em-joao-pessoa.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T11:12:34.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "9b7492795173b87f",
+      "title": "Colisão entre carro e trem deixa um morto e um ferido grave em Magé",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/02/08/acidentre-entre-carro-e-trem-em-mage.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T11:09:57.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f648ac05024befce",
+      "title": "Feijão gordo: Jornal do Campo ensina receita de almoço tropeiro",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/02/08/feijao-gordo-jornal-do-campo-ensina-receita-de-almoco-tropeiro.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T11:02:53.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2bd75ae5270ab995",
+      "title": "Carnaval em Guaramiranga 2026: veja a programação do Festival Jazz & Blues",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/02/08/carnaval-em-guaramiranga-2026-veja-a-programacao-do-festival-jazz-and-blues.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T11:00:35.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "de0d02a78205463a",
+      "title": "Como doações de fiéis para pároco colocaram a Festa do Milho de Itapetininga no Calendário Nacional do Turismo",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/02/08/como-doacoes-de-fieis-para-paroco-colocaram-a-festa-do-milho-de-itapetininga-no-calendario-nacional-do-turismo.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T11:00:32.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "76a779b8e6f7e4c0",
+      "title": "Professor brasileiro recebe bênção do Vaticano após escrever carta ao Papa Leão XIV com sonhos e pedidos sociais",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/02/08/professor-brasileiro-recebe-bencao-do-vaticano-apos-escrever-carta-ao-papa-leao-xiv-com-sonhos-e-pedidos-sociais.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T11:00:31.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2b366ac6cd1233e1",
+      "title": "Jovem transforma história do pai em livro e reforça importância da rede de apoio na recuperação do alcoolismo",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/02/08/jovem-transforma-historia-do-pai-em-livro-e-reforca-importancia-da-rede-de-apoio-na-recuperacao-do-alcoolismo.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T11:00:29.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "7b7f7a6049cf0b26",
+      "title": "Políticas de inovação regulatória: o caso da ANTT",
+      "link": "https://www.conjur.com.br/2026-fev-08/politicas-de-inovacao-regulatoria-o-caso-da-antt/",
+      "source": "ConJur",
+      "dateISO": "2026-02-08T11:00:12.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
     {
       "id": "b7a4c097321cfad3",
       "title": "Associações de pacientes de Cannabis saem das sombras jurídicas",
@@ -129,22 +340,34 @@
       ]
     },
     {
+      "id": "614b484bf5c71978",
+      "title": "A advocacia como o fôlego da democracia",
+      "link": "https://revistaoeste.com/politica/a-advocacia-como-o-folego-da-democracia/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-08T11:00:00.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "f820772989fddb30",
+      "title": "Era uma vez o digital",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/02/era-uma-vez-o-digital.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-08T11:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "b36114990c03b01e",
       "title": "Governo muda percepção e prevê postura 'recatada' de Trump nas eleições brasileiras",
       "link": "https://g1.globo.com/politica/noticia/2026/02/08/governo-muda-percepcao-e-preve-postura-recatada-de-trump-nas-eleicoes-brasileiras.ghtml",
       "source": "G1",
       "dateISO": "2026-02-08T10:51:41.000Z",
       "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "0ef64b2d794aa155",
-      "title": "Corpo de professora morta por aluno é transferido para a Bahia",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/brasil/corpo-de-professora-morta-por-aluno-e-transferido-para-a-bahia",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-08T10:47:03.000Z",
-      "topics": [
+        "stf",
         "saude"
       ]
     },
@@ -189,16 +412,6 @@
       ]
     },
     {
-      "id": "30336e223ab84c98",
-      "title": "Rússia prende suspeitos de atentado a diretor de Inteligência",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/mundo/russia-prende-suspeitos-de-atentado-a-diretor-de-inteligencia",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-08T10:27:52.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "ac4eeab39d67f465",
       "title": "Custo de Vida na Região Metropolitana de SP sobe 4,71% em 2025",
       "link": "https://www.poder360.com.br/poder-economia/custo-de-vida-na-regiao-metropolitana-de-sp-sobe-471-em-2025/",
@@ -214,16 +427,6 @@
       "link": "https://oantagonista.com.br/ladooa/esportes/jogos-de-hoje-08-02-26-horarios-e-onde-assistir/",
       "source": "O Antagonista",
       "dateISO": "2026-02-08T10:09:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "43f8febcbf2e813c",
-      "title": "Anitta convida grupo religioso para conhecer orixás e deuses hindus",
-      "link": "https://www.poder360.com.br/poder-gente/anitta-convida-grupo-religioso-para-conhecer-orixas-e-deuses-hindus/",
-      "source": "Poder360",
-      "dateISO": "2026-02-08T10:07:19.000Z",
       "topics": [
         "saude"
       ]
@@ -348,6 +551,16 @@
       "dateISO": "2026-02-08T09:01:29.000Z",
       "topics": [
         "saude"
+      ]
+    },
+    {
+      "id": "7f7813e506327b4b",
+      "title": "Decisão de Dino sobre penduricalhos deve levar Lula a acelerar vetos",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/colunas/milena-teixeira/decisao-de-dino-pode-le",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-08T09:00:58.000Z",
+      "topics": [
+        "stf"
       ]
     },
     {
@@ -654,8 +867,8 @@
       ]
     },
     {
-      "id": "e3ac1202e47373bb",
-      "title": "Rússia diz que suspeitos de ataque ao general Alekseyev foram detidos nos Emirados Árabes",
+      "id": "d560028ec3278770",
+      "title": "Rússia diz que suspeito de ataque ao general Alekseyev foi detido nos Emirados Árabes",
       "link": "https://g1.globo.com/mundo/noticia/2026/02/08/suspeitos-ataque-general-alekseyev-detidos.ghtml",
       "source": "G1",
       "dateISO": "2026-02-08T07:01:26.000Z",
@@ -974,16 +1187,6 @@
       ]
     },
     {
-      "id": "207a8bfee43f149f",
-      "title": "Jogador do Sampaio Corrêa sofre convulsão em duelo contra o Flamengo",
-      "link": "https://revistaoeste.com/brasil/jogador-do-sampaio-correa-sofre-convulsao-em-duelo-contra-o-flamengo/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-08T02:21:33.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "1c3c9ba44aec2529",
       "title": "Primeira-ministra japonesa aposta em isen��o fiscal e ret�rica contra imigrantes em elei��o decisiva",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/02/primeira-ministra-japonesa-aposta-em-isencao-fiscal-e-retorica-contra-imigrantes-em-eleicao-decisiva.shtml",
@@ -1004,26 +1207,6 @@
       ]
     },
     {
-      "id": "37d293c285f7b215",
-      "title": "Acidente deixa 3 mortos e 8 feridos após caminhão invadir pista contrária e atingir van da Prefeitura de Teresópolis na BR-116",
-      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/02/07/acidente-com-van-de-transporte-de-pacientes-e-outros-tres-veiculos-deixa-mortos-e-feridos-na-rio-teresopolis.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T01:33:15.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "8736a0650683c9e7",
-      "title": "Rainha das Rainhas 2026: ordem de desfile, regras, prêmios e tudo que você precisa saber sobre o concurso em Belém",
-      "link": "https://g1.globo.com/pa/para/rainha-das-rainhas/oficial/noticia/2026/02/07/rainha-das-rainhas-2026-ordem-de-desfile-regras-premios-e-tudo-que-voce-precisa-saber-sobre-o-concurso-em-belem.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T01:30:29.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "f54dca8691c1f663",
       "title": "Pol�cia pede apreens�o de passaporte de adolescente suspeito de matar c�o Orelha",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/policia-pede-apreensao-de-passaporte-de-adolescente-suspeito-de-matar-cao-orelha.shtml",
@@ -1039,66 +1222,6 @@
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/02/anvisa-registra-seis-mortes-suspeitas-de-pancreatite-associadas-ao-uso-de-canetas-emagrecedoras.shtml",
       "source": "Folha de S.Paulo",
       "dateISO": "2026-02-08T00:35:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c270c443d4270b3f",
-      "title": "Filha de Túlio Maravilha passa em universidades públicas, mas não irá fazer cursos para ‘manter valores familiares’; vídeo",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/02/07/filha-de-tulio-maravilha-passa-em-universidades-publicas-mas-nao-ira-fazer-cursos-para-manter-valores-familiares-video.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T00:16:04.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "48fda2cecf12f2f2",
-      "title": "Evasão de pedágios em rodovias federais cresce mais de 50% em três anos",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/07/evasao-de-pedagios-em-rodovias-federais-cresce-mais-de-50percent-em-tres-anos.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T00:02:34.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "78cc1e11136cb99a",
-      "title": "Ministério da Agricultura unifica e simplifica regras para entrada de produtos agropecuários no Brasil",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/07/ministerio-da-agricultura-unifica-e-simplifica-regras-para-entrada-de-produtos-agropecuarios-no-brasil.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T23:59:21.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "255e496df8084dee",
-      "title": "Professora de Direito é assassinada por estudante em centro universitário de Porto Velho",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/07/professora-de-direito-e-assassinada-por-estudante-em-centro-universitario-de-porto-velho.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T23:52:24.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c85201b6f222edd2",
-      "title": "Ruas do Rio abrem espaço para mais de 460 blocos e mistura de ritmos ",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/07/ruas-do-rio-abrem-espaco-para-mais-de-460-blocos-e-mistura-de-ritmos.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T23:43:12.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "f79f1749c26d3e96",
-      "title": "Quem tem empréstimo e quer trocar de banco para reduzir os juros já pode fazer isso pelo celular ",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/07/quem-tem-emprestimo-e-quer-trocar-de-banco-para-reduzir-os-juros-ja-pode-fazer-isso-pelo-celular.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-07T23:36:21.000Z",
       "topics": [
         "saude"
       ]
@@ -1184,16 +1307,6 @@
       ]
     },
     {
-      "id": "d9f10691a890f1b6",
-      "title": "Palmeiras bate o Corinthians nos pênaltis e conquista a Supercopa Feminina",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras-bate-o-corinthians-nos-penaltis-e-conquista-a-supercopa-feminina/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-07T21:26:21.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "f82c277cd70e3c2c",
       "title": "Justiça decreta prisão de suspeito de matar professora em Porto Velho",
       "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/justica-decreta-prisao-de-suspeito-de-matar-professora-em-porto-velho",
@@ -1231,16 +1344,6 @@
       "dateISO": "2026-02-07T19:34:00.000Z",
       "topics": [
         "saude"
-      ]
-    },
-    {
-      "id": "da4417cf6fe34cdc",
-      "title": "Alexandre homologa acordo entre PGR e dois militares do núcleo 3 da tentativa de golpe",
-      "link": "https://www.conjur.com.br/2026-fev-07/alexandre-homologa-acordo-entre-pgr-e-dois-militares-do-nucleo-3-da-tentativa-de-golpe/",
-      "source": "ConJur",
-      "dateISO": "2026-02-07T19:30:38.000Z",
-      "topics": [
-        "stf"
       ]
     },
     {
@@ -1295,16 +1398,6 @@
       ]
     },
     {
-      "id": "c040d2d39bc75024",
-      "title": "Até onde vai a Justiça do Trabalho na execução contra grupo econômico",
-      "link": "https://www.conjur.com.br/2026-fev-07/ate-onde-vai-a-justica-do-trabalho-na-execucao-contra-grupo-economico/",
-      "source": "ConJur",
-      "dateISO": "2026-02-07T18:22:04.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
       "id": "3119ca379c7a78a9",
       "title": "Debate sobre mudan�a na NFL e tens�o ligada ao ICE marcam Super Bowl 60",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/02/debate-sobre-mudanca-na-nfl-e-tensao-ligada-ao-ice-marcam-super-bowl-60.shtml",
@@ -1315,31 +1408,11 @@
       ]
     },
     {
-      "id": "d857a3e09a9c0930",
-      "title": "Sabotagem interrompe viagens de trem na It�lia durante Jogos Ol�mpicos de Inverno",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/02/sabotagem-interrompe-viagens-de-trem-na-italia-durante-jogos-olimpicos-de-inverno.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-07T16:37:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "244e5627728b6f90",
       "title": "Governo lança edital para combate ao desmatamento na Amazônia",
       "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/governo-lanca-edital-para-combate-ao-desmatamento-na-amazonia",
       "source": "Agência Brasil",
       "dateISO": "2026-02-07T16:29:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "953030186a065b05",
-      "title": "Morre adolescente de 16 anos agredido por piloto em Bras�lia",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/morre-adolescente-de-16-anos-agredido-por-piloto-em-brasilia.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-07T16:16:00.000Z",
       "topics": [
         "saude"
       ]
