@@ -1,197 +1,42 @@
-/**
- * scripts/fetch-feeds.mjs
- * Gera data.json a partir do feeds.json (tópicos: "stf" e "saude")
- * - Filtra por keywords (case/acentos-insensitive)
- * - Deduplica por link, MESCLANDO topics (para uma notícia aparecer nas duas abas, se bater)
- * - Mantém janela KEEP_HOURS (para não crescer infinito)
- * - Corrige encoding/acentos (evita "�")
- */
+name: Update feeds
 
-import fs from "node:fs/promises";
-import crypto from "node:crypto";
-import Parser from "rss-parser";
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *" # roda a cada 30 minutos
 
-const FEEDS_FILE = "feeds.json";
-const OUT_FILE = "data.json";
-const KEEP_HOURS = 48;
+permissions:
+  contents: write
 
-const parser = new Parser({
-  timeout: 20000,
-  headers: {
-    "User-Agent": "Mozilla/5.0 (compatible; NoticiasConectadas/1.0)",
-    "Accept": "application/rss+xml, application/xml;q=0.9,*/*;q=0.8"
-  }
-});
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-/** Normaliza texto para busca: minúsculas + remove acentos */
-function normalizeForSearch(t) {
-  return (t || "")
-    .toString()
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "");
-}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-/**
- * Limpa/normaliza texto para exibição:
- * - remove bytes inválidos
- * - normaliza Unicode (NFC)
- * - remove HTML básico
- * - compacta espaços
- */
-function cleanText(text = "") {
-  let s = (text ?? "").toString();
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
 
-  // Remove o caractere de substituição, caso já tenha vindo quebrado
-  s = s.replace(/\uFFFD/g, "");
+      - name: Install dependencies
+        run: npm install
 
-  // Normaliza unicode (acentos)
-  s = s.normalize("NFC");
+      - name: Generate data.json
+        run: node scripts/fetch-feeds.mjs
 
-  // Remove tags HTML (simples)
-  s = s.replace(/<[^>]*>/g, " ");
+      - name: Commit data.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-  // Decodifica algumas entidades comuns
-  s = s
-    .replace(/&nbsp;/g, " ")
-    .replace(/&amp;/g, "&")
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">");
-
-  // Compacta espaços
-  s = s.replace(/\s+/g, " ").trim();
-
-  return s;
-}
-
-function matchesKeywords(text, keywords) {
-  if (!keywords || !keywords.length) return true; // sem keywords = não filtra
-  const t = normalizeForSearch(text);
-  return keywords.some(k => t.includes(normalizeForSearch(k)));
-}
-
-function pickDateISO(item) {
-  const raw = item.isoDate || item.pubDate || item.date;
-  if (!raw) return null;
-  const d = new Date(raw);
-  if (Number.isNaN(d.getTime())) return null;
-  return d.toISOString();
-}
-
-function makeId(source, link, title) {
-  return crypto
-    .createHash("sha1")
-    .update(`${source}||${link}||${title}`)
-    .digest("hex")
-    .slice(0, 16);
-}
-
-async function main() {
-  const config = JSON.parse(await fs.readFile(FEEDS_FILE, "utf-8"));
-
-  /** @type {Array<{name:string,url:string,error:string}>} */
-  const failures = [];
-
-  /** itens “brutos” antes da deduplicação */
-  const rawItems = [];
-
-  for (const topicKey of Object.keys(config)) {
-    const topic = config[topicKey] || {};
-    const feeds = topic.feeds || [];
-    const keywords = topic.keywords || [];
-
-    for (const feed of feeds) {
-      try {
-        const data = await parser.parseURL(feed.url);
-
-        for (const it of (data.items || [])) {
-          const link = (it.link || "").trim();
-          if (!link) continue;
-
-          const dateISO = pickDateISO(it);
-          if (!dateISO) continue;
-
-          const title = cleanText(it.title || "(sem título)");
-          const snippet = cleanText(it.contentSnippet || it.content || "");
-          const haystack = `${title} ${snippet}`;
-
-          if (!matchesKeywords(haystack, keywords)) continue;
-
-          const source = cleanText(feed.name || "Fonte");
-
-          rawItems.push({
-            id: makeId(source, link, title),
-            title,
-            link,
-            source,
-            dateISO,
-            topics: [topicKey]
-          });
-        }
-      } catch (err) {
-        failures.push({
-          name: feed.name,
-          url: feed.url,
-          error: cleanText(String(err?.message || err))
-        });
-      }
-    }
-  }
-
-  // Dedup por link, mesclando topics e mantendo o mais recente
-  const map = new Map();
-  for (const item of rawItems) {
-    const key = item.link;
-
-    if (!map.has(key)) {
-      map.set(key, item);
-      continue;
-    }
-
-    const prev = map.get(key);
-
-    // mescla topics
-    prev.topics = [...new Set([...(prev.topics || []), ...(item.topics || [])])];
-
-    // mantém o mais recente
-    if (new Date(item.dateISO) > new Date(prev.dateISO)) {
-      prev.dateISO = item.dateISO;
-      prev.title = item.title || prev.title;
-      prev.source = item.source || prev.source;
-      prev.id = item.id || prev.id;
-    }
-  }
-
-  let items = [...map.values()];
-
-  // Ordena: mais novo primeiro
-  items.sort((a, b) => new Date(b.dateISO) - new Date(a.dateISO));
-
-  // Mantém só janela de KEEP_HOURS
-  const cutoff = Date.now() - KEEP_HOURS * 60 * 60 * 1000;
-  items = items.filter(i => new Date(i.dateISO).getTime() >= cutoff);
-
-  const payload = {
-    generatedAtISO: new Date().toISOString(),
-    failures,
-    items
-  };
-
-  // >>> ESSENCIAL: escreve em UTF-8
-  await fs.writeFile(OUT_FILE, JSON.stringify(payload, null, 2), { encoding: "utf-8" });
-
-  console.log(`OK: ${items.length} notícias (failures: ${failures.length})`);
-}
-
-main().catch(async (err) => {
-  const fallback = {
-    generatedAtISO: new Date().toISOString(),
-    failures: [{ name: "script", url: "", error: String(err?.message || err) }],
-    items: []
-  };
-  await fs.writeFile(OUT_FILE, JSON.stringify(fallback, null, 2), { encoding: "utf-8" });
-  console.error(err);
-  process.exit(1);
-});
+          if git status --porcelain | grep data.json; then
+            git add data.json
+            git commit -m "Atualiza data.json automaticamente"
+            git push
+          else
+            echo "Nenhuma alteração em data.json"
+          fi
