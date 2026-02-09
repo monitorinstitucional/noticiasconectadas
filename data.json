@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-08T23:02:42.543Z",
+  "generatedAtISO": "2026-02-09T00:02:18.261Z",
   "failures": [
     {
       "name": "UOL",
@@ -77,11 +77,6 @@
       "error": "Status code 404"
     },
     {
-      "name": "Metrópoles",
-      "url": "https://www.metropoles.com/feed",
-      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    },
-    {
       "name": "Correio Braziliense",
       "url": "https://www.correiobraziliense.com.br/rss/ultimas.xml",
       "error": "Status code 404"
@@ -124,11 +119,191 @@
   ],
   "items": [
     {
+      "id": "fdda614a9ee8f812",
+      "title": "Batida impressionante interrompe corrida da Asian Le Mans Series",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/esportes/batida-impressionante-interrompe-corrida-da-asian-le-mans-series",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-08T23:59:19.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "9c35f2860e31cd49",
+      "title": "Dormir só mais um pouco sabota seu cérebro e aumenta a fadiga pela manhã",
+      "link": "https://oantagonista.com.br/ladooa/entretenimento/dormir-so-mais-um-pouco-sabota-seu-cerebro-e-aumenta-a-fadiga-pela-manha/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-08T23:50:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b2a803aecc5167c0",
+      "title": "Caso Orelha: investigação aponta adolescente como autor da agressão que levou à morte do cão; polícia pede internação do jovem",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/02/08/novas-informacoes-caso-orelha.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T23:49:46.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "a5b06c854a4740cf",
+      "title": "Mulher que doou rim para salvar a irmã engravida naturalmente três anos após transplante: 'obra de Deus'",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/02/08/mulher-doou-rim-engravida.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T23:40:27.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "314410e8a3273f84",
+      "title": "Com camisa do Brasil, Calvin Harris aparece no meio do público e é escoltado durante bloco de SP; VÍDEO",
+      "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/08/com-camisa-do-brasil-calvin-harris-aparece-no-meio-do-publico-e-escoltado-e-causa-tumulto-em-bloco-de-sp-video.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T23:40:26.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "14bb4dc34e4a1a82",
+      "title": "Advogada que sobreviveu a incêndio com queimaduras em 63% do corpo fala sobre recuperação e próximos passos",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/02/08/advogada-que-sobreviveu-a-incendio-com-queimaduras-em-63percent-do-corpo-fala-sobre-recuperacao-e-proximos-passos.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T23:36:02.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "d01d849fda7a7f69",
+      "title": "Ouro Safra mira expansão de faturamento com novos silos de grãos",
+      "link": "https://www.cnnbrasil.com.br/agro/ouro-safra-quer-expandir-silos-e-faturamento-bilionario-em-2026/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-08T23:35:25.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f42cf85ca55711c4",
+      "title": "Trump parabeniza Sanae Takaichi após eleições parlamentares: 'Honra apoiar você e sua Coalizão'",
+      "link": "https://g1.globo.com/mundo/noticia/2026/02/08/trump-sanae-takaichi-eleicoes-parlamentares.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T23:34:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f76459188c4885c3",
+      "title": "Mais de 26 kg de cocaína são apreendidos em fundo falso de carro no PI; motorista foi preso",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/02/08/mais-de-26-kg-de-cocaina-sao-apreendidos-em-fundo-falso-de-carro-no-pi-motorista-foi-preso.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T23:20:01.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "766eef9675b41f09",
+      "title": "Ovos de chocolate ficarão mais caros nesta Páscoa?",
+      "link": "https://www.cnnbrasil.com.br/agro/ovos-de-chocolate-ficarao-mais-caros-nesta-pascoa/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-08T23:18:58.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "7e12e19357f68d30",
+      "title": "Homem morre e companheira fica ferida após serem baleados na BA",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/02/08/homem-morre-e-companheira-fica-ferida-apos-serem-baleados-na-ba.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T23:14:29.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "d004faf54153794e",
+      "title": "Anitta se equilibra entre funk, samba e reggae em álbum trilíngue que trará Luedji Luna, Rincon Sapiência e King",
+      "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/02/08/anitta-se-equilibra-entre-funk-samba-e-reggae-em-album-trilingue-que-trara-luedji-luna-rincon-sapiencia-e-king.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T23:04:38.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "92eb0304860f4299",
+      "title": "Otto Alencar passa por cirurgia cardíaca de emergência",
+      "link": "https://revistaoeste.com/politica/otto-alencar-passa-por-cirurgia-cardiaca-de-emergencia/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-08T23:03:12.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "3c31bdb0116b8057",
+      "title": "Por que atletas de alto nível desenvolvem rotinas quase obsessivas",
+      "link": "https://oantagonista.com.br/ladooa/entretenimento/por-que-atletas-de-alto-nivel-desenvolvem-rotinas-quase-obsessivas/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-08T23:02:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "6ee764c5c9449420",
+      "title": "'Vencedores dessa noite são os portugueses e a democracia', afirma António José Seguro em 1º discurso como presidente eleito",
+      "link": "https://g1.globo.com/mundo/noticia/2026/02/08/antonio-jose-seguro-faz-seu-1o-discurso-como-presidente-eleito-de-portugal.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-08T22:56:28.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "78baa34fb6928c9e",
       "title": "‘Dama de Ferro’ do Japão, Takaichi obtém vitória eleitoral impressionante",
       "link": "https://istoe.com.br/dama-de-ferro-do-japao-takaichi-obtem-vitoria-eleitoral-impressionante",
       "source": "IstoÉ",
       "dateISO": "2026-02-08T22:55:10.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "df8af52c5fda2ce6",
+      "title": "Casal é preso suspeito de transportar drogas no porta-malas de um carro",
+      "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/casal-e-preso-suspeito-de-transportar-drogas-no-porta-malas-de-um-carro/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-08T22:53:25.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "1eb658d962b851bc",
+      "title": "Anitta releva nome do próximo álbum e canta música nova em show",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/anitta-releva-nome-do-proximo-album-e-canta-musica-nova-em-show/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-08T22:49:25.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "e71549f0d09bf8ad",
+      "title": "Corinthians x Palmeiras: escalações e onde assistir ao jogo do Paulistão",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/corinthians-x-palmeiras-escalacoes-e-onde-assistir-ao-jogo-do-paulistao/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-08T22:44:02.000Z",
       "topics": [
         "saude"
       ]
@@ -254,16 +429,6 @@
       ]
     },
     {
-      "id": "38ce924761d777c8",
-      "title": "Próxima Balneário Camboriú já está a caminho",
-      "link": "https://oantagonista.com.br/brasil/proxima-balneario-camboriu-ja-esta-a-caminho/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-08T21:48:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "97f33449365ddf6c",
       "title": "Torcedores entram em confronto em diversos bairros antes de partida entre Ceará x Fortaleza; vídeo",
       "link": "https://g1.globo.com/ce/ceara/noticia/2026/02/08/torcedores-briga-jogo-fortaleza-ceara-classico-rei.ghtml",
@@ -324,6 +489,16 @@
       ]
     },
     {
+      "id": "f05c1492288d5c81",
+      "title": "Suíça: memorial para vítimas de incêndio em estação de esqui pega fogo",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/mundo/suica-memorial-para-vitimas-de-incendio-em-estacao-de-esqui-pega-fogo",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-08T21:31:55.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "7fc99bf06fd18997",
       "title": "Dupla é presa suspeita de render e roubar motorista de aplicativo em Jundiaí",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/02/08/dupla-e-presa-suspeita-de-render-e-roubar-motorista-de-aplicativo-em-jundiai.ghtml",
@@ -349,6 +524,16 @@
       "link": "https://revistaoeste.com/mundo/candidato-do-partido-socialista-e-eleito-presidente-de-portugal/",
       "source": "Revista Oeste",
       "dateISO": "2026-02-08T21:14:30.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2c66737d6987a684",
+      "title": "Carnaval: coletivos no DF encontram na folia caminho para autocuidado",
+      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/carnaval-coletivos-no-df-encontram-na-folia-caminho-para-autocuidado",
+      "source": "Agência Brasil",
+      "dateISO": "2026-02-08T21:14:00.000Z",
       "topics": [
         "saude"
       ]
@@ -695,8 +880,8 @@
       ]
     },
     {
-      "id": "0328736d2e5d430a",
-      "title": "Move Brasil já liberou quase R$ 2 bilhões em um mês",
+      "id": "f49dd6a2c9d5ad12",
+      "title": "Move Brasil liberou quase R$ 2 bilhões para financiar caminhões",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/move-brasil-ja-liberou-quase-r-2-bilhoes-em-um-mes",
       "source": "Agência Brasil",
       "dateISO": "2026-02-08T19:13:00.000Z",
@@ -835,16 +1020,6 @@
       ]
     },
     {
-      "id": "51a9bb6face20d3f",
-      "title": "Suspeitos de furtar 30 celulares durante show da Anitta são presos em MG",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/suspeitos-de-furtar-30-celulares-durante-show-da-anitta-sao-presos-em-mg/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-08T18:52:31.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "ca6e9c033fd456f7",
       "title": "Temporal causa morte, queda de ponte e desabamento de muro em Laranjal Paulista ",
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/02/08/temporal-causa-morte-queda-de-ponte-e-desabamento-de-muro-em-laranjal-paulista.ghtml",
@@ -890,16 +1065,6 @@
       "link": "https://g1.globo.com/rr/roraima/noticia/2026/02/08/casal-fica-ferido-apos-motorista-ter-mal-subito-e-bater-carro-em-muro-no-asa-branca.ghtml",
       "source": "G1",
       "dateISO": "2026-02-08T18:28:23.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "81900ab668b40a54",
-      "title": "“Se o Palmeiras perder o Dérbi, vira freguês do Corinthians”, diz Morelli",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/se-o-palmeiras-perder-o-derbi-vira-fregues-do-corinthians-diz-morelli/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-08T18:26:27.000Z",
       "topics": [
         "saude"
       ]
@@ -985,46 +1150,6 @@
       ]
     },
     {
-      "id": "72a0464d2ae8bac4",
-      "title": "Brasil apresenta uniformes de estilista gaúcho nas Olimpíadas de Inverno",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/02/08/brasil-apresenta-uniformes-de-estilista-gaucho-nas-olimpiadas-de-inverno.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T17:55:16.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "aafb6b29cb394e28",
-      "title": "Maior romaria do Santuário Nacional, Terço dos Homens bate recorde e reúne 100 mil fiéis em Aparecida",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/02/08/maior-romaria-do-santuario-nacional-terco-dos-homens-bate-recorde-e-reune-100-mil-fieis-em-aparecida.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T17:38:01.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "069853e1af63cbbc",
-      "title": "Homem morre e outra pessoa é socorrida após afogamento na ilha Jurerê Nacional em Rosana",
-      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/02/08/afogamento-na-ilha-do-jurere-nacional-em-rosana.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T17:27:03.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "a8167ea01f61cf0b",
-      "title": "Arraial do Cabo inicia esquema de ordenamento, segurança e fiscalização para o Carnaval",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/02/08/arraial-do-cabo-inicia-esquema-de-ordenamento-seguranca-e-fiscalizacao-para-o-carnaval.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-08T17:19:35.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "960dfa0fcab403ce",
       "title": "O fator eleitoral no julgamento de indignidade de Jair Bolsonaro no STM",
       "link": "https://veja.abril.com.br/politica/o-fator-eleitoral-no-julgamento-de-indignidade-de-jair-bolsonaro-no-stm/",
@@ -1032,16 +1157,6 @@
       "dateISO": "2026-02-08T17:11:39.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "014df99df8fcd87d",
-      "title": "Cachaça envenenada: homem tenta matar vizinho com pinga contaminada",
-      "link": "https://www.cnnbrasil.com.br/nacional/centro-oeste/mt/cachaca-envenenada-homem-tenta-matar-vizinho-com-pinga-contaminada/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-08T17:06:01.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
@@ -1226,16 +1341,6 @@
       ]
     },
     {
-      "id": "c2edd1599bf37739",
-      "title": "TV Brasil exibe Paysandu x Remo neste domingo, às 16h50",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/tv-brasil-exibe-paysandu-x-remo-neste-domingo-16h50",
-      "source": "Agência Brasil",
-      "dateISO": "2026-02-08T11:21:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "f820772989fddb30",
       "title": "Era uma vez o digital",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/02/era-uma-vez-o-digital.shtml",
@@ -1366,26 +1471,6 @@
       "dateISO": "2026-02-07T08:10:53.000Z",
       "topics": [
         "saude"
-      ]
-    },
-    {
-      "id": "1175213807fcfae2",
-      "title": "STF: maioria define renda líquida como base de cálculo para pensão por morte de servidor",
-      "link": "https://www.jota.info/stf/do-supremo/stf-maioria-define-renda-liquida-como-base-de-calculo-para-pensao-por-morte-de-servidor",
-      "source": "JOTA",
-      "dateISO": "2026-02-07T00:00:57.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "b6e36c053035cc22",
-      "title": "Maioria do STF valida punição de caixa dois como crime eleitoral e improbidade",
-      "link": "https://www.jota.info/stf/do-supremo/maioria-do-stf-valida-punicao-de-caixa-dois-como-crime-eleitoral-e-improbidade",
-      "source": "JOTA",
-      "dateISO": "2026-02-06T23:49:35.000Z",
-      "topics": [
-        "stf"
       ]
     }
   ]
