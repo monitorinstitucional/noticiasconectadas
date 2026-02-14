@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-14T19:14:03.526Z",
+  "generatedAtISO": "2026-02-14T19:55:07.626Z",
   "failures": [
     {
       "name": "UOL",
@@ -72,6 +72,11 @@
       "error": "Status code 404"
     },
     {
+      "name": "Metrópoles",
+      "url": "https://www.metropoles.com/feed",
+      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    },
+    {
       "name": "Correio Braziliense",
       "url": "https://www.correiobraziliense.com.br/rss/ultimas.xml",
       "error": "Status code 404"
@@ -113,6 +118,247 @@
     }
   ],
   "items": [
+    {
+      "id": "1732e19f31662ba2",
+      "title": "Uma conversa com o senador que decidiu enfrentar o STF e o Banco Master",
+      "link": "https://revistaoeste.com/politica/uma-conversa-com-o-senador-que-decidiu-enfrentar-o-stf-e-o-banco-master/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-14T19:51:59.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "4ae33cbdfc5ba7a8",
+      "title": "Flanelinhas são conduzidos à delegacia por ação irregular em Cabo Frio",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/02/14/flanelinhas-sao-conduzidos-a-delegacia-por-acao-irregular-em-cabo-frio.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:47:39.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2e0c7f7a4ca4d697",
+      "title": "PRF apreende 213 kg de skunk dentro de caminhão frigorífico na BR-135, em Peritoró",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/02/14/prf-apreende-213-kg-de-skunk-dentro-de-caminhao-frigorifico-na-br-135-em-peritoro.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:45:12.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "96cf3597fc8273ad",
+      "title": "PM mobiliza Patrulha Maria da Penha para atuar durante o carnaval",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/14/pm-mobiliza-patrulha-maria-da-penha-para-atuar-durante-o-carnaval.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:42:23.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "68e994c88329cdd4",
+      "title": "Rodovias de SP têm 51 km de filas entre trânsito intenso, lentidão e congestionamento",
+      "link": "https://istoe.com.br/rodovias-de-sp-tem-51-km-de-filas-entre-transito-intenso-lentidao-e-congestionamento",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-14T19:39:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "db7812bd9e7b5a0f",
+      "title": "Professor da UFMG é denunciado por discriminação após fechar acesso a rampa de cadeirante e fazer deboche: 'Voltou a andar?'",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/02/14/professor-ufmg-denunciado-discriminacao.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:33:47.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "983b9819fd6ea207",
+      "title": "Ônibus escolar desce desgovernado e bate em casa na Serra Gaúcha",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/02/14/onibus-escolar-desce-desgovernado-e-bate-em-casa-na-serra-gaucha.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:32:04.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "472880487e8a37a6",
+      "title": "Desfile da Secretaria da Mulher destaca representatividade e inclusão no Carnaval de Teresópolis",
+      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/02/14/desfile-da-secretaria-da-mulher-destaca-representatividade-e-inclusao-no-carnaval-de-teresopolis.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:28:54.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "e13cabcda6869c4c",
+      "title": "Transmissão encerrada! ",
+      "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/ao-vivo/carnaval-de-salvador-2026-acompanhe-desfile-de-trios.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:27:38.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "94122b017a503b7e",
+      "title": "Policiais civis fantasiados de Jason, Batman e La Casa de Papel prendem suspeitos de furto",
+      "link": "https://istoe.com.br/policiais-civis-fantasiados-de-jason-batman-e-la-casa-de-papel-prendem-suspeitos-de-furto",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-14T19:25:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "d75ce006572f9108",
+      "title": "Master patrocinou ida de diretor da PF a Londres",
+      "link": "https://revistaoeste.com/politica/master-patrocinou-ida-de-diretor-da-pf-a-londres/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-14T19:23:52.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "059b691f20a902b1",
+      "title": "Cunhado de Fernandinho Beira-Mar é preso em Pernambuco",
+      "link": "https://www.cnnbrasil.com.br/nacional/nordeste/pe/cunhado-de-fernandinho-beira-mar-e-preso-em-pernambuco/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-14T19:23:34.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "16e4a13f8d9d21ed",
+      "title": "Filme de ficção científica 'Boa sorte, divirta-se, não morra' alerta sobre a IA com toque cômico",
+      "link": "https://g1.globo.com/pop-arte/cinema/noticia/2026/02/14/filme-de-ficcao-cientifica-boa-sorte-divirta-se-nao-morra-alerta-sobre-a-ia-com-toque-comico.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:22:12.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c5221a8a55b4c418",
+      "title": "Filho sob efeito de drogas e álcool agride mãe de 71 anos e é preso em MG  ",
+      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/02/14/filho-sob-efeito-de-drogas-e-alcool-agride-mae-de-71-anos-e-e-preso-em-mg.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:18:38.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "5312f620c4139492",
+      "title": "Homem é encontrado em carro submerso em rio em São Tomé das Letras",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/02/14/ocorrencias-de-transito-no-carnaval-do-sul-de-minas.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:16:28.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "381f0072cfe72355",
+      "title": "Canetas emagrecedoras: quando é indicado o uso do medicamento sem riscos à saúde",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/02/14/canetas-emagrecedoras-quando-e-indicado-o-uso-do-medicamento-sem-riscos-a-saude.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:15:15.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ce14e8672a7abdf5",
+      "title": "Vorcaro disse que foi cobrado por repasses a resort ligado a Toffoli",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/brasil/vorcaro-disse-que-foi-cobrado-por-repasses-a-resort-ligado-a-toffoli",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-14T19:14:40.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "4acfad727e6480d3",
+      "title": "Mulher tem dedo da mão amputado ao ser atacada com foice por outra em comunidade indígena de RR",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/02/14/mulher-tem-dedo-da-mao-amputado-ao-ser-atacada-com-foice-por-outra-em-comunidade-indigena-de-rr.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:14:10.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "9eab34290e9a12d0",
+      "title": "Criança é vítima de bala perdida enquanto brincava de pique-pega em rua de Araruama",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/02/14/crianca-e-vitima-de-bala-perdida-enquanto-brincava-de-pique-pega-em-rua-de-araruama.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:12:10.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "1fcab053bf9b72c1",
+      "title": "Inmet emite dois alertas de chuvas intensas para cidades do Sertão da Paraíba; veja lista",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/02/14/inmet-emite-dois-alertas-de-chuvas-intensas-para-cidades-do-sertao-da-paraiba-veja-lista.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:11:10.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b7d9ecefe2dad543",
+      "title": "Irmãos transformam silo centenário abandonado em super espaço de luxo",
+      "link": "https://oantagonista.com.br/ladooa/entretenimento/irmaos-transformam-silo-centenario-abandonado-em-super-espaco-de-luxo/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-14T19:11:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "9487fc7da68331bc",
+      "title": "Carnaval no oeste paulista deve reunir mais de 200 mil pessoas; polícia orienta sobre medidas de segurança",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/02/14/carnaval-no-oeste-paulista-deve-reunir-mais-de-200-mil-pessoas-policia-orienta-sobre-medidas-de-seguranca.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:09:47.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "75ad2eead43bc3ae",
+      "title": "Justiça determina pagamento de salário a 400 trabalhadores de empresa ambiental em Suzano",
+      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/02/14/justica-determina-pagamento-de-salario-a-400-trabalhadores-de-empresa-ambiental-em-suzano.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:09:07.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "33aa5dc18cc87e24",
+      "title": "Após roubo, homem retorna ao local para intimidar vítimas e acaba preso em Cabo Frio",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/02/14/apos-roubo-homem-retorna-ao-local-para-intimidar-vitimas-e-acaba-preso-em-cabo-frio.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T19:09:02.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
     {
       "id": "bd2f54b0abfa4f9b",
       "title": "VÍDEO: Capivara é flagrada em supermercado e retirada em carrinho no Acre",
@@ -246,13 +492,13 @@
       ]
     },
     {
-      "id": "6a2d9cc0d529ed97",
-      "title": "Moraes rejeita embargos de 7 réus do núcleo dos \"kids pretos\" de trama",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/colunas/manoela-alcantara/moraes-rejeita-embargos-de-7-reus-do-nucleo-dos-kids-pretos-de-trama",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-14T18:43:54.000Z",
+      "id": "405fa2a805bf0419",
+      "title": "Pegadas de dinossauros são achadas próximas dos Jogos de Inverno",
+      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/pegadas-de-dinossauros-sao-achadas-proximas-dos-jogos-de-inverno",
+      "source": "Agência Brasil",
+      "dateISO": "2026-02-14T18:42:00.000Z",
       "topics": [
-        "stf"
+        "saude"
       ]
     },
     {
@@ -353,26 +599,6 @@
       "dateISO": "2026-02-14T18:27:57.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "7b1aee902781cd48",
-      "title": "Após saída da Juventus, Tudor é anunciado como técnico do Tottenham",
-      "link": "https://istoe.com.br/apos-saida-da-juventus-tudor-e-anunciado-como-tecnico-do-tottenham",
-      "source": "IstoÉ",
-      "dateISO": "2026-02-14T18:26:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c8c9e46ebb2169a6",
-      "title": "Jornalista é preso suspeito de instalar câmera escondida em banheiro",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/brasil/jornalista-e-preso-suspeito-de-instalar-camera-escondida-em-banheiro",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-14T18:22:56.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
@@ -696,16 +922,6 @@
       ]
     },
     {
-      "id": "a95df8c24dcdc5ba",
-      "title": "MPTCU pede suspensão do salário de Marco Buzzi",
-      "link": "https://oantagonista.com.br/brasil/mptcu-pede-suspensao-do-salario-de-marco-buzzi/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-14T17:06:49.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "91e0df3a3cb579b3",
       "title": "Primeiro ca�a Gripen fabricado no Brasil deve ser apresentado em 25 de mar�o",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/primeiro-caca-gripen-fabricado-no-brasil-deve-ser-apresentado-em-25-de-marco.shtml",
@@ -866,33 +1082,12 @@
       ]
     },
     {
-      "id": "0e9e67b9e60e9512",
-      "title": "Eduardo Cunha negocia reabertura da rádio Jovem Pan no Rio",
-      "link": "https://www.poder360.com.br/poder-midia/eduardo-cunha-negocia-reabertura-da-radio-jovem-pan-no-rio/",
-      "source": "Poder360",
-      "dateISO": "2026-02-14T16:27:48.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "5a3a1f238886b709",
       "title": "Homem que estava com 5 mandados de prisão em aberto é preso no Vale do Jequitinhonha",
       "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/02/14/homem-que-estava-com-5-mandados-de-prisao-em-aberto-e-preso-no-vale-do-jequitinhonha.ghtml",
       "source": "G1",
       "dateISO": "2026-02-14T16:22:52.000Z",
       "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "772a2ed208004b91",
-      "title": "Careca do INSS avalia delação premiada, diz site",
-      "link": "https://revistaoeste.com/politica/careca-do-inss-avalia-delacao-premiada-diz-site/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-14T16:21:16.000Z",
-      "topics": [
-        "stf",
         "saude"
       ]
     },
@@ -927,36 +1122,6 @@
       ]
     },
     {
-      "id": "c5a7c5926a9471a8",
-      "title": "Mulher é encontrada em mata no Ceará após fugir de agressor e passar três dias desaparecida",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/02/14/mulher-e-encontrada-em-mata-no-ceara-apos-fugir-de-agressor-e-passar-tres-dias-desaparecida.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T16:12:19.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "d39798a7c1aa4f7c",
-      "title": "Estrela de 'Sex and the City', Sarah Jessica Parker participou do Baile da Arara; veja look",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/14/estrela-de-sex-and-the-city-sarah-jessica-parker-participou-do-baile-da-arara-veja-look.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T16:10:21.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "5bf68f8b5571f229",
-      "title": "Lotado, bloco Tarado Ni Você celebra cinema brasileiro e Caetano em São Paulo entre beijos e fantasias; veja fotos",
-      "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/14/lotado-bloco-tarado-ni-voce-celebra-cinema-brasileiro-e-caetano-em-sao-paulo.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T16:09:20.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "120ce3153d31e2c8",
       "title": "Sa�da de Toffoli de relatoria exp�e crise in�dita no STF e refor�a hist�rico de blindagem",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/saida-de-toffoli-de-relatoria-expoe-crise-inedita-no-stf-e-reforca-historico-de-blindagem.shtml",
@@ -964,76 +1129,6 @@
       "dateISO": "2026-02-14T16:06:00.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "a5d090c26954d10d",
-      "title": "Chapéu colorido? Fenômeno raro transforma nuvem em espetáculo de cores em Sorocaba",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/02/14/chapeu-colorido-fenomeno-raro-transforma-nuvem-em-espetaculo-de-cores-em-sorocaba.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T16:05:23.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c0c632c3b54d962c",
-      "title": "Dupla é presa com 90 comprimidos de ecstasy no Parque Anauá, em Boa Vista",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/02/14/dupla-e-presa-com-90-comprimidos-de-ecstasy-no-parque-anaua-em-boa-vista.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T16:04:40.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "181f322945c84a50",
-      "title": "Surfista enfrenta onda de 4 metros com boia de lhama em Fernando de Noronha; VÍDEO",
-      "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/02/14/surfista-enfrenta-onda-de-4-metros-com-boia-de-lhama-em-fernando-de-noronha-video.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T16:04:35.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "4a0ddbcda00bc30a",
-      "title": "Vídeo dançando em shopping faz influenciador monitorado por tornozeleira voltar a prisão em RO; entenda",
-      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/02/14/video-dancando-em-shopping-faz-influenciador-monitorado-por-tornozeleira-voltar-a-prisao-em-ro-entenda.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T16:04:10.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "f63241ea6bdf5a0d",
-      "title": "Homem é encontrado morto a facadas em ramal no interior do Acre",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/02/14/homem-e-encontrado-morto-a-facadas-em-ramal-no-interior-do-acre.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T16:02:48.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "ad16c71e68911080",
-      "title": "Tablete de maconha é apreendido dentro marmita que homem levava em ônibus abordado na LMG-653",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/02/14/tablete-de-maconha-e-apreendido-dentro-marmita-que-homem-levava-em-onibus-abordado-na-lmg-653.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T16:01:42.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "564bbc1616d930cd",
-      "title": "EPTV1 - Ribeirão e Franca",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T16:01:24.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
@@ -1047,26 +1142,6 @@
       ]
     },
     {
-      "id": "f0c5f49313a9fbab",
-      "title": "Assista aos telejornais da TV Liberal",
-      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T16:00:16.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "e44d40b5eeecc9f2",
-      "title": "Fundador do PT, José Álvaro Moisés morre afogado em Ubatuba (SP)",
-      "link": "https://revistaoeste.com/politica/jose-alvaro-moises-fundador-do-pt-morre-em-ubatuba/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-14T16:00:13.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "277bed6ac739ec2c",
       "title": "Toffoli � alvo de 10 pedidos de impeachment no Senado",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/toffoli-e-alvo-de-10-pedidos-de-impeachment-no-senado.shtml",
@@ -1077,16 +1152,6 @@
       ]
     },
     {
-      "id": "982af8bd2f9acadb",
-      "title": "Vai cair na folia? Veja dicas de como cuidar da saúde e da segurança no carnaval",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/02/14/vai-cair-na-folia-veja-dicas-de-como-cuidar-da-saude-e-da-seguranca-no-carnaval.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T15:59:50.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "e4a88c86532ad7be",
       "title": "STF forma maioria contra aposentadoria especial a vigilantes",
       "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/stf-forma-maioria-contra-aposentadoria-especial-vigilantes",
@@ -1094,26 +1159,6 @@
       "dateISO": "2026-02-14T15:52:00.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "63d6c4c4fb3a0696",
-      "title": "Veja o que abre e fecha em saúde, transporte, mercados e serviços públicos durante o Carnaval em Santos ",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/02/14/veja-o-que-abre-e-fecha-em-saude-transporte-mercados-e-servicos-publicos-durante-o-carnaval-em-santos.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T15:46:50.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "a16fdff067a37045",
-      "title": "Amiga diz que mar estava calmo antes de fundador do PT morrer afogado, em Ubatuba: 'uma tragédia'",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/02/14/amiga-diz-que-mar-estava-calmo-antes-de-fundador-do-pt-morrer-afogado-em-ubatuba-uma-tragedia.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T15:44:51.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
@@ -1187,16 +1232,6 @@
       ]
     },
     {
-      "id": "f64f7b1a1d4c67bb",
-      "title": "Amor ao samba e pertencimento animam carnaval da Intendente Magalhães",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/amor-ao-samba-e-pertencimento-animam-carnaval-da-intendente-magalhaes",
-      "source": "Agência Brasil",
-      "dateISO": "2026-02-14T14:32:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "846ee7b8f418491a",
       "title": "Casos Master e INSS fazem de Andr� Mendon�a coringa na elei��o",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/02/casos-master-e-inss-fazem-de-andre-mendonca-coringa-na-eleicao.shtml",
@@ -1204,16 +1239,6 @@
       "dateISO": "2026-02-14T14:28:00.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "d96c3358ac77548e",
-      "title": "SC tem alerta vermelho para alagamentos e deslizamentos na capital",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/sc-tem-alerta-vermelho-para-alagamentos-e-deslizamentos-na-capital",
-      "source": "Agência Brasil",
-      "dateISO": "2026-02-14T14:24:00.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
@@ -1257,16 +1282,6 @@
       ]
     },
     {
-      "id": "35c40a9ae86305f1",
-      "title": "Desembargador isenta Facebook de entregar manuais de moderação ao MPF",
-      "link": "https://www.conjur.com.br/2026-fev-14/desembargador-livra-facebook-de-entregar-manuais-de-moderacao-ao-mpf/",
-      "source": "ConJur",
-      "dateISO": "2026-02-14T13:18:06.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "99a9d43b9e41de1a",
       "title": "Pasolini avisou sobre a decad�ncia do mundo em pe�as publicadas no Brasil",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/02/pasolini-avisou-sobre-a-decadencia-do-mundo-em-pecas-publicadas-no-brasil.shtml",
@@ -1302,26 +1317,6 @@
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/02/especial-da-folha-mostra-avancos-e-tropecos-do-brasil-em-relacao-ao-mundo.shtml",
       "source": "Folha de S.Paulo",
       "dateISO": "2026-02-14T13:00:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "98379a45b9bbb0e8",
-      "title": "Exército diz que Mário Fernandes cumpre requisitos para visita íntima",
-      "link": "https://www.cnnbrasil.com.br/politica/exercito-diz-que-mario-fernandes-cumpre-requisitos-para-visita-intima/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-14T12:39:06.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "6249cabda316c812",
-      "title": "Lucas Pinheiro Braathen: o brasileiro que transforma sonho em ouro na neve",
-      "link": "https://www.cnnbrasil.com.br/esportes/olimpiadas/lucas-pinheiro-braathen-o-brasileiro-que-sonha-com-ouro-na-neve/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-14T12:37:06.000Z",
       "topics": [
         "saude"
       ]
@@ -1412,16 +1407,6 @@
       "link": "https://platobr.com.br/os-recados-a-pf-na-gravacao-vazada-do-supremo",
       "source": "PlatôBR",
       "dateISO": "2026-02-14T07:00:42.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "207d42f9354a644a",
-      "title": "Alcione sai em defesa do STF no Carnaval: 'Tem que respeitar'",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/carnaval/2026/02/carnaval-2026-alcione-sai-em-defesa-do-stf-tem-que-respeitar.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-14T06:00:00.000Z",
       "topics": [
         "stf"
       ]
