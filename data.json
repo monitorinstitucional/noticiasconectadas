@@ -1,6 +1,61 @@
 {
-  "generatedAtISO": "2026-02-14T09:54:14.809Z",
+  "generatedAtISO": "2026-02-14T10:58:21.327Z",
   "failures": [
+    {
+      "name": "UOL",
+      "url": "https://rss.uol.com.br/feed/noticias.xml",
+      "error": "Feed not recognized as RSS 1 or 2."
+    },
+    {
+      "name": "Estadão",
+      "url": "https://www.estadao.com.br/rss/ultimas.xml",
+      "error": "Status code 404"
+    },
+    {
+      "name": "O Globo",
+      "url": "https://oglobo.globo.com/rss/oglobo.xml",
+      "error": "Status code 404"
+    },
+    {
+      "name": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/rss/ultimas.xml",
+      "error": "Status code 404"
+    },
+    {
+      "name": "Valor Econômico",
+      "url": "https://valor.globo.com/rss/valor.xml",
+      "error": "Status code 404"
+    },
+    {
+      "name": "R7",
+      "url": "https://noticias.r7.com/rss.xml",
+      "error": "Status code 404"
+    },
+    {
+      "name": "Migalhas",
+      "url": "https://www.migalhas.com.br/rss",
+      "error": "Status code 404"
+    },
+    {
+      "name": "DW Brasil",
+      "url": "https://rss.dw.com/rdf/rss-pt-br",
+      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: E"
+    },
+    {
+      "name": "O Tempo",
+      "url": "https://www.otempo.com.br/rss/ultimas",
+      "error": "Status code 404"
+    },
+    {
+      "name": "ICL Notícias",
+      "url": "https://iclnoticias.com.br/feed/",
+      "error": "Status code 403"
+    },
+    {
+      "name": "Crusoé",
+      "url": "https://revistacrusoe.com.br/feed/",
+      "error": "getaddrinfo ENOTFOUND revistacrusoe.com.br"
+    },
     {
       "name": "UOL",
       "url": "https://rss.uol.com.br/feed/noticias.xml",
@@ -60,67 +115,214 @@
       "name": "Crusoé",
       "url": "https://revistacrusoe.com.br/feed/",
       "error": "getaddrinfo ENOTFOUND revistacrusoe.com.br"
-    },
-    {
-      "name": "UOL",
-      "url": "https://rss.uol.com.br/feed/noticias.xml",
-      "error": "Feed not recognized as RSS 1 or 2."
-    },
-    {
-      "name": "Estadão",
-      "url": "https://www.estadao.com.br/rss/ultimas.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "O Globo",
-      "url": "https://oglobo.globo.com/rss/oglobo.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "Correio Braziliense",
-      "url": "https://www.correiobraziliense.com.br/rss/ultimas.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "Valor Econômico",
-      "url": "https://valor.globo.com/rss/valor.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "R7",
-      "url": "https://noticias.r7.com/rss.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "Migalhas",
-      "url": "https://www.migalhas.com.br/rss",
-      "error": "Status code 404"
-    },
-    {
-      "name": "DW Brasil",
-      "url": "https://rss.dw.com/rdf/rss-pt-br",
-      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: E"
-    },
-    {
-      "name": "O Tempo",
-      "url": "https://www.otempo.com.br/rss/ultimas",
-      "error": "Status code 404"
-    },
-    {
-      "name": "ICL Notícias",
-      "url": "https://iclnoticias.com.br/feed/",
-      "error": "Status code 403"
-    },
-    {
-      "name": "Crusoé",
-      "url": "https://revistacrusoe.com.br/feed/",
-      "error": "getaddrinfo ENOTFOUND revistacrusoe.com.br"
     }
   ],
   "items": [
     {
-      "id": "8a5337d6aee27a77",
-      "title": "PF quer previsão legal para delegados pedirem suspeição de ministros do STF",
+      "id": "dcd67ac77a645cf7",
+      "title": "EUA autorizam operações de 5 petrolíferas na Venezuela",
+      "link": "https://revistaoeste.com/mundo/eua-autorizam-operacoes-de-5-petroliferas-na-venezuela/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-14T10:54:09.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "283cec725f7d3b65",
+      "title": "Ufopa doa equipamentos para laboratórios makers de escolas de Alenquer e Monte Alegre",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/02/14/ufopa-doa-equipamentos-para-laboratorios-makers-de-escolas-de-alenquer-e-monte-alegre.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T10:45:29.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "55ad77ca7cdfe4bd",
+      "title": "Carnaval 2026: oito cidades da região de Campinas adotam reconhecimento facial para reforçar segurança",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/14/carnaval-2026-oito-cidades-da-regiao-de-campinas-adotam-reconhecimento-facial-para-reforcar-seguranca.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T10:45:23.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "9fffe23c0e9160fa",
+      "title": "Velório de segundo filho morto por secretário é realizado na casa do avô, prefeito de Itumbiara",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/02/14/velorio-de-segundo-filho-morto-e-realizado-na-casa-do-avo-prefeito-de-itumbiara.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T10:44:22.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "16441f5b520bc009",
+      "title": "Tráfego na região das avenidas Litorânea e Beira-Mar é alterado durante o Carnaval; veja como fica",
+      "link": "https://g1.globo.com/ma/maranhao/carnaval/2026/noticia/2026/02/14/trafego-na-regiao-das-avenidas-litoranea-e-beira-mar-e-alterado-durante-o-carnaval-veja-como-fica.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T10:38:50.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2eaf4b810072f506",
+      "title": "Motoristas enfrentam trânsito de mais de 20 km para chegar ao litoral de SP no Carnaval; veja",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/02/14/motoristas-enfrentam-transito-de-mais-de-20-km-para-chegar-ao-litoral-de-sp-no-carnaval-veja.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T10:24:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "58609e0aa06a5dc3",
+      "title": "Ignorar a luz da injeção do carro pode transformar um defeito simples em prejuízo alto",
+      "link": "https://oantagonista.com.br/ladooa/carros/ignorar-a-luz-da-injecao-do-carro-pode-transformar-um-defeito-simples-em-prejuizo-alto/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-14T10:24:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "3c23a74f243ef263",
+      "title": "Mendonça desiste de evento na Espanha que terá advogado de Vorcaro",
+      "link": "https://oantagonista.com.br/brasil/mendonca-desiste-de-evento-na-espanha-que-tera-advogado-de-vorcaro/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-14T10:22:28.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "cf63bfe0f7e941af",
+      "title": "Carf desconsidera ‘emenda a recurso’ e mantém cobrança contra escritório Nelson Willians",
+      "link": "https://www.jota.info/tributos/carf-desconsidera-emenda-a-recurso-e-mantem-cobranca-contra-escritorio-nelson-willians",
+      "source": "JOTA",
+      "dateISO": "2026-02-14T10:22:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2cb6a1e32091a018",
+      "title": "Carnaval da Paz 2026: Miep e Acampamento Verbo da Vida começam neste sábado (14)",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/02/14/carnaval-da-paz-2026-miep-e-acampamento-verbo-da-vida-comecam-neste-sabado-14.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T10:20:26.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f46fcd412999cf80",
+      "title": "Credcesta, ligado ao Master, soma quase 3 milhões de consignados",
+      "link": "https://revistaoeste.com/economia/credcesta-ligado-ao-master-soma-quase-3-mi-de-consignados/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-14T10:14:47.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "1f34a243b8d8fb5d",
+      "title": "Jovens são presos suspeitos de vender atestados médicos falsos para o carnaval",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/02/14/jovens-sao-presos-suspeitos-de-vender-atestados-medicos-falsos-para-o-carnaval.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T10:14:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "65498b9c56fe1990",
+      "title": "Motorista de app é preso com garrafas de lança-perfume e cocaína na Grande Fortaleza",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/02/14/motorista-de-app-e-preso-com-garrafas-de-lanca-perfume-e-cocaina-na-grande-fortaleza.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T10:13:13.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f07ba5ecc95a6337",
+      "title": "STF decide que vigilantes não têm direito à aposentadoria especial do INSS",
+      "link": "https://revistaoeste.com/politica/stf-decide-que-vigilantes-nao-tem-direito-a-aposentadoria-especial-do-inss/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-14T10:05:48.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "e930fccfcdb91b15",
+      "title": "Marido diz que professora exonerada por faltas em Uberlândia trabalhava na escola da família durante os afastamentos",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/02/14/marido-diz-que-professora-exonerada-por-faltas-em-uberlandia-trabalhava-na-escola-da-familia-durante-os-afastamentos.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-14T10:01:01.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "afa00507a4534970",
+      "title": "O retiro espiritual do indicado de Lula ao STF no Carnaval",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/colunas/igor-gadelha/o-retiro-espiritual-do-indicado-de-lula-ao-stf-no-carnaval",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-14T10:00:58.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "d3ece9df4a975c60",
+      "title": "Entenda como funciona um processo de impeachment de ministro do STF",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/brasil/entenda-como-funciona-um-processo-de-impeachment-de-ministro-do-stf",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-14T10:00:55.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "a0e880cd58a4657b",
+      "title": "Frase do dia",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/blog-do-noblat/frases-do-dia/frase-do-dia-1680",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-14T10:00:43.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "bdb6b8c2430fb0d4",
+      "title": "Horóscopo do dia: previsão para os 12 signos em 14/02/2026",
+      "link": "https://www.cartacapital.com.br/astrologia/horoscopo-do-dia-previsao-para-os-12-signos-em-14-02-2026/",
+      "source": "CartaCapital",
+      "dateISO": "2026-02-14T10:00:04.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "06217ae3af5d11d8",
+      "title": "Entenda os maiores problemas sociais do Brasil e caminhos para soluções",
+      "link": "https://revistaoeste.com/brasil/problemas-sociais-do-brasil/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-14T10:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "33899687e74d7bcd",
+      "title": "PF quer previsão legal para pedir suspeição de ministros do STF",
       "link": "https://revistaoeste.com/politica/pf-quer-previsao-legal-para-delegados-pedirem-suspeicao-de-ministros-do-stf/",
       "source": "Revista Oeste",
       "dateISO": "2026-02-14T09:43:24.000Z",
@@ -165,16 +367,6 @@
       "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/02/14/video-dois-anos-apos-ameacar-matar-esposa-com-tiros-no-rosto-da-cunha-vai-a-evento-em-delegacia-de-defesa-da-mulher.ghtml",
       "source": "G1",
       "dateISO": "2026-02-14T09:23:46.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "bd32e5f6a8b7c505",
-      "title": "Anvisa indica vacina contra o HPV para prevenir mais tipos de câncer",
-      "link": "https://www.poder360.com.br/poder-saude/anvisa-indica-vacina-contra-o-hpv-para-prevenir-mais-tipos-de-cancer/",
-      "source": "Poder360",
-      "dateISO": "2026-02-14T09:20:51.000Z",
       "topics": [
         "saude"
       ]
@@ -265,16 +457,6 @@
       "link": "https://veja.abril.com.br/brasil/carnaval-hoje-em-sao-paulo-veja-as-interdicoes-no-transito/",
       "source": "Veja",
       "dateISO": "2026-02-14T09:00:56.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "88b880c529f33b54",
-      "title": "Renminbi: entenda o plano da China para ampliar moeda de reserva",
-      "link": "https://www.poder360.com.br/poder-china/renminbi-o-plano-da-china-para-ampliar-moeda-de-reserva/",
-      "source": "Poder360",
-      "dateISO": "2026-02-14T09:00:54.000Z",
       "topics": [
         "saude"
       ]
@@ -390,21 +572,31 @@
       ]
     },
     {
-      "id": "1728fb74892f6b34",
-      "title": "Jogos de hoje, 14/02/26: Horários e onde assistir",
-      "link": "https://oantagonista.com.br/ladooa/esportes/jogos-de-hoje-14-02-26-horarios-e-onde-assistir/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-14T08:39:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "6439da126dc1b6a3",
       "title": "O microssistema da tutela coletiva em tensão: é tempo de uma nova LACP?",
       "link": "https://www.jota.info/opiniao-e-analise/colunas/observatorio-constitucional/o-microssistema-da-tutela-coletiva-em-tensao-e-tempo-de-uma-nova-lacp",
       "source": "JOTA",
       "dateISO": "2026-02-14T08:30:59.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "4e3966a07063fd7a",
+      "title": "O temor do PT com a relatoria de André Mendonça no Caso Master",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/colunas/paulo-cappelli/o-temor-do-pt-com-a-relatoria-de-andre-mendonca-no-caso-master",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-14T08:30:44.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "ad2f71f8e5332c10",
+      "title": "Acordo para salvar Toffoli não o salvará e pegou mal para o STF",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/blog-do-noblat/ricardo-noblat/acordo-para-salvar-toffoli-nao-o-salvara-e-pegou-mal-para-o-stf",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-14T08:30:44.000Z",
       "topics": [
         "stf"
       ]
@@ -447,6 +639,16 @@
       "dateISO": "2026-02-14T08:00:53.000Z",
       "topics": [
         "saude"
+      ]
+    },
+    {
+      "id": "8df51cb2a6f1ff60",
+      "title": "A reação do Centrão à escolha de Mendonça como relator do Caso Master",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/colunas/igor-gadelha/a-reacao-do-centrao-a-escolha-de-mendonca-como-relator-do-caso-master",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-14T08:00:51.000Z",
+      "topics": [
+        "stf"
       ]
     },
     {
@@ -741,8 +943,8 @@
       ]
     },
     {
-      "id": "35acd22ee0d75a6f",
-      "title": "Do batuque de rua ao sambódromo em Batatais: conheça a história das escolas de samba",
+      "id": "3de335560de8b1f7",
+      "title": "Do batuque de rua ao sambódromo: conheça a história das escolas de samba de Batatais",
       "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/02/14/do-batuque-de-rua-ao-sambodromo-em-batatais-conheca-a-historia-das-escolas-de-samba.ghtml",
       "source": "G1",
       "dateISO": "2026-02-14T05:00:30.000Z",
@@ -871,96 +1073,6 @@
       ]
     },
     {
-      "id": "f59161e16e8eabc2",
-      "title": "Pesquisadores brasileiros desenvolvem composto químico inédito para o tratamento de malária",
-      "link": "https://oantagonista.com.br/saude/pesquisadores-brasileiros-desenvolvem-composto-quimico-inedito-para-tratamento-malaria/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-14T03:13:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "b3a54b167f5bec7f",
-      "title": "Segundo dia de carnaval em Salvador tem Liz no trio do pai e presenças de Ancelotti, Bruna Marquezine, Sasha e Jade Picon em camarotes ",
-      "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/noticia/2026/02/14/tudo-sobre-o-segundo-dia-de-carnaval-em-salvador.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T03:10:54.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "032086aadc49bc94",
-      "title": "Justiça libera atendimentos de urgência em ala provisória da Beneficência em Ribeirão Preto ",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/02/14/justica-libera-atendimentos-de-urgencia-em-ala-provisoria-da-beneficencia-em-ribeirao-preto.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T03:02:29.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "38bfd73f311e3df5",
-      "title": "Como planejar uma reforma sem estourar o orçamento em 2026",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/02/14/como-planejar-uma-reforma-sem-estourar-o-orcamento-em-2026.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T03:01:42.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "fbd4a2356a0d346f",
-      "title": "Evoé! Galo da Madrugada sai com 30 trios e atrações como Elba Ramalho, Priscila Senna, Chico César e Raphaela Santos ",
-      "link": "https://g1.globo.com/pe/pernambuco/carnaval/2026/noticia/2026/02/14/evoe-galo-da-madrugada-sai-com-30-trios-e-atracoes-como-elba-ramalho-priscila-senna-chico-cesar-e-raphaela-santos.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T03:01:32.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "83a77ce427844a4a",
-      "title": "Série Ouro: 2ª noite tem diversas homenagens a mulheres, além de funk, paisagismo e umbanda no samba",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/14/serie-ouro-dia-2.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T03:01:07.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "91f5e5fa11116f7c",
-      "title": "Folia com sol ou chuva? Veja previsão do tempo para o Carnaval no DF",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/02/14/folia-com-sol-ou-chuva-veja-previsao-do-tempo-para-o-carnaval-no-df.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T03:00:57.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "8a03ed8249fa8066",
-      "title": "Bola Preta, Céu na Terra, Banda de Ipanema... Confira os 57 blocos deste sábado do carnaval do Rio",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/14/bola-preta-ceu-na-terra-banda-de-ipanema-confira-os-57-blocos-deste-sabado-do-carnaval-do-rio.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T03:00:39.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "1687df44bfa4b2ca",
-      "title": "Carnaval 2026 em Rio Claro: conheça as escolas de samba que desfilam e os enredos deste ano",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/02/14/carnaval-2026-em-rio-claro-conheca-as-escolas-de-samba-que-desfilam-e-os-enredos-deste-ano.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T03:00:34.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "aab5d95ae7fe6dd8",
       "title": "Europa discute segurança e pede que EUA seja razoável",
       "link": "https://istoe.com.br/europa-discute-seguranca-e-pede-que-eua-seja-razoavel",
@@ -971,41 +1083,11 @@
       ]
     },
     {
-      "id": "92d7114c7eb37ca4",
-      "title": "Rei Momo e Rainha do Carnaval 2026 são escolhidos na primeira noite de folia em Rio Branco",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/02/13/rei-momo-e-rainha-do-carnaval-2026-sao-escolhidos-na-primeira-noite-de-folia-em-rio-branco.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T02:56:34.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "7e0c8dcc8fc0bf12",
       "title": "Morre segundo filho baleado pelo pai em Itumbiara",
       "link": "https://revistaoeste.com/brasil/morre-segundo-filho-baleado-pelo-pai-em-itumbiara/",
       "source": "Revista Oeste",
       "dateISO": "2026-02-14T02:55:05.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "48af96808e1dd4b4",
-      "title": "FOTOS: Destaques da primeira noite de desfiles no Carnaval de São Paulo",
-      "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/13/fotos-destaques-da-primeira-noite-de-desfiles-no-carnaval-de-sao-paulo.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T02:54:02.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "aa6c20d190ae10d2",
-      "title": "Fim de transmissão: confira mais do Carnaval de Salvador no g1 Bahia",
-      "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/ao-vivo/carnaval-de-salvador-2026-acompanhe-desfile-de-trios.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-14T02:47:01.000Z",
       "topics": [
         "saude"
       ]
@@ -1083,8 +1165,8 @@
       ]
     },
     {
-      "id": "3bd2c9759de058f3",
-      "title": "Caso Master: PF cita mensagens de Vorcaro sobre repasse milionário a resort de Toffoli",
+      "id": "8b787c81dbdfaec0",
+      "title": "Caso Master: PF cita mensagens de Vorcaro sobre ex-mulher de Toffoli e repasse milionário a resort",
       "link": "https://revistaoeste.com/politica/caso-master-pf-cita-mensagens-de-vorcaro-sobre-repasse-milionario-a-resort-de-toffoli/",
       "source": "Revista Oeste",
       "dateISO": "2026-02-14T01:14:16.000Z",
@@ -1114,30 +1196,10 @@
       ]
     },
     {
-      "id": "b386d9576304d53c",
-      "title": "A origem do Carnaval muito antes do samba",
-      "link": "https://revistaoeste.com/agronegocio/a-origem-do-carnaval-muito-antes-do-samba/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-14T01:00:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "e82fde1d24b23832",
       "title": "STF julga validade da aposentadoria especial para vigilantes ",
       "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/stf-julga-validade-da-aposentadoria-especial-para-vigilantes",
       "source": "Agência Brasil",
-      "dateISO": "2026-02-14T00:48:00.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "2ede07c4ea2bea4f",
-      "title": "STF julga validade da aposentadoria especial para vigilantes",
-      "link": "https://istoe.com.br/stf-julga-validade-da-aposentadoria-especial-para-vigilantes",
-      "source": "IstoÉ",
       "dateISO": "2026-02-14T00:48:00.000Z",
       "topics": [
         "stf"
@@ -1174,17 +1236,6 @@
       ]
     },
     {
-      "id": "35c7fe28b552c2e4",
-      "title": "PF investiga deputado Vinicius Gurgel em operação sobre desvios na BR-156",
-      "link": "https://revistaoeste.com/politica/pf-investiga-deputado-vinicius-gurgel-em-operacao-sobre-desvios-na-br-156/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-14T00:10:52.000Z",
-      "topics": [
-        "stf",
-        "saude"
-      ]
-    },
-    {
       "id": "0ef29cb1f71ee379",
       "title": "Exército diz ao STF que general pode receber visita íntima na prisão",
       "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/exercito-diz-ao-stf-que-general-pode-receber-visita-intima-na-prisao",
@@ -1216,16 +1267,6 @@
       ]
     },
     {
-      "id": "f87e31bb5acc68fc",
-      "title": "VRadio, o aplicativo (quase) completo",
-      "link": "https://revistaoeste.com/tecnologia/vradio-o-aplicativo-quase-completo/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-14T00:00:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "858ede5a0186bdaa",
       "title": "FGC antecipa até R$ 1 mil em garantias a clientes do Will Bank",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/fgc-antecipa-ate-r-1-mil-em-garantias-clientes-do-will-bank",
@@ -1243,16 +1284,6 @@
       "dateISO": "2026-02-13T23:44:51.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "dd0b314d5dd62c0e",
-      "title": "De Leste a Oeste, com Ana Paula Henkel: assista ao programa de 13/2/2026",
-      "link": "https://revistaoeste.com/videos/de-leste-a-oeste-com-ana-paula-henkel/de-leste-a-oeste-com-ana-paula-henkel-assista-ao-programa-de-13-2-2026/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-13T23:30:00.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
@@ -1397,16 +1428,6 @@
       ]
     },
     {
-      "id": "d4afaca019f14d8a",
-      "title": "Moraes vota contra leis que proíbem a linguagem neutra em escolas",
-      "link": "https://www.cartacapital.com.br/cartaexpressa/moraes-vota-contra-leis-que-proibem-a-linguagem-neutra-em-escolas/",
-      "source": "CartaCapital",
-      "dateISO": "2026-02-13T21:22:41.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
       "id": "65829bd1b38c53cc",
       "title": "Noves fora os motivos, Toffoli e PF tiveram atuações inéditas — virão consequências",
       "link": "https://platobr.com.br/noves-fora-os-motivos-toffoli-e-pf-tiveram-atuacoes-ineditas-virao-consequencias",
@@ -1437,17 +1458,6 @@
       ]
     },
     {
-      "id": "dfb7403ac33d48e1",
-      "title": "Zanin: Cidades de SC não podem dispensar comprovante de vacina contra Covid para crianças",
-      "link": "https://www.cartacapital.com.br/justica/zanin-cidades-de-sc-nao-podem-dispensar-comprovante-de-vacina-contra-covid-para-criancas/",
-      "source": "CartaCapital",
-      "dateISO": "2026-02-13T21:03:30.000Z",
-      "topics": [
-        "stf",
-        "saude"
-      ]
-    },
-    {
       "id": "2d508871ee5b8909",
       "title": "Delegados da PF querem mudar lei para poder pedir suspei��o de autoridades e citam caso Master",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/02/delegados-da-pf-querem-mudar-lei-para-poder-pedir-suspeicao-de-autoridades-e-citam-caso-master.shtml",
@@ -1456,16 +1466,6 @@
       "topics": [
         "stf",
         "saude"
-      ]
-    },
-    {
-      "id": "5187a973c9f2f698",
-      "title": "Reincidência não basta para afastar a aplicação do princípio da insignificância",
-      "link": "https://www.conjur.com.br/2026-fev-13/reincidencia-nao-basta-para-afastar-a-aplicacao-do-principio-da-insignificancia/",
-      "source": "ConJur",
-      "dateISO": "2026-02-13T20:51:15.000Z",
-      "topics": [
-        "stf"
       ]
     },
     {
@@ -1509,41 +1509,11 @@
       ]
     },
     {
-      "id": "2d3e4cb7c78d6f5c",
-      "title": "Salvador: Pelourinho tem 150 atrações no Carnaval; confira programação",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/salvador-pelourinho-tem-150-atracoes-no-carnaval-confira-programacao",
-      "source": "Agência Brasil",
-      "dateISO": "2026-02-13T19:53:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "56a26fb2458ef762",
       "title": "Anvisa estabelece diretrizes para a emiss�o de receitas controladas de forma digital",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/02/anvisa-estabelece-diretrizes-para-a-emissao-de-receitas-controladas-de-forma-digital.shtml",
       "source": "Folha de S.Paulo",
       "dateISO": "2026-02-13T19:45:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "9a79e805889281de",
-      "title": "E se o bife vier acompanhado de uma taxa de carbono?",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/josehenriquemariante/2026/02/e-se-o-bife-vier-acompanhado-de-uma-taxa-de-carbono.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-13T19:42:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "1b14fd9140a1b6e7",
-      "title": "Morte em padaria: adolescente � liberado e homem de 30 anos vira principal suspeito",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/morte-em-padaria-adolescente-e-liberado-e-homem-de-30-anos-vira-principal-suspeito.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-13T19:37:00.000Z",
       "topics": [
         "saude"
       ]
