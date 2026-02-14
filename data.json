@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-14T07:25:42.307Z",
+  "generatedAtISO": "2026-02-14T08:02:01.672Z",
   "failures": [
     {
       "name": "UOL",
@@ -123,6 +123,36 @@
     }
   ],
   "items": [
+    {
+      "id": "732b2e7b7172c7c9",
+      "title": "PL 2338 e a transição do discurso ético para o modelo sancionatório da IA",
+      "link": "https://www.jota.info/opiniao-e-analise/colunas/regulacao-e-novas-tecnologias/pl-2338-e-a-transicao-do-discurso-etico-para-o-modelo-sancionatorio-da-ia",
+      "source": "JOTA",
+      "dateISO": "2026-02-14T08:00:46.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "599647b569553ca6",
+      "title": "Anticorrupção em números e perspectivas para 2026",
+      "link": "https://www.jota.info/opiniao-e-analise/artigos/anticorrupcao-em-numeros-e-perspectivas-para-2026",
+      "source": "JOTA",
+      "dateISO": "2026-02-14T08:00:42.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "0e0a59fb78890b0a",
+      "title": "5 apps para te ajudar no transporte do Carnaval",
+      "link": "https://www.cnnbrasil.com.br/tecnologia/5-apps-para-te-ajudar-no-transporte-do-carnaval/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-14T07:45:25.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
     {
       "id": "22aa703d273614cf",
       "title": "Escolas do grupo de acesso abrem a 1ª noite de desfiles no Amapá; FOTOS",
@@ -777,18 +807,8 @@
       ]
     },
     {
-      "id": "04aee577f63eb87d",
-      "title": "Novo ataque dos EUA a barco suspeito de levar drogas deixa três mortos",
-      "link": "https://www.cnnbrasil.com.br/internacional/novo-ataque-dos-eua-a-barco-suspeito-de-levar-drogas-deixa-tres-mortos/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-14T01:20:36.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "6f78d46ec44e353d",
-      "title": "Temporal causa apagão total em cinco cidades da Grande São Paulo",
+      "id": "52b6101ae99ab11e",
+      "title": "Temporal causa apagão total em cinco cidades de SP",
       "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/02/13/temporal-causa-apagao-total-em-cinco-cidades-da-grande-sao-paulo.ghtml",
       "source": "G1",
       "dateISO": "2026-02-14T01:16:41.000Z",
@@ -1485,16 +1505,6 @@
       ]
     },
     {
-      "id": "b2516da0398c6d07",
-      "title": "MPF denuncia ex-delegados do Rio acusados de obstru��o no caso Marielle",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/mpf-denuncia-ex-delegados-do-rio-acusados-de-obstrucao-no-caso-marielle.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-13T19:15:00.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
       "id": "a2d29c3cc2d64c1c",
       "title": "Ministros do STF suspeitam que foram gravados em reunião secreta sobre suspeição de Toffoli",
       "link": "https://www.jota.info/stf/do-supremo/ministros-do-stf-suspeitam-que-foram-gravados-em-reuniao-secreta-sobre-suspeicao-de-toffoli",
@@ -1502,16 +1512,6 @@
       "dateISO": "2026-02-13T19:12:04.000Z",
       "topics": [
         "stf",
-        "saude"
-      ]
-    },
-    {
-      "id": "768f209314288214",
-      "title": "Turquia det�m 16 pessoas por lavagem de dinheiro com produ��o de conte�do para OnlyFans",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/02/turquia-detem-16-pessoas-por-lavagem-de-dinheiro-com-producao-de-conteudo-para-onlyfans.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-13T19:10:00.000Z",
-      "topics": [
         "saude"
       ]
     },
@@ -1663,26 +1663,6 @@
       "link": "https://www.jota.info/stf/do-supremo/presidente-do-stf-antecipa-fim-da-sessao-para-tratar-de-caso-toffoli-com-ministros",
       "source": "JOTA",
       "dateISO": "2026-02-12T18:12:35.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "4965d8c027b6d4b7",
-      "title": "Caso Master pode ameaçar não apenas relatoria, como permanência de Toffoli no STF",
-      "link": "https://www.jota.info/stf/do-supremo/caso-master-pode-ameacar-nao-apenas-relatoria-como-permanencia-de-toffoli-no-stf",
-      "source": "JOTA",
-      "dateISO": "2026-02-12T17:00:36.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "5fe8d7b6965b31cc",
-      "title": "STF – Secex-Consenso do TCU – sessão de 12/2/2026",
-      "link": "https://www.jota.info/stf/do-supremo/stf-ao-vivo-secex-consenso-do-tcu-sessao-de-12-2-2026",
-      "source": "JOTA",
-      "dateISO": "2026-02-12T16:38:22.000Z",
       "topics": [
         "stf"
       ]
