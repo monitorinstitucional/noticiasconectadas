@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-15T10:01:22.136Z",
+  "generatedAtISO": "2026-02-15T11:03:24.926Z",
   "failures": [
     {
       "name": "UOL",
@@ -124,11 +124,184 @@
   ],
   "items": [
     {
+      "id": "4e25591284bf7bbd",
+      "title": "Master não responde ao INSS sobre fraudes em consignados",
+      "link": "https://revistaoeste.com/economia/master-nao-responde-ao-inss-sobre-fraudes-em-consignados/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-15T11:00:02.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "16ce36cec64e5376",
+      "title": "Por que \"O Morro dos Ventos Uivantes\" � t�o dif�cil de adaptar, mas est� sempre no cinema",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/02/por-que-o-morro-dos-ventos-uivantes-e-tao-dificil-de-adaptar-mas-esta-sempre-no-cinema.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-15T11:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "064191c95b9f29a3",
+      "title": "Eugenia de linguagem polida",
+      "link": "https://revistaoeste.com/politica/eugenia-de-linguagem-polida/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-15T11:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "49eecb115926afeb",
+      "title": "Extratos mostram repasse de R$ 35 milhões de Vorcaro a empresa de Toffoli",
+      "link": "https://oantagonista.com.br/brasil/extratos-mostram-repasse-de-r-35-milhoes-de-vorcaro-a-empresa-de-toffoli/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-15T10:59:21.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "cc5e73fa9fbf8aac",
+      "title": "'De geração em geração': Bloco da Vaca mantém tradição e simula corrida de touros há 96 anos no interior de SP",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/15/de-geracao-em-geracao-bloco-da-vaca-mantem-tradicao-e-simula-corrida-de-touros-ha-96-anos-no-interior-de-sp.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T10:45:11.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "1af01a14476b5c3a",
+      "title": "VÍDEOS: Jornal do Campo GO de domingo, 15 de fevereiro de 2026",
+      "link": "https://g1.globo.com/go/goias/edicao/2026/02/15/videos-jornal-do-campo-go-de-domingo-15-de-fevereiro-de-2026.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T10:31:11.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "e952e0ef759dbabc",
+      "title": "Poucos beijos de quem acabou de se conhecer, mais selinhos de casais antigos: o clima do camarote de carnaval mais concorrido de SP",
+      "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/15/poucos-beijos-de-quem-acabou-de-se-conhecer-mais-selinhos-de-casais-antigos-o-clima-do-camarote-de-carnaval-mais-concorrido-de-sp.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T10:30:29.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "a52404b032e4f0ec",
+      "title": "Anuidade limitada a R$ 500 não se aplica à OAB, decide STF",
+      "link": "https://revistaoeste.com/politica/anuidade-limitada-a-r-500-nao-se-aplica-a-oab-decide-stf/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-15T10:14:23.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "2a86c9000f4e4546",
+      "title": "Extratos mostram que fundo ligado a Vorcaro investiu R$ 35 mi em resort com participação de Toffoli",
+      "link": "https://revistaoeste.com/politica/fundo-ligado-a-vorcaro-investiu-r-35-mi-em-resort-com-participacao-do-ministro-dias-toffoli/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-15T10:14:09.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "304b53414f47bd85",
+      "title": "Após uma década sem desfiles, quatro escolas de samba resistem em Campinas e miram retorno em 2027",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/15/apos-uma-decada-sem-desfiles-quatro-escolas-de-samba-resistem-em-campinas-e-miram-retorno-em-2027.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T10:10:35.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "90be62f3806ded1b",
+      "title": "STF: 31 empresas têm ministros e familiares como sócios",
+      "link": "https://revistaoeste.com/politica/stf-31-empresas-tem-ministros-e-familiares-como-socios/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-15T10:08:25.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "e409d60ea3113201",
+      "title": "O que esperar de André Mendonça na relatoria do caso Master",
+      "link": "https://istoe.com.br/o-que-esperar-de-andre-mendonca-no-caso-master",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-15T10:04:23.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "6acd57c6978c761d",
+      "title": "Oásis no meio do Cerrado: conheça praia de águas cristalinas e paisagem a perder de vista no Tocantins",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/02/15/oasis-no-meio-do-cerrado-conheca-praia-de-aguas-cristalinas-e-paisagem-a-perder-de-vista-no-tocantins.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T10:00:36.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "6908108a05d49c38",
+      "title": "Inclusão na avenida: amigos surdos, 4 irmãos cegos e um menino autista vivem carnaval em área inclusiva no Sambódromo",
+      "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/15/inclusao-na-avenida-amigos-surdos-4-irmaos-cegos-e-um-menino-autista-vivem-carnaval-em-area-inclusiva-no-sambodromo.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T10:00:30.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "3afbae27562d0ef4",
       "title": "Carnaval 2026 no Rio: como ficam as interdições no trânsito neste domingo",
       "link": "https://veja.abril.com.br/brasil/carnaval-2026-no-rio-como-ficam-as-interdicoes-no-transito-neste-domingo/",
       "source": "Veja",
       "dateISO": "2026-02-15T10:00:24.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "1f1f79cda9c176b0",
+      "title": "Florestas plantadas entram na conta do capital",
+      "link": "https://www.cnnbrasil.com.br/agro/florestas-plantadas-entram-na-conta-do-capital/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-15T10:00:13.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "81ebb9eb1b93b979",
+      "title": "Horóscopo do dia: previsão para os 12 signos em 15/02/2026",
+      "link": "https://www.cartacapital.com.br/astrologia/horoscopo-do-dia-previsao-para-os-12-signos-em-15-02-2026/",
+      "source": "CartaCapital",
+      "dateISO": "2026-02-15T10:00:04.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "9f12f337fa7f71ef",
+      "title": "Corinthians encara o São Bernardo e só depende de si se classificar no Paulistão",
+      "link": "https://istoe.com.br/corinthians-encara-o-sao-bernardo-e-so-depende-de-si-se-classificar-no-paulistao",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-15T10:00:00.000Z",
       "topics": [
         "saude"
       ]
@@ -149,6 +322,16 @@
       "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/02/15/fa-de-shakira-que-pagou-r-5-para-ver-a-cantora-em-mg-nao-ira-a-show-no-rio-ela-me-inspirou-a-outro-sonho.ghtml",
       "source": "G1",
       "dateISO": "2026-02-15T09:36:17.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "fb468d3783677ae2",
+      "title": "Novorizontino enfrenta Red Bull Bragantino para confirmar melhor campanha do Paulistão",
+      "link": "https://istoe.com.br/novorizontino-enfrenta-red-bull-bragantino-para-confirmar-melhor-campanha-do-paulistao",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-15T09:30:00.000Z",
       "topics": [
         "saude"
       ]
@@ -264,26 +447,6 @@
       ]
     },
     {
-      "id": "278636d39502e71c",
-      "title": "Jogos de hoje, 15/02/26: Horários e onde assistir",
-      "link": "https://oantagonista.com.br/ladooa/esportes/jogos-de-hoje-15-02-26-horarios-e-onde-assistir/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-15T08:59:18.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "af6aae25a7285927",
-      "title": "Caminhar faz bem, mas depois dos 50 você precisa disso para manter força e viver com mais tranquilidade",
-      "link": "https://oantagonista.com.br/ladooa/entretenimento/caminhar-faz-bem-mas-depois-dos-50-voce-precisa-disso-para-manter-forca-e-viver-com-mais-tranquilidade/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-15T08:54:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "c102135400abcf00",
       "title": "Barulho, pouco sono e álcool em excesso: combinação pode levar o cérebro ao limite da exaustão",
       "link": "https://g1.globo.com/saude/noticia/2026/02/15/barulho-pouco-sono-e-alcool-em-excesso-combinacao-pode-levar-o-cerebro-ao-limite-da-exaustao.ghtml",
@@ -354,8 +517,8 @@
       ]
     },
     {
-      "id": "0e57c90ceeb304b2",
-      "title": "Carro alegórico da União de Maricá atropela três pessoas; homem tem ‘fratura grave’, diz secretaria",
+      "id": "fbe2568d1b426a93",
+      "title": "Carro alegórico da União de Maricá atropela 3 pessoas; funcionário da escola tem fratura exposta grave nas pernas",
       "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/15/incidente-no-desfile-da-uniao-de-marica.ghtml",
       "source": "G1",
       "dateISO": "2026-02-15T07:39:57.000Z",
@@ -675,6 +838,16 @@
       ]
     },
     {
+      "id": "2dfb1c6ae64a0792",
+      "title": "Série Ouro: Império, Estácio e Porto da Pedra se destacam na 2ª noite; acidente ofusca Maricá",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/15/serie-ouro-como-foi-a-2a-noite.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T03:03:46.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "6c09cc21ddeb0a93",
       "title": "Impermeabilização protege a casa e evita prejuízos nas chuvas do início do ano",
       "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/02/15/impermeabilizacao-protege-a-casa-e-evita-prejuizos-nas-chuvas-do-inicio-do-ano.ghtml",
@@ -745,16 +918,6 @@
       ]
     },
     {
-      "id": "73392ce0c20cc4a9",
-      "title": "EUA enviam 6 toneladas de suprimentos médicos à Venezuela",
-      "link": "https://revistaoeste.com/mundo/eua-enviam-6-toneladas-de-suprimentos-medicos-a-venezuela/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-15T02:04:59.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "3b8f98e7b6698a90",
       "title": "Nove ministros do STF e 12 parentes pr�ximos s�o s�cios de ao menos 31 empresas",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/nove-ministros-do-stf-e-12-parentes-proximos-sao-socios-de-ao-menos-31-empresas.shtml",
@@ -796,27 +959,6 @@
       ]
     },
     {
-      "id": "9baf4a2493414384",
-      "title": "Smart Sampa ajuda a prender foragido por estupro",
-      "link": "https://revistaoeste.com/brasil/smart-sampa-ajuda-a-prender-foragido-por-estupro/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-15T01:09:53.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "d5bdf5ce7baedfab",
-      "title": "Nota em defesa de Toffoli foi sugerida pelo amigo Flávio Dino",
-      "link": "https://revistaoeste.com/politica/nota-em-defesa-de-toffoli-foi-sugerida-pelo-amigo-flavio-dino/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-15T01:06:28.000Z",
-      "topics": [
-        "stf",
-        "saude"
-      ]
-    },
-    {
       "id": "08da60d114470821",
       "title": "Supersal�rios indefens�veis",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/02/supersalarios-indefensaveis.shtml",
@@ -828,51 +970,11 @@
       ]
     },
     {
-      "id": "4eeaa516e93a9cd4",
-      "title": "Motoristas são flagrados a quase 150 km/h em rodovia de Goiás; vídeo ",
-      "link": "https://g1.globo.com/go/goias/transito/noticia/2026/02/14/motoristas-sao-flagrados-a-quase-150-kmh-em-rodovia-de-goias-video.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T00:49:13.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "228fdc79e6dc7ee5",
       "title": "Com gol no fim, Fluminense bate Vitória pelo Brasileirão Feminino",
       "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/com-gol-no-fim-fluminense-bate-vitoria-pelo-brasileirao-feminino",
       "source": "Agência Brasil",
       "dateISO": "2026-02-15T00:37:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "08e3f635caab600a",
-      "title": "Entre estrelas, bruxas e orixás: veja como foi o primeiro dia de desfiles em SP",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/14/como-foi-o-primeiro-dia-de-desfiles-em-sp.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T00:35:59.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "e3fee1b00f37155c",
-      "title": "Família brasileira de Lucas Pinheiro comemora medalha de ouro nos Jogos de Inverno: 'Parece um sonho'",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/14/familia-brasileira-de-lucas-pinheiro-comemora-medalha-de-ouro-nos-jogos-de-inverno-parece-um-sonho.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T00:11:39.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "573ad9b7d6f0818f",
-      "title": "Mulher se agarra a companheiro algemado para evitar prisão dele no carnaval do Recife; VÍDEO",
-      "link": "https://g1.globo.com/pe/pernambuco/carnaval/2026/noticia/2026/02/14/mulher-se-agarra-a-companheiro-algemado-para-evitar-prisao-no-carnaval-do-recife-video.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T00:11:28.000Z",
       "topics": [
         "saude"
       ]
@@ -1026,36 +1128,6 @@
       "dateISO": "2026-02-14T18:28:54.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "220f40c809841939",
-      "title": "Carnaval no Rio e Walter Salles: o que ver na TV e no streaming nesta semana",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/02/carnaval-no-rio-e-walter-salles-o-que-ver-na-tv-e-no-streaming-nesta-semana.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-14T18:00:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "1e4b660c90f5fbce",
-      "title": "Governo investe R$ 30 mi para ampliar transpar�ncia de emendas em estados e munic�pios",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/02/governo-investe-r-30-mi-para-ampliar-transparencia-de-emendas-em-estados-e-municipios.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-14T18:00:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "d70f1a4e039c2a32",
-      "title": "Festival Rec-Beat começa neste sábado no Recife, celebrando 30 anos",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/festival-rec-beat-comeca-neste-sabado-no-recife-celebrando-30-anos",
-      "source": "Agência Brasil",
-      "dateISO": "2026-02-14T17:06:00.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
