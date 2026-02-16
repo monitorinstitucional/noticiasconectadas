@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-15T22:57:42.674Z",
+  "generatedAtISO": "2026-02-15T23:56:12.794Z",
   "failures": [
     {
       "name": "UOL",
@@ -15,6 +15,11 @@
       "name": "O Globo",
       "url": "https://oglobo.globo.com/rss/oglobo.xml",
       "error": "Status code 404"
+    },
+    {
+      "name": "Metrópoles",
+      "url": "https://www.metropoles.com/feed",
+      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
     },
     {
       "name": "Correio Braziliense",
@@ -70,6 +75,11 @@
       "name": "O Globo",
       "url": "https://oglobo.globo.com/rss/oglobo.xml",
       "error": "Status code 404"
+    },
+    {
+      "name": "Metrópoles",
+      "url": "https://www.metropoles.com/feed",
+      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
     },
     {
       "name": "Correio Braziliense",
@@ -114,6 +124,146 @@
   ],
   "items": [
     {
+      "id": "92e708f514ee7f8f",
+      "title": "A verdadeira história por trás dos misteriosos samurais japoneses",
+      "link": "https://g1.globo.com/mundo/noticia/2026/02/15/a-verdadeira-historia-por-tras-dos-misteriosos-samurais-japoneses.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T23:46:39.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2036dbeed0f173ef",
+      "title": "Carnaval: policiais se disfarçam de Turma do Chaves em ação contra tráfico de drogas em SP",
+      "link": "https://revistaoeste.com/brasil/carnaval-policiais-se-disfarcam-de-turma-do-chaves-em-acao-contra-trafico-de-drogas-em-sp/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-15T23:44:21.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b97cfca3a322d37e",
+      "title": "Homem é preso dentro de lancha em rio após agredir esposa no carnaval do Recife; VÍDEO",
+      "link": "https://g1.globo.com/pe/pernambuco/carnaval/2026/noticia/2026/02/15/homem-e-preso-em-rio-apos-agredir-esposa-no-carnaval-do-recife-video.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T23:42:10.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "31edbd1a563dade6",
+      "title": "Influenciadora e empresária é vítima de feminicídio; suspeito está foragido",
+      "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ce/influenciadora-e-empresaria-e-vitima-de-feminicidio-suspeito-esta-foragido/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-15T23:38:39.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f5d88822649cd3be",
+      "title": "Carlinhos Brown reacende polêmica e defende Claudia Leitte no carnaval de Salvador: 'Tem que falar de Deus'",
+      "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/noticia/2026/02/15/carlinhos-brown-defende-claudia-leitte-no-carnaval-de-salvador.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T23:37:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "a325f97dd88405d0",
+      "title": "Drones fecham Aeroporto de Guarulhos e provocam atrasos e desvios de voos ",
+      "link": "https://revistaoeste.com/brasil/drones-fecham-aeroporto-de-guarulhos-e-provocam-atrasos-e-desvios-de-voos/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-15T23:19:34.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "7153d7389d42bd26",
+      "title": "Lyon bate Nice (2-0) e chega a sua 13ª vitória consecutiva",
+      "link": "https://istoe.com.br/lyon-bate-nice-2-0-e-chega-a-sua-13a-vitoria-consecutiva",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-15T23:19:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "5b35273ce16eec69",
+      "title": "Voos são desviados para Viracopos após paralisação no aeroporto de Guarulhos",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/15/voos-sao-desviados-para-viracopos-apos-paralisacao-no-aeroporto-de-guarulhos.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T23:15:44.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "0004b9ebe8807d5e",
+      "title": "A verdadeira história por trás dos misteriosos samurais japoneses",
+      "link": "https://www.bbc.com/portuguese/articles/c62dlz552dko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Brasil",
+      "dateISO": "2026-02-15T23:11:33.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f8adad34e8ffd047",
+      "title": "Não é Não: Carnaval de Santos terá campanha contra assédio e reforço na segurança",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/02/15/nao-e-nao-carnaval-de-santos-tera-campanha-contra-assedio-e-reforco-na-seguranca.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T23:00:29.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "8582730ec3a5db25",
+      "title": "Se sua m�e n�o transasse naquele momento com seu pai, voc� n�o existiria",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2026/02/se-sua-mae-nao-transasse-naquele-momento-com-seu-pai-voce-nao-existiria.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-15T23:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "38519c28ed7f18fa",
+      "title": "Criança sequestrada por homem após ele esfaquear a ex, é encontrada morta depois de três dias de buscas, no PR",
+      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/02/15/crianca-encontrada-morta-homem-esfaquea-ex-pr.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T22:59:48.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2bc6082274b0ad09",
+      "title": "Paquetá desencanta, Flamengo vence Botafogo e vai à semi do Carioca",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/paqueta-desencanta-flamengo-vence-botafogo-e-vai-semi-do-carioca",
+      "source": "Agência Brasil",
+      "dateISO": "2026-02-15T22:55:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c8099bfb17af806b",
+      "title": "Paquetá desencanta, Flamengo vence Botafogo e vai à semi do Carioca",
+      "link": "https://istoe.com.br/paqueta-desencanta-flamengo-vence-botafogo-e-vai-a-semi-do-carioca",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-15T22:55:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "7c558ba3a296f52a",
       "title": "Morte do cão Orelha leva Câmara a propor 25 projetos contra maus-tratos a animais",
       "link": "https://revistaoeste.com/brasil/morte-do-cao-orelha-leva-camara-a-propor-25-projetos-contra-maus-tratos-a-animais/",
@@ -124,11 +274,51 @@
       ]
     },
     {
+      "id": "8eaae9b80ae3a597",
+      "title": "Carnaval 2026: Bloco 'Vai Quem Quer' reúne multidão em Rio Branco ",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/02/15/carnaval-2026-bloco-vai-quem-quer-reune-multidao-em-rio-branco.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T22:54:27.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "437bb114a3e090c6",
       "title": "Aluguel em espécie é legal? Veja o que a legislação permite hoje",
       "link": "https://oantagonista.com.br/ladooa/entretenimento/aluguel-em-especie-e-legal-veja-o-que-a-legislacao-permite-hoje/",
       "source": "O Antagonista",
       "dateISO": "2026-02-15T22:52:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "7e158fadaacc8c8f",
+      "title": "São Bernardo x Corinthians: escalações e onde assistir ao jogo do Paulistão",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/sao-bernardo-x-corinthians-escalacoes-e-onde-assistir-o-jogo-do-paulistao/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-15T22:48:59.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "800b3521ed31f891",
+      "title": "Aeroporto de Guarulhos tem pelo menos 32 pousos e decolagens afetados após drones perto da pista; entenda",
+      "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/15/acao-de-drones-suspendeu-voos-no-aeroporto-de-guarulhos-na-tarde-deste-domingo-diz-concessionaria.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T22:47:47.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "bf7d0a3cc3d2bcc4",
+      "title": "Reforços marcam e Bragantino vence Ferroviária no Brasileiro Feminino",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/reforcos-marcam-e-bragantino-vence-ferroviaria-no-brasileiro-feminino",
+      "source": "Agência Brasil",
+      "dateISO": "2026-02-15T22:41:00.000Z",
       "topics": [
         "saude"
       ]
@@ -304,16 +494,6 @@
       ]
     },
     {
-      "id": "f0159fbe5d6c6b2e",
-      "title": "Aeroporto de Guarulhos tem voos suspensos após presença de drones em pista",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ocorrencia-com-drones-em-pista-paralisa-aeroporto-de-guarulhos-veja/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-15T21:52:18.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "c7d3b9b80d76d7bf",
       "title": "Jovem de 19 morre após briga em rua do DF",
       "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/02/15/jovem-de-19-morre-apos-briga-em-rua-do-df.ghtml",
@@ -354,16 +534,6 @@
       ]
     },
     {
-      "id": "98302a6fd81d3fb9",
-      "title": "Polícia pode exigir seu celular? Entenda o que acontece se você negar em 2026",
-      "link": "https://oantagonista.com.br/brasil/policia-pode-exigir-seu-celular-entenda-o-que-acontece-se-voce-negar-em-2026/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-15T21:23:00.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
       "id": "d27c21d6c19114d1",
       "title": "'Gretchen harmonizada', perna cabeluda e Mounjaro: as fantasias irreverentes do Carnaval de rua de SP",
       "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/15/gretchen-harmonizada-perna-cabeluda-e-mounjaro-as-fantasias-irreverentes-do-carnaval-de-rua-de-sp.ghtml",
@@ -379,16 +549,6 @@
       "link": "https://revistaoeste.com/brasil/viuvo-de-jovem-morta-em-piscina-de-academia-deixa-o-hospital/",
       "source": "Revista Oeste",
       "dateISO": "2026-02-15T21:20:50.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "a87aad7ab82ce474",
-      "title": "Lyon: saiba por que Endrick não jogou contra o Nice",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/esportes/saiba-por-que-endrick-nao-esta-jogando-contra-nice",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-15T21:19:33.000Z",
       "topics": [
         "saude"
       ]
@@ -625,17 +785,6 @@
       ]
     },
     {
-      "id": "779ea0a22b9eae86",
-      "title": "MPF arquiva investigação contra Bolsonaro por ‘genocídio’ na pandemia",
-      "link": "https://revistaoeste.com/politica/mpf-arquiva-investigacao-contra-bolsonaro-por-genocidio-na-pandemia/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-15T20:23:16.000Z",
-      "topics": [
-        "stf",
-        "saude"
-      ]
-    },
-    {
       "id": "f87c28c6fababf97",
       "title": "Homem suspeito de abusar e chantagear criança pela internet em MT é preso no CE",
       "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/02/15/homem-suspeito-de-abusar-e-chantagear-crianca-pela-internet-em-mt-e-preso-no-ce.ghtml",
@@ -722,17 +871,6 @@
       "source": "CNN Brasil",
       "dateISO": "2026-02-15T19:56:13.000Z",
       "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "73bfa353ca258c43",
-      "title": "Flávio Bolsonaro assina pedido de impeachment de Toffoli",
-      "link": "https://revistaoeste.com/politica/flavio-bolsonaro-assina-pedido-de-iimpeachment-i-de-toffoli/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-15T19:54:06.000Z",
-      "topics": [
-        "stf",
         "saude"
       ]
     },
@@ -957,76 +1095,6 @@
       ]
     },
     {
-      "id": "07cb60be5a83db08",
-      "title": "Lideranças do Bembé do Mercado chegam ao Rio para desfile na Beija-Flor",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/15/liderancas-do-bembe-do-mercado-chegam-ao-rio-para-desfile-na-beija-flor.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T18:45:34.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "ee2ea9547d62ea18",
-      "title": "Saulo Fernandes homenageia trancista Negra Jhô em seu figurino no carnaval de Salvador",
-      "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/noticia/2026/02/15/saulo-fernandes-homenageia-trancista-negra-jho-em-seu-figurino-no-carnaval-de-salvador.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T18:42:56.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "4550898cab43af7e",
-      "title": "Quem é o Padre Giovanni, sacerdote que move a fé e a caridade em Itaúna ",
-      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/02/15/quem-e-o-padre-giovanni-sacerdote-que-move-a-fe-e-a-caridade-em-itauna.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T18:33:12.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "f1a88094c6e45426",
-      "title": "Terezinha Tadeu: conheça a 1ª mulher negra a ser eleita rainha do Carnaval de Santos  ",
-      "link": "https://g1.globo.com/sp/santos-regiao/carnaval/carnaval-2026-em-santos/noticia/2026/02/15/terezinha-tadeu-conheca-a-1a-mulher-negra-a-ser-eleita-rainha-do-carnaval-de-santos.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T18:31:29.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "ed34e6d326087081",
-      "title": "MPTO investiga aplicação de recursos do Igeprev em fundos ligados ao Banco Master",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/02/15/mpto-investiga-aplicacao-de-recursos-do-igeprev-em-fundos-ligados-ao-banco-master.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T18:31:07.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "56cb6f98c9d27b1b",
-      "title": "Engavetamento entre veículos deixa seis feridos na Dutra, em Lorena",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/02/15/engavetamento-entre-veiculos-deixa-seis-feridos-na-dutra-em-lorena.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T18:29:29.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "e1d5fe8276621704",
-      "title": "Suspeito de matar enteada é preso em circuito de carnaval na Bahia mais de 20 anos após crime",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/02/15/suspeito-de-homicidio-e-preso-em-salvador.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T18:28:37.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "d41d960f4792f52b",
       "title": "STF e o caixa dois nas eleições 2026: entre o crime eleitoral e a improbidade",
       "link": "https://www.conjur.com.br/2026-fev-15/stf-e-o-caixa-dois-nas-eleicoes-2026-entre-o-crime-eleitoral-e-a-improbidade/",
@@ -1052,47 +1120,6 @@
       "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/estudo-mostra-impacto-de-videos-curtos-no-desenvolvimento-infantil",
       "source": "Agência Brasil",
       "dateISO": "2026-02-15T17:55:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "65f586f21ba2834b",
-      "title": "Atuação de Toffoli no caso Master é mais grave que suspeição, diz professor",
-      "link": "https://www.cnnbrasil.com.br/politica/atuacao-de-toffoli-no-caso-master-e-mais-grave-que-suspeicao-diz-professor/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-15T17:52:35.000Z",
-      "topics": [
-        "stf",
-        "saude"
-      ]
-    },
-    {
-      "id": "52970636896665b7",
-      "title": "Adriane Galisteu transforma metrô do Rio em passarela de Carnaval",
-      "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/adriane-galisteu-transforma-metro-do-rio-em-passarela-de-carnaval/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-15T17:52:30.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "9fa740f631672884",
-      "title": "Briga termina com mulher morta e rapaz ferido em Cotia (SP)",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/briga-termina-com-mulher-morte-e-rapaz-ferido-em-cotia-sp/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-15T17:31:03.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "d221ce83059722ac",
-      "title": "São Bernardo x Corinthians: onde assistir, horário e escalações",
-      "link": "https://veja.abril.com.br/esporte/sao-bernardo-x-corinthians-onde-assistir-horario-e-escalacoes/",
-      "source": "Veja",
-      "dateISO": "2026-02-15T17:30:55.000Z",
       "topics": [
         "saude"
       ]
@@ -1169,16 +1196,6 @@
       ]
     },
     {
-      "id": "562e6a68a66d6d7f",
-      "title": "TV Brasil transmite desfile das escolas de samba da Série Prata do Rio",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/tv-brasil-transmite-desfile-das-escolas-de-samba-da-serie-prata-do-rio",
-      "source": "Agência Brasil",
-      "dateISO": "2026-02-15T14:40:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "ad14f056bcd81ce3",
       "title": "Medicina j� debate se ci�me pode ser doen�a de verdade",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2026/02/medicina-ja-debate-se-ciume-pode-ser-doenca-de-verdade.shtml",
@@ -1214,26 +1231,6 @@
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/02/gestao-tarcisio-de-freitas-recebe-r-13-bi-com-leilao-e-venda-de-imoveis.shtml",
       "source": "Folha de S.Paulo",
       "dateISO": "2026-02-15T09:00:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "9705162bbb591d83",
-      "title": "Conrado H�bner Mendes escreveu que o STF agride a democracia",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-105-anos/2026/02/conrado-hubner-mendes-escreveu-que-o-stf-agride-a-democracia.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-15T07:00:00.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "b13222537c6de05b",
-      "title": "Anvisa diz que se manifestar� nas pr�ximas semanas sobre registro de dois rivais do Ozempic",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/02/anvisa-diz-que-se-manifestara-nas-proximas-semanas-sobre-registro-de-dois-rivais-do-ozempic.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-15T07:00:00.000Z",
       "topics": [
         "saude"
       ]
