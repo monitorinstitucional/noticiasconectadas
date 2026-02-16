@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-16T05:46:00.741Z",
+  "generatedAtISO": "2026-02-16T08:06:01.415Z",
   "failures": [
     {
       "name": "UOL",
@@ -15,11 +15,6 @@
       "name": "O Globo",
       "url": "https://oglobo.globo.com/rss/oglobo.xml",
       "error": "Status code 404"
-    },
-    {
-      "name": "Metrópoles",
-      "url": "https://www.metropoles.com/feed",
-      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
     },
     {
       "name": "Correio Braziliense",
@@ -119,11 +114,151 @@
   ],
   "items": [
     {
+      "id": "322d7b84ffc407b7",
+      "title": "Segunda de Carnaval tem trânsito alterado em São Paulo; veja bloqueios",
+      "link": "https://veja.abril.com.br/brasil/segunda-de-carnaval-tem-transito-alterado-em-sao-paulo-veja-bloqueios/",
+      "source": "Veja",
+      "dateISO": "2026-02-16T08:00:04.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "076b3467ef4835b8",
+      "title": "Luciana Gimenez aposta em look com transparência para ir à Sapucaí",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/luciana-gimenez-aposta-em-look-nude-com-transparencia-para-ir-a-sapucai/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-16T07:07:38.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "4a6cb6bdfa38fa9e",
+      "title": "Gustavo Mioto leva sofrência com novos arranjos para o carnaval: 'A gente sofre em axé, pulando e dançando'",
+      "link": "https://g1.globo.com/carnaval/2026/noticia/2026/02/16/gustavo-mioto-leva-sofrencia-com-novos-arranjos-para-o-carnaval-a-gente-sofre-em-axe-pulando-e-dancando.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T07:01:27.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "4b388079ddb73ad8",
+      "title": "Polícia cria perfil no Instagram com fotos para ajudar em buscas por pessoas desaparecidas no ES",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/02/16/policia-cria-perfil-no-instagram-com-fotos-para-ajudar-em-buscas-por-pessoas-desaparecidas-no-es.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T07:01:21.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f21df2f5858fb1e5",
+      "title": "R$ 1 milhão em bolsa e quase R$ 2 milhões em mala: transportar dinheiro em espécie é crime?",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/02/16/r-1-milhao-em-bolsa-e-quase-r-2-milhoes-em-mala-transportar-dinheiro-em-especie-e-crime.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T07:01:16.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "966a469ec410f117",
+      "title": "Como ouro inédito do Brasil nos Jogos de Inverno virou lição estratégica para negócios",
+      "link": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/02/16/ouro-brasil-jogos-inverno-estrategica-negocios.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T07:01:05.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "1b1e436e0702b553",
+      "title": "Redução de jornada transforma trabalhador em consumidor, diz professor",
+      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/ww-especial-conta-fim-escala-6x1-pedro-fernando-nery/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-16T07:00:50.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "3606161c6333d635",
+      "title": "O revés de multinacionais em ação no Cade que investiga cartel no mercado de trabalho",
+      "link": "https://platobr.com.br/o-reves-de-multinacionais-em-acao-no-cade-que-investiga-cartel-no-mercado-de-trabalho",
+      "source": "PlatôBR",
+      "dateISO": "2026-02-16T07:00:21.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "379567cc2cce6663",
+      "title": "Carnavalesco Leandro Vieira desfila com anel que Ney Matogrosso usou em show histórico de 1976",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/16/carnavalesco-leandro-vieira-desfila-com-anel-que-ney-matogrosso-usou-em-show-historico-de-1976.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T06:38:34.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "a17e64c57b418cef",
+      "title": "Portela tem problemas com último carro alegórico e desfile tem 'clarão'",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/16/portela-tem-problemas-com-carro-da-velha-guarda-e-desfile-tem-clarao.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T06:18:55.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "8024d6c7bd9a5913",
+      "title": "Gabriela e Chayani fora do BBB: ‘sisters’ curtem Carnaval na Sapucaí",
+      "link": "https://veja.abril.com.br/coluna/veja-gente/gabriela-e-chayani-fora-do-bbb-sisters-curtem-carnaval-na-sapucai/",
+      "source": "Veja",
+      "dateISO": "2026-02-16T06:08:40.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ec40602503e8ff04",
+      "title": "O que se sabe sobre morte de educadora que teve corpo exumado quase um ano depois em Franca, SP",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/02/16/o-que-se-sabe-sobre-morte-de-educadora-que-teve-corpo-exumado-quase-um-ano-depois-em-franca-sp.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T06:00:38.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b75a139c73d27068",
+      "title": "3 semanas de família desaparecida: o que ainda falta esclarecer sobre mistério no RS",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/02/16/3-semanas-de-familia-desaparecida-o-que-ainda-falta-esclarecer-sobre-misterio-no-rs.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T06:00:37.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "803896e1a619940e",
       "title": "Nova Zelândia: Tempestade atrapalha transporte e deixa milhares sem energia",
       "link": "https://www.cnnbrasil.com.br/internacional/nova-zelandia-tempestade-atrapalha-transporte-e-deixa-milhares-sem-energia/",
       "source": "CNN Brasil",
       "dateISO": "2026-02-16T05:33:24.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "86e2c25174359357",
+      "title": "VÍDEO: homem ‘voa’ em drone gigante na comissão de frente da Portela",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/16/comissao-de-frente-da-portela.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T05:24:38.000Z",
       "topics": [
         "saude"
       ]
@@ -149,21 +284,21 @@
       ]
     },
     {
+      "id": "eb63c8f6ec4610f4",
+      "title": "Caso Master: o roteiro da crise entre Toffoli e a PF que levou à troca de relator",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/colunas/manoela-alcantara/caso-master-o-roteiro-da-crise-entre-toffoli-e-a-pf-que-levou-a-troca-de-relator",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-16T05:10:26.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
       "id": "b59d63f2433c86ef",
       "title": "BA: Homem é preso por importunação sexual contra turista suíça em camarote",
       "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/ba-homem-e-preso-por-importunacao-sexual-contra-turista-suica-em-camarote/",
       "source": "CNN Brasil",
       "dateISO": "2026-02-16T05:04:08.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "d392a904fe784f02",
-      "title": "Vacinação em dia: por que o começo do ano é decisivo para cães e gatos",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/colunas/e-o-bicho/vacinacao-em-dia-por-que-o-comeco-do-ano-e-decisivo-para-caes-e-gatos",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-16T05:00:54.000Z",
       "topics": [
         "saude"
       ]
@@ -295,16 +430,6 @@
       "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/ao-vivo/carnaval-de-salvador-2026.ghtml",
       "source": "G1",
       "dateISO": "2026-02-16T02:52:49.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c19d051233ea176c",
-      "title": "Como a Globo se comportou na transmissão de desfile do Lula",
-      "link": "https://veja.abril.com.br/coluna/veja-gente/como-a-globo-se-comportou-na-transmissao-de-desfile-do-lula/",
-      "source": "Veja",
-      "dateISO": "2026-02-16T02:47:01.000Z",
       "topics": [
         "saude"
       ]
@@ -471,6 +596,16 @@
       ]
     },
     {
+      "id": "fd00506e26437bb5",
+      "title": "FOTOS: Veja as celebridades que passaram pelos camarotes na abertura do Grupo Especial do Rio de Janeiro",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/15/fotos-veja-as-celebridades-que-passaram-pelos-camarotes-na-abertura-do-grupo-especial-do-rio-de-janeiro.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T00:48:39.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "ec4e76b7997063b1",
       "title": "Daniela Mercury rebate decisão judicial e questiona gestão do carnaval de Salvador: 'Não é respeitoso'",
       "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/noticia/2026/02/15/daniela-mercury-rebate-decisao-judicial-e-questiona-gestao-do-carnaval-de-salvador.ghtml",
@@ -621,16 +756,6 @@
       ]
     },
     {
-      "id": "31edbd1a563dade6",
-      "title": "Influenciadora e empresária é vítima de feminicídio; suspeito está foragido",
-      "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ce/influenciadora-e-empresaria-e-vitima-de-feminicidio-suspeito-esta-foragido/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-15T23:38:39.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "f5d88822649cd3be",
       "title": "Carlinhos Brown reacende polêmica e defende Claudia Leitte no carnaval de Salvador: 'Tem que falar de Deus'",
       "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/noticia/2026/02/15/carlinhos-brown-defende-claudia-leitte-no-carnaval-de-salvador.ghtml",
@@ -706,16 +831,6 @@
       "link": "https://g1.globo.com/ac/acre/noticia/2026/02/15/carnaval-2026-bloco-vai-quem-quer-reune-multidao-em-rio-branco.ghtml",
       "source": "G1",
       "dateISO": "2026-02-15T22:54:27.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "7e158fadaacc8c8f",
-      "title": "São Bernardo x Corinthians: escalações e onde assistir ao jogo do Paulistão",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/sao-bernardo-x-corinthians-escalacoes-e-onde-assistir-o-jogo-do-paulistao/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-15T22:48:59.000Z",
       "topics": [
         "saude"
       ]
@@ -881,26 +996,6 @@
       ]
     },
     {
-      "id": "96a5d42ab2d8d9ae",
-      "title": "\nSuspeitos de participação em ataque que matou três pessoas na Grande João Pessoa são detidos",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/02/15/detidos-suspeitos-ataque-que-matou-tres-pessoas-santa-rita.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T21:28:32.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "d27c21d6c19114d1",
-      "title": "'Gretchen harmonizada', perna cabeluda e Mounjaro: as fantasias irreverentes do Carnaval de rua de SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/15/gretchen-harmonizada-perna-cabeluda-e-mounjaro-as-fantasias-irreverentes-do-carnaval-de-rua-de-sp.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T21:22:13.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "2df74874a3443536",
       "title": "Moraes manda Receita rastrear quebra de sigilo de ministros do STF e 100 familiares",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/receita-rastreia-nomes-de-100-familiares-e-ministros-do-stf-para-verificar-se-houve-vazamento.shtml",
@@ -908,66 +1003,6 @@
       "dateISO": "2026-02-15T21:16:00.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "561f10fd87c8f2d7",
-      "title": "Motociclista é atingido por linha de pipa chilena e morre na Marechal Rondon",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/02/15/motociclista-e-atingido-por-linha-de-pipa-chilena-e-morre-na-marechal-rondon.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T21:11:46.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "993c2da9209aa1d2",
-      "title": "Santuário de Elefantes em MT volta a ter autorização para receber novos animais após proibição da Sema",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/02/15/santuario-de-elefantes-em-mt-volta-a-ter-autorizacao-para-receber-novos-animais-apos-proibicao-da-sema.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T21:08:33.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c1975ecf2bc4e2c4",
-      "title": "Carnaval Campinas 2026: confira a programação de blocos de rua nesta segunda",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/15/carnaval-campinas-2026-confira-a-programacao-de-blocos-de-rua-nesta-segunda.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T21:07:50.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "ffd52d1fc9bdd573",
-      "title": "Especialistas alertam para riscos da pesca ilegal de raia-manta capturada em Sergipe",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/02/15/especialistas-alertam-para-riscos-da-pesca-ilegal-de-raia-manta-capturada-em-sergipe.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T21:06:28.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "0f442ddce3a2f29a",
-      "title": "🎉 Carnaval 2026: veja o que abre e o que fecha em Piracicaba e Limeira no feriado",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/02/15/carnaval-2026-veja-o-que-abre-e-o-que-fecha-em-piracicaba-e-limeira-no-feriado.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T21:05:04.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "783b221cdf98471f",
-      "title": "Mulher é morta a facadas após discussão em comemoração do aniversário de 37 anos em SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/02/15/mulher-e-morta-a-facadas-apos-discussao-em-comemoracao-do-aniversario-de-37-anos-em-sp.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T21:04:09.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
@@ -1112,26 +1147,6 @@
       ]
     },
     {
-      "id": "91f8733d9fa809d7",
-      "title": "Escolha de Mendon�a como relator do Master arrefece crise no STF, avaliam governo e ala da corte",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/escolha-de-mendonca-como-relator-do-master-arrefece-crise-no-stf-avaliam-governo-e-ala-da-corte.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-15T16:00:00.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "bc1210f733659631",
-      "title": "Folha atravessa samb�dromo dentro de carro aleg�rico da Gavi�es; veja como �",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/folha-atravessa-sambodromo-dentro-de-carro-alegorico-da-gavioes-veja-como-e.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-15T15:58:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "ef7dcd277b486d04",
       "title": "Tese dos RIFs por encomenda pode afetar vulneráveis, alerta Defensoria Pública",
       "link": "https://www.conjur.com.br/2026-fev-15/tese-dos-rifs-por-encomenda-pode-afetar-vulneraveis-alerta-defensoria-publica/",
@@ -1149,26 +1164,6 @@
       "dateISO": "2026-02-15T10:00:04.000Z",
       "topics": [
         "saude"
-      ]
-    },
-    {
-      "id": "2480cc8681cee7c5",
-      "title": "Corre, Messias, corre: antes da maratona no Senado, a folia na esteira",
-      "link": "https://platobr.com.br/no-carnaval-messias-foge-da-folia-e-se-prepara-para-a-maratona-da-sabatina-no-senad",
-      "source": "PlatôBR",
-      "dateISO": "2026-02-15T03:40:17.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "6d0bb079af92bca9",
-      "title": "Planalto tem nova preocupação em meio ao alívio com a decisão de Toffoli",
-      "link": "https://platobr.com.br/no-planalto-saida-de-toffoli-do-caso-master-trouxe-alivio-mas-temor-e-de-represalia",
-      "source": "PlatôBR",
-      "dateISO": "2026-02-15T03:34:19.000Z",
-      "topics": [
-        "stf"
       ]
     },
     {
@@ -1199,26 +1194,6 @@
       "dateISO": "2026-02-14T08:30:59.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "732b2e7b7172c7c9",
-      "title": "PL 2338 e a transição do discurso ético para o modelo sancionatório da IA",
-      "link": "https://www.jota.info/opiniao-e-analise/colunas/regulacao-e-novas-tecnologias/pl-2338-e-a-transicao-do-discurso-etico-para-o-modelo-sancionatorio-da-ia",
-      "source": "JOTA",
-      "dateISO": "2026-02-14T08:00:46.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "599647b569553ca6",
-      "title": "Anticorrupção em números e perspectivas para 2026",
-      "link": "https://www.jota.info/opiniao-e-analise/artigos/anticorrupcao-em-numeros-e-perspectivas-para-2026",
-      "source": "JOTA",
-      "dateISO": "2026-02-14T08:00:42.000Z",
-      "topics": [
-        "saude"
       ]
     }
   ]
