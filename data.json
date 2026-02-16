@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-15T23:56:12.794Z",
+  "generatedAtISO": "2026-02-16T05:46:00.741Z",
   "failures": [
     {
       "name": "UOL",
@@ -77,11 +77,6 @@
       "error": "Status code 404"
     },
     {
-      "name": "Metrópoles",
-      "url": "https://www.metropoles.com/feed",
-      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-    },
-    {
       "name": "Correio Braziliense",
       "url": "https://www.correiobraziliense.com.br/rss/ultimas.xml",
       "error": "Status code 404"
@@ -124,31 +119,503 @@
   ],
   "items": [
     {
+      "id": "803896e1a619940e",
+      "title": "Nova Zelândia: Tempestade atrapalha transporte e deixa milhares sem energia",
+      "link": "https://www.cnnbrasil.com.br/internacional/nova-zelandia-tempestade-atrapalha-transporte-e-deixa-milhares-sem-energia/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-16T05:33:24.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "3159951dc398c8b0",
+      "title": "Carnaval no Rio: 43 blocos desfilam nesta segunda; veja lista e horários",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/16/segunda-de-carnaval-blocos-no-rio-monte-a-programacao.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T05:20:06.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "39e391a82c1df2fb",
+      "title": "Policiais civis afastados vendiam “soluções” a colegas \"em apuros\"",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/sao-paulo/policiais-civis-afastados-vendiam-solucoes-a-colegas-em-apuros",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-16T05:15:40.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b59d63f2433c86ef",
+      "title": "BA: Homem é preso por importunação sexual contra turista suíça em camarote",
+      "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/ba-homem-e-preso-por-importunacao-sexual-contra-turista-suica-em-camarote/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-16T05:04:08.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "d392a904fe784f02",
+      "title": "Vacinação em dia: por que o começo do ano é decisivo para cães e gatos",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/colunas/e-o-bicho/vacinacao-em-dia-por-que-o-comeco-do-ano-e-decisivo-para-caes-e-gatos",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-16T05:00:54.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ef05cd5bc8644481",
+      "title": "A crescente demanda por 'acompanhantes de saúde' em um Brasil com famílias mais enxutas e cada vez mais velho",
+      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/02/16/a-crescente-demanda-por-acompanhantes-de-saude-em-um-brasil-com-familias-mais-enxutas-e-cada-vez-mais-velho.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T05:00:34.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "952d473698ba952a",
+      "title": "Com reajuste, passagens de ônibus entre DF e Entorno passam dos R$ 12; veja novos valores",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/02/16/com-reajuste-passagens-de-onibus-entre-df-e-entorno-passam-dos-r-12-veja-novos-valores.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T05:00:33.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b3b2b8b94876bf69",
+      "title": "Bianca Monteiro completa 10 anos como rainha da Portela e diz que quer ficar ‘mais 10’ à frente da bateria",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/16/bianca-monteiro-na-portela.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T05:00:17.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "4cf415239c4c2333",
+      "title": "Milton Cunha se emociona com passagem de Ney em transmissão da Globo",
+      "link": "https://veja.abril.com.br/coluna/veja-gente/milton-cunha-se-emociona-com-passagem-de-ney-em-transmissao-da-globo/",
+      "source": "Veja",
+      "dateISO": "2026-02-16T04:59:26.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b25cbd0f881d96a8",
+      "title": "Vereador de SP vê campanha eleitoral em participação de Lula no Carnaval da Bahia",
+      "link": "https://revistaoeste.com/politica/vereador-de-sp-ve-campanha-eleitoral-em-participacao-de-lula-no-carnaval-da-bahia/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-16T03:25:13.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "475d48622e482c47",
+      "title": "Quarto dia do carnaval de Salvador tem homenagem a Preta, Brown defendendo Claudia Leitte e despedida de Carla Perez",
+      "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/noticia/2026/02/16/quarto-dia-do-carnaval-de-salvador.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T03:24:36.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b6fb8d4bde1ee1c9",
+      "title": "Globo perde audi�ncia com desfile de escola de samba que fez homenagem a Lula",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/02/globo-perde-audiencia-com-desfile-de-escola-de-samba-que-fez-homenagem-a-lula.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-16T03:10:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "1b689a8e2471c412",
+      "title": "DAX também é solução para cozinhas mais práticas e modernas",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/02/16/dax-tambem-e-solucao-para-cozinhas-mais-praticas-e-modernas.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T03:04:31.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "0a9382d9ae5ef033",
+      "title": "Dorival valoriza classificação, mas se diz preocupado com elenco: ‘Não chega no melhor momento’",
+      "link": "https://istoe.com.br/dorival-valoriza-classificacao-mas-se-diz-preocupado-com-elenco-nao-chega-no-melhor-momento",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-16T03:04:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "503efb4521fec6f9",
+      "title": "Quatro escolas desfilam na 2ª noite do Grupo Especial com mais homenagens e uma viagem ao Candomblé baiano",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/16/quatro-escolas-desfilam-na-2a-noite-do-grupo-especial-com-mais-homenagens-e-uma-viagem-ao-candomble-baiano.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T03:00:54.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "68ce3be1a1c8d8a0",
+      "title": "Ano Novo Chinês começa na terça; qual é o significado do cavalo, animal do ano",
+      "link": "https://g1.globo.com/mundo/noticia/2026/02/16/ano-novo-chines-significado-do-cavalo.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T03:00:35.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "af0858b5b58d6de0",
+      "title": "Homem furta ambulância, perde controle do veículo durante fuga, sofre acidente e fica ferido no RS",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/02/16/homem-furta-ambulancia-perde-controle-do-veiculo-durante-fuga-sofre-acidente-e-fica-ferido-no-rs.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T03:00:32.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "5653749446165024",
+      "title": " Fim de transmissão: confira mais do Carnaval de Salvador no g1 Bahia",
+      "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/ao-vivo/carnaval-de-salvador-2026.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T02:52:49.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c19d051233ea176c",
+      "title": "Como a Globo se comportou na transmissão de desfile do Lula",
+      "link": "https://veja.abril.com.br/coluna/veja-gente/como-a-globo-se-comportou-na-transmissao-de-desfile-do-lula/",
+      "source": "Veja",
+      "dateISO": "2026-02-16T02:47:01.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "448bf212eb829fc8",
+      "title": "Piloto preso em aeroporto admite envolvimento com menores",
+      "link": "https://revistaoeste.com/brasil/piloto-preso-em-aeroporto-admite-envolvimento-com-menores/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-16T02:39:13.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "058a825aaa183912",
+      "title": "Paulistão: quartas terão Portuguesa x Corinthians; São Paulo pega único invicto",
+      "link": "https://istoe.com.br/paulistao-2026-quartas-de-final-terao-portuguesa-x-corinthians-sao-paulo-pega-unico-invicto",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-16T02:30:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "53b9c00ff6f59ecb",
+      "title": "Ney Matogrosso é ovacionado na concentração da Imperatriz: ‘Isso aqui é um palco 10 mil vezes maior’",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/15/ney-matogrosso-na-imperatriz.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T02:13:24.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "dc93a725935f07a6",
+      "title": "Portuguesa quebra invencibilidade do Mirassol e encara o Corinthians nas quartas do Paulistão",
+      "link": "https://istoe.com.br/portuguesa-quebra-invencibilidade-do-mirassol-e-encara-o-corinthians-nas-quartas-do-paulistao",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-16T02:10:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "73493e2b1cc4259c",
+      "title": "Presidente do PT critica 'pr�-julgamento' e 'linchamento p�blico' ap�s Toffoli deixar caso Banco Master",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/presidente-do-pt-critica-pre-julgamento-e-linchamento-publico-apos-toffoli-deixar-caso-banco-master.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-16T02:00:00.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "4d92af40afd71e5f",
+      "title": "Corinthians vence São Bernardo e encara a Portuguesa nas quartas do Paulistão",
+      "link": "https://istoe.com.br/corinthians-faz-jogo-seguro-vence-sao-bernardo-e-encara-a-portuguesa-nas-quartas-do-paulistao",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-16T02:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "eca7daf741517d85",
+      "title": "Carlinhos de Jesus chega à Sapucaí usando cadeira de rodas motorizada",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/carlinhos-de-jesus-chega-a-sapucai-usando-cadeira-de-rodas-motorizada/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-16T01:58:11.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "02946a1850018e87",
+      "title": "Grandes avan�am �s quartas do Paulista e escapam de confrontos direto",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/02/grandes-avancam-as-quartas-do-paulista-e-escapam-de-confrontos-direto.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-16T01:56:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "6dcfe94e00dc5623",
+      "title": "Neymar volta e sonha com a Copa do Mundo",
+      "link": "https://revistaoeste.com/brasil/neymar-volta-e-sonha-com-a-copa-do-mundo/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-16T01:51:53.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "6200855d03bd7f96",
+      "title": "Lula chega à Sapucaí sob forte segurança e ignora público",
+      "link": "https://revistaoeste.com/politica/lula-chega-a-sapucai-sob-forte-seguranca-e-ignora-publico/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-16T01:50:59.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c30aaaa47c0a678c",
+      "title": "Paulista: Corinthians joga para o gasto, bate São Bernardo e se classifica",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulista-corinthians-joga-para-o-gasto-bate-sao-bernardo-e-se-classifica/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-16T01:42:28.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "47c5eeda896fa1de",
+      "title": "Carnaval em Nova Friburgo: quatro escolas do Grupo A dão um show na avenida; vídeos",
+      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/02/15/carnaval-em-nova-friburgo-quatro-escolas-do-grupo-a-deram-um-show-na-avenida-videos.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T01:36:04.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "a0c94ec36a7b7542",
+      "title": "Ações na Justiça, alertas do TSE e orientações do governo antecederam desfile da Niterói",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/15/acoes-na-justica-tentaram-impedir-o-desfile-da-academicos-de-niteroi.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T01:32:03.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "a3e58d8253f239a7",
+      "title": "Avi�o da Latam aborta decolagem em alta velocidade neste domingo (15) em Guarulhos",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/aviao-da-latam-aborta-decolagem-em-alta-velocidade-neste-domingo-15-em-guarulhos.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-16T01:08:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "419dec1f8484b5fc",
+      "title": "Epstein era visto como doador em campanhas do Partido Democrata, diz investigação",
+      "link": "https://revistaoeste.com/mundo/epstein-era-visto-como-doador-em-campanhas-do-partido-democrata-diz-investigacao/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-16T00:57:52.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "28bd3ee52c839ee2",
+      "title": "Receita Federal apura possível quebra de sigilo de ministros do STF",
+      "link": "https://revistaoeste.com/politica/receita-federal-apura-possivel-quebra-de-sigilo-de-ministros-do-stf/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-16T00:51:19.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "ec4e76b7997063b1",
+      "title": "Daniela Mercury rebate decisão judicial e questiona gestão do carnaval de Salvador: 'Não é respeitoso'",
+      "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/noticia/2026/02/15/daniela-mercury-rebate-decisao-judicial-e-questiona-gestao-do-carnaval-de-salvador.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T00:47:22.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "4b782ff17cc9e3c8",
+      "title": "Novo presidente do Grêmio avalia possibilidade de SAF no clube",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/novo-presidente-do-gremio-avalia-possibilidade-de-saf-no-clube/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-16T00:40:08.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "6d8eb47648686a9c",
+      "title": "EXCLUSIVO: piloto admite à polícia envolvimento com menores e mostra registros no motel com vítimas",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/02/15/video-piloto-admite-a-policia-envolvimento-com-menores-e-mostra-registros-das-vitimas-no-celular.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T00:34:01.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "83d27f7e1c9a5d82",
+      "title": "Condutor que atropelou e matou pastor no Acre não tem CNH, diz polícia",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/02/15/condutor-que-matou-e-atropelou-pastor-no-acre-nao-tem-cnh-diz-policia.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T00:30:04.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "83c3ef1fd9303750",
+      "title": "A febre da proteína: quando a busca pelo corpo perfeito pode até virar um transplante de rim",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/02/15/a-febre-da-proteina-quando-a-busca-pelo-corpo-perfeito-pode-ate-virar-um-transplante-de-rim.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T00:25:50.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ccc25cf5f29669c1",
+      "title": "Crianças e idosos curtem o Carnaval com baile em praça de Rio Branco",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/02/15/criancas-e-idosos-curtem-o-carnaval-com-baile-em-praca-de-rio-branco.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T00:22:32.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "91e9a70dd2497244",
+      "title": "Fisioterapeuta é internado na UTI após acidente causado por homem sem CNH em Palmas",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/02/15/fisioterapeuta-e-internado-na-uti-apos-acidente-causado-por-homem-sem-cnh-em-palmas.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T00:20:19.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b6e060a88cf29a96",
+      "title": "'A Sapucaí vai vir abaixo': a volta emocionada de Juliana Paes à Viradouro",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/02/15/a-sapucai-vai-vir-abaixo-a-volta-emocionada-de-juliana-paes-a-viradouro.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T00:13:07.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2c14fa765550be0a",
+      "title": "Policiais fantasiados da turma do 'Chaves' prendem 5 suspeitos em blocos de S�o Paulo; veja v�deo",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/policiais-fantasiados-da-turma-do-chaves-prendem-5-suspeitos-em-blocos-de-sao-paulo-veja-video.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-16T00:08:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "436972b29d0cf919",
+      "title": "‘Camarote do crime’: o que levou à interdição de superestrutura em pleno Carnaval de Salvador",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/02/15/camarote-do-crime-o-que-levou-a-interdicao-de-superestrutura-em-pleno-carnaval-de-salvador.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T00:05:44.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "9600fdac0db4cd02",
+      "title": "Marcelo Callado explica a criação de 'Brado', álbum autoral que lançará em março como um 'grito de libertação'",
+      "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/02/15/marcelo-callado-explica-a-criacao-de-brado-album-autoral-que-lancara-em-marco-como-um-grito-de-libertacao.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-16T00:00:17.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c473552fac7bcc9d",
+      "title": "'Operação é uma das mais complexas', diz Bombeiros sobre busca de vítimas do naufrágio no Amazonas",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/02/15/operacao-e-complexa-devido-a-fatores-hidrodinamicos-do-encontro-das-aguas-diz-bombeiros-sobre-busca-de-vitimas-do-naufragio-no-amazonas.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T23:58:45.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "d0b8bb2cfd4f10a0",
+      "title": "Homem morre e seis são presos em ação da PM para reprimir confronto de facções em Costa Barros",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/02/15/homem-morre-e-seis-sao-presos-em-acao-da-pm-para-reprimir-confronto-de-faccoes-em-costa-barros.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T23:57:32.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "18591dac27c7340c",
+      "title": "Valesca Popozuda critica estrutura de trio no carnaval e desabafa: 'Eu subi aqui em respeito à BH'",
+      "link": "https://g1.globo.com/mg/minas-gerais/carnaval/2026/noticia/2026/02/15/valesca-popozuda-critica-estrutura-de-trio-no-carnaval-e-desabafa-eu-subi-aqui-em-respeito-a-bh.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-15T23:47:16.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
       "id": "92e708f514ee7f8f",
       "title": "A verdadeira história por trás dos misteriosos samurais japoneses",
       "link": "https://g1.globo.com/mundo/noticia/2026/02/15/a-verdadeira-historia-por-tras-dos-misteriosos-samurais-japoneses.ghtml",
       "source": "G1",
       "dateISO": "2026-02-15T23:46:39.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "2036dbeed0f173ef",
-      "title": "Carnaval: policiais se disfarçam de Turma do Chaves em ação contra tráfico de drogas em SP",
-      "link": "https://revistaoeste.com/brasil/carnaval-policiais-se-disfarcam-de-turma-do-chaves-em-acao-contra-trafico-de-drogas-em-sp/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-15T23:44:21.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "b97cfca3a322d37e",
-      "title": "Homem é preso dentro de lancha em rio após agredir esposa no carnaval do Recife; VÍDEO",
-      "link": "https://g1.globo.com/pe/pernambuco/carnaval/2026/noticia/2026/02/15/homem-e-preso-em-rio-apos-agredir-esposa-no-carnaval-do-recife-video.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T23:42:10.000Z",
       "topics": [
         "saude"
       ]
@@ -169,26 +636,6 @@
       "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/noticia/2026/02/15/carlinhos-brown-defende-claudia-leitte-no-carnaval-de-salvador.ghtml",
       "source": "G1",
       "dateISO": "2026-02-15T23:37:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "a325f97dd88405d0",
-      "title": "Drones fecham Aeroporto de Guarulhos e provocam atrasos e desvios de voos ",
-      "link": "https://revistaoeste.com/brasil/drones-fecham-aeroporto-de-guarulhos-e-provocam-atrasos-e-desvios-de-voos/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-15T23:19:34.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "7153d7389d42bd26",
-      "title": "Lyon bate Nice (2-0) e chega a sua 13ª vitória consecutiva",
-      "link": "https://istoe.com.br/lyon-bate-nice-2-0-e-chega-a-sua-13a-vitoria-consecutiva",
-      "source": "IstoÉ",
-      "dateISO": "2026-02-15T23:19:00.000Z",
       "topics": [
         "saude"
       ]
@@ -254,41 +701,11 @@
       ]
     },
     {
-      "id": "c8099bfb17af806b",
-      "title": "Paquetá desencanta, Flamengo vence Botafogo e vai à semi do Carioca",
-      "link": "https://istoe.com.br/paqueta-desencanta-flamengo-vence-botafogo-e-vai-a-semi-do-carioca",
-      "source": "IstoÉ",
-      "dateISO": "2026-02-15T22:55:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "7c558ba3a296f52a",
-      "title": "Morte do cão Orelha leva Câmara a propor 25 projetos contra maus-tratos a animais",
-      "link": "https://revistaoeste.com/brasil/morte-do-cao-orelha-leva-camara-a-propor-25-projetos-contra-maus-tratos-a-animais/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-15T22:54:55.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "8eaae9b80ae3a597",
       "title": "Carnaval 2026: Bloco 'Vai Quem Quer' reúne multidão em Rio Branco ",
       "link": "https://g1.globo.com/ac/acre/noticia/2026/02/15/carnaval-2026-bloco-vai-quem-quer-reune-multidao-em-rio-branco.ghtml",
       "source": "G1",
       "dateISO": "2026-02-15T22:54:27.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "437bb114a3e090c6",
-      "title": "Aluguel em espécie é legal? Veja o que a legislação permite hoje",
-      "link": "https://oantagonista.com.br/ladooa/entretenimento/aluguel-em-especie-e-legal-veja-o-que-a-legislacao-permite-hoje/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-15T22:52:00.000Z",
       "topics": [
         "saude"
       ]
@@ -369,66 +786,6 @@
       "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/02/15/voos-sao-desviados-para-sao-jose-dos-campos-apos-paralisacao-no-aeroporto-de-guarulhos.ghtml",
       "source": "G1",
       "dateISO": "2026-02-15T22:23:09.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "d08cc37652c402b9",
-      "title": "Ideias baratas para ganhar dinheiro rápido usando habilidades simples do dia a dia",
-      "link": "https://oantagonista.com.br/ladooa/entretenimento/ideias-baratas-para-ganhar-dinheiro-rapido-usando-habilidades-simples-do-dia-a-dia/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-15T22:23:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "bc750a2bf5972a30",
-      "title": "Homem é preso por agredir mulheres muçulmanas no Paraná",
-      "link": "https://www.poder360.com.br/poder-brasil/homem-e-preso-por-agredir-mulheres-muculmanas-no-parana/",
-      "source": "Poder360",
-      "dateISO": "2026-02-15T22:17:13.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "dacd34005f9f63aa",
-      "title": "Aeroporto de Guarulhos tem voos interrompidos por conta de drones",
-      "link": "https://veja.abril.com.br/brasil/aeroporto-de-guarulhos-tem-voos-interrompidos-por-conta-de-drones/",
-      "source": "Veja",
-      "dateISO": "2026-02-15T22:13:53.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "6c32ad841790096b",
-      "title": "Irã usa caso Epstein para liderar campanha contra os EUA",
-      "link": "https://revistaoeste.com/mundo/ira-usa-caso-epstein-para-liderar-campanha-contra-os-eua/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-15T22:11:30.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "b0dc693e571bf1ad",
-      "title": "Anitta chama a atenção de suspeitos de roubo durante bloco no Maranhão",
-      "link": "https://veja.abril.com.br/cultura/anitta-chama-a-atencao-de-suspeitos-de-roubo-durante-bloco-no-maranhao/",
-      "source": "Veja",
-      "dateISO": "2026-02-15T22:09:33.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c5ea27c1e9ecd5af",
-      "title": "Golpe do falso advogado se espalha pelo país e ganha estrutura de crime organizado",
-      "link": "https://revistaoeste.com/brasil/golpe-do-falso-advogado-se-espalha-pelo-pais-e-ganha-estrutura-de-crime-organizado/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-15T22:09:31.000Z",
       "topics": [
         "saude"
       ]
@@ -544,28 +901,8 @@
       ]
     },
     {
-      "id": "683d635303e2ee95",
-      "title": "Viúvo de jovem morta em piscina de academia deixa o hospital",
-      "link": "https://revistaoeste.com/brasil/viuvo-de-jovem-morta-em-piscina-de-academia-deixa-o-hospital/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-15T21:20:50.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "609e6733f1080d21",
-      "title": "Ações de Carnaval em SP e no RJ prendem mais de 150 pessoas",
-      "link": "https://revistaoeste.com/brasil/acoes-de-carnaval-em-sp-e-no-rj-prendem-mais-de-150-pessoas/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-15T21:18:29.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "a7b44d373cfcce2f",
-      "title": "Receita rastreia quebra de sigilo de ministros do STF e 100 familiares por ordem de Moraes",
+      "id": "2df74874a3443536",
+      "title": "Moraes manda Receita rastrear quebra de sigilo de ministros do STF e 100 familiares",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/receita-rastreia-nomes-de-100-familiares-e-ministros-do-stf-para-verificar-se-houve-vazamento.shtml",
       "source": "Folha de S.Paulo",
       "dateISO": "2026-02-15T21:16:00.000Z",
@@ -634,162 +971,11 @@
       ]
     },
     {
-      "id": "1fc22640041517c8",
-      "title": "O Partido-Corte: dois pesos, uma toga",
-      "link": "https://revistaoeste.com/politica/o-partido-corte-dois-pesos-uma-toga/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-15T21:00:00.000Z",
-      "topics": [
-        "stf",
-        "saude"
-      ]
-    },
-    {
-      "id": "69b489f8ad86196c",
-      "title": "Marina Sena estreia trio em BH, leva multidão às ruas e diz que 'foi histórico'; veja melhores momentos",
-      "link": "https://g1.globo.com/mg/minas-gerais/carnaval/2026/noticia/2026/02/15/o-carnaval-de-bh-e-o-melhor-do-brasil-diz-marina-sena-em-estreia-de-trio-que-agitou-multidao-veja-melhores-momentos.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:58:20.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "62b5e2ff99321f9d",
-      "title": "Seminua, Virginia descolore pelos em preparação para o Carnaval: “Ansiosa”",
-      "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/seminua-virginia-descolore-pelos-em-preparacao-para-o-carnaval-ansiosa/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-15T20:54:55.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "1621cbdb30ee432e",
-      "title": "Virginia fala sobre ansiedade para desfilar pela 1ª vez: “Tô no clima”",
-      "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/virginia-fala-sobre-ansiedade-para-desfilar-pela-1a-vez-to-no-clima/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-15T20:52:06.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c3e995568cc00603",
-      "title": "Zombie Walk em Curitiba: multidão de 'zumbis' invade ruas da capital neste domingo (15)",
-      "link": "https://g1.globo.com/pr/parana/noticia/2026/02/15/zombie-walk-curitiba-carnaval.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:50:45.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "72a1b9547ee9f2d3",
-      "title": "Homem é preso suspeito de dar socos em policiais durante carnaval de Salvador",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/02/15/homem-e-preso-suspeito-de-agressao-na-bahia.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:43:59.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "1e308a9d3b35827c",
-      "title": "Com atraso de 1h30 por conta da chuva, rainhas gay e trans são eleitas no Carnaval 2026 de Rio Branco",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/02/15/com-atraso-de-1h30-por-conta-da-chuva-rainhas-gay-e-trans-sao-eleitas-no-carnaval-2026-de-rio-branco.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:43:47.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "d6d8b6a98bef15c3",
-      "title": "Acompanhe a transmissão do carnaval de BH",
-      "link": "https://g1.globo.com/mg/minas-gerais/carnaval/2026/ao-vivo/carnaval-2026-em-bh.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:42:06.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "8a26295770d63fd4",
-      "title": "Polícia resgata mulher mantida em cárcere privado pelo companheiro em Vertente do Lério; suspeito está foragido",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/02/15/policia-resgata-mulher-mantida-em-carcere-privado-pelo-companheiro-em-vertente-do-lerio-suspeito-esta-foragido.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:41:43.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "3cad8993d83d3ddb",
-      "title": "VÍDEO: aniversariante bate carro na BR-153 em Rio Preto e destrói bolo da festa; duas pessoas ficaram feridas",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/02/15/video-aniversariante-bate-carro-na-br-153-em-rio-preto-e-destroi-bolo-da-festa-duas-pessoas-ficaram-feridas.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:37:52.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "1cd6df7cfce49e37",
-      "title": "Autor de lei de proteção a menores, vereador é investigado por exploração sexual",
-      "link": "https://revistaoeste.com/politica/autor-de-lei-de-protecao-a-menores-vereador-e-investigado-por-exploracao-sexual/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-15T20:35:35.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "37e97ff781913e9e",
-      "title": "Vídeo mostra cavalo da PM caindo sobre foliões no carnaval do Recife; dois feridos são levados para hospital",
-      "link": "https://g1.globo.com/pe/pernambuco/carnaval/2026/noticia/2026/02/15/cavalo-da-policia-militar-se-assusta-no-carnaval-do-recife-e-cai-sobre-folioes-video.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:32:37.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "3bdf38f5ba971c98",
-      "title": "Sorvete na casca do coco, inspirado na Tailândia, conquista o litoral de SP; VÍDEO",
-      "link": "https://g1.globo.com/sp/santos-regiao/culinaria-013/noticia/2026/02/15/sorvete-na-casca-do-coco-inspirado-na-tailandia-conquista-o-litoral-de-sp-video.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:30:29.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "54be0a8b5d750f7c",
       "title": "Fraude do falso advogado se expande pelo Brasil e padr�o indica liga��o com fac��es",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/fraude-do-falso-advogado-se-expande-pelo-brasil-e-padrao-indica-ligacao-com-faccoes.shtml",
       "source": "Folha de S.Paulo",
       "dateISO": "2026-02-15T20:30:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "2b14341a3546423d",
-      "title": "Lancha afunda no Canal do Itajuru, em Cabo Frio, mas passageiros são resgatados",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/02/15/lancha-afunda-no-canal-do-itajuru-em-cabo-frio-mas-passageiros-sao-resgatados.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:26:49.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "f87c28c6fababf97",
-      "title": "Homem suspeito de abusar e chantagear criança pela internet em MT é preso no CE",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/02/15/homem-suspeito-de-abusar-e-chantagear-crianca-pela-internet-em-mt-e-preso-no-ce.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:21:51.000Z",
       "topics": [
         "saude"
       ]
@@ -805,151 +991,11 @@
       ]
     },
     {
-      "id": "6bdcccd3a3e56c2c",
-      "title": "A curiosa origem de um dos jogos mais famosos do mundo",
-      "link": "https://g1.globo.com/mundo/noticia/2026/02/15/a-curiosa-origem-de-um-dos-jogos-mais-famosos-do-mundo.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:15:56.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "e10b1c5b935f5589",
-      "title": "MPPE denuncia cinco pessoas pela morte de mergulhador baleado em Petrolândia; dois vereadores estão entre os acusados",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/02/15/mppe-denuncia-cinco-pessoas-pela-morte-de-mergulhador-baleado-em-petrolandia-dois-vereadores-estao-entre-os-acusados.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:12:57.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "ef54bb8a855081c3",
-      "title": "Resgatada após denúncia de tráfico, onça-pintada Luna morre aos 25 anos no Zoo de Limeira",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/02/15/resgatada-apos-denuncia-de-trafico-0nca-pintada-luna-morre-aos-25-anos-no-zoo-de-limeira.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:09:36.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "a1e4630b7a3338b2",
-      "title": "EUA interceptam navio com petróleo venezuelano no Oceano Índico",
-      "link": "https://www.poder360.com.br/poder-internacional/eua-interceptam-navio-com-petroleo-venezuelano-no-oceano-indico/",
-      "source": "Poder360",
-      "dateISO": "2026-02-15T20:07:25.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "0c2ba7d796bc9d23",
-      "title": "Suspeito de explorar adolescente é preso após insistir em procurar vítima durante investigação em MG",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/02/15/suspeito-de-explorar-adolescente-e-preso-apos-insistir-em-procurar-vitima-durante-investigacao-em-mg.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T20:07:11.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "d81bb60f1901cc3b",
-      "title": "Corpo de mulher que morreu em acidente na BR-153 no TO é velado no MA",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/02/15/corpo-de-mulher-que-morreu-em-acidente-na-br-153-no-to-e-velada-no-ma.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:57:18.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "f21296993f319e1b",
-      "title": "Casal é suspeito de morte de técnica em enfermagem encontrada em dunas",
-      "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/casal-e-suspeito-de-morte-de-tecnica-em-enfermagem-encontrada-em-dunas/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-15T19:56:13.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "ed582552fc5bc99d",
-      "title": "Bombeiros de SP enviam equipe com tecnologia subaquática para ajudar nas buscas por desaparecidos do naufrágio no AM",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/02/15/bombeiros-de-sp-enviam-equipe-com-tecnologia-subaquatica-para-ajudar-nas-buscas-por-desparecidos-do-naufragio-no-am.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:38:26.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "fe2d957e819c3401",
-      "title": "Leque se populariza e vira a 'bateria' dos blocos de Carnaval de rua LGBT em SP: 'simbolo de afirmação e união contra o preconceito', diz comunidade",
-      "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/15/leque-se-populariza-e-vira-a-bateria-dos-blocos-de-carnaval-de-rua-lgbt-em-sp-simbolo-de-afirmacao-e-uniao-contra-o-preconceito-diz-comunidade.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:37:37.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "3dc09bc64e3da4ea",
-      "title": "Sistema de reconhecimento facial ajuda a prender foragidos da Justiça no Carnaval do MA",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/02/15/sistema-de-reconhecimento-facial-ajuda-a-prender-foragidos-da-justica-no-carnaval-do-ma.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:35:35.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "d6b51a7b99fb1967",
-      "title": "Jovem é preso com R$ 600 em notas falsas e diz à polícia que usaria o dinheiro para comprar drogas",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/02/15/jovem-e-preso-com-r-600-em-notas-falsas-e-diz-a-policia-que-usaria-o-dinheiro-para-comprar-drogas.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:34:21.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "40435bf5aa14231a",
-      "title": "EXCLUSIVO: Claudia Leitte aposta em look inspirado em azulejos e arquitetura brasileira no carnaval de Salvador",
-      "link": "https://g1.globo.com/ba/bahia/carnavalnabahia/noticia/2026/02/15/exclusivo-claudia-leitte-aposta-em-look-inspirado-em-azulejos-e-arquitetura-brasileira-no-carnaval-de-salvador.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:33:31.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "3900700e8e2d967c",
-      "title": "Idoso tem 80% do corpo queimado e outros 3 têm queimaduras de 2º grau após incêndio em casas no RS, dizem bombeiros",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/02/15/idoso-tem-80percent-do-corpo-queimado-e-outras-3-pessoas-sofrem-queimaduras-de-2o-grau-apos-em-incendio-em-casas-no-rs-dizem-bombeiros.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:33:04.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "6edf918c028eb11c",
       "title": "Novas descobertas mudam o que sabemos sobre os maias",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/02/novas-descobertas-mudam-o-que-sabemos-sobre-os-maias.shtml",
       "source": "Folha de S.Paulo",
       "dateISO": "2026-02-15T19:33:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "19a011ae32f3241d",
-      "title": "Cachorro acorrentado e sem água morre durante resgate no Piauí; homem é preso por maus-tratos",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/02/15/cachorro-morre-maus-tratos.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:30:10.000Z",
       "topics": [
         "saude"
       ]
@@ -965,46 +1011,6 @@
       ]
     },
     {
-      "id": "be91af569eca6eca",
-      "title": "Motorista bêbado perde o controle do carro, atropela pedestres na calçada e é preso no PR",
-      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/02/15/motorista-bebado-atropela-pedestres-pr.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:28:38.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "3d3d3060bc79d1bc",
-      "title": "Bloco das Mariposas: confira as alterações no trânsito em Aracaju durante a festa",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/02/15/bloco-das-mariposas-confira-as-alteracoes-no-transito-em-aracaju-durante-a-festa.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:20:37.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "16e5ad52708c47bd",
-      "title": "Nattan chega à Afonso Pena e agita carnaval de BH ",
-      "link": "https://g1.globo.com/mg/minas-gerais/carnaval/2026/noticia/2026/02/15/nattan-chega-a-afonso-pena-e-agita-o-carnaval-de-bh.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:17:01.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "aeceaa53a80dae94",
-      "title": "“Bidu e Matheuzinho merecem a Seleção”, diz ex-goleiro do Palmeiras",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/bidu-e-matheuzinho-merecem-a-selecao-diz-ex-goleiro-do-palmeiras/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-15T19:15:20.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "413d5476da476932",
       "title": "Mendon�a e Fux desistem de ir a evento que convidou advogado de Vorcaro e ex-s�cio de resort",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/mendonca-e-fux-desistem-de-ir-a-evento-na-espanha-com-advogado-de-vorcaro-e-ex-socio-de-resort.shtml",
@@ -1012,56 +1018,6 @@
       "dateISO": "2026-02-15T19:13:00.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "0a99ef8cc6a186b4",
-      "title": "Colisão de veículos deixa um morto e um ferido em Belford Roxo",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/02/15/colisao-de-veiculos-deixa-um-morto-e-um-ferido-em-belford-roxo.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:10:26.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "0d6f223f981a2006",
-      "title": "Mulher é baleada no olho e homem leva tiro de raspão no pescoço durante briga no carnaval de Salvador",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/02/15/pessoas-feridas-carnaval-de-salvador.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:09:50.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "12d0a628bb818225",
-      "title": "Homem que cumpre pena por homicídio é preso suspeito de estuprar criança de 6 anos em Roraima",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/02/15/homem-que-cumpre-pena-por-homicidio-e-preso-suspeito-de-estuprar-uma-crianca-de-6-anos-em-roraima.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:05:31.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "fe61cecb9caab892",
-      "title": "Homem que esfaqueou ex-companheira grávida e fugiu com criança, é morto após confronto com polícia, no PR",
-      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/02/15/homem-foge-crianca-morte-confronto-pm-pr.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:03:15.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "7a4cd2ee75c3d5ce",
-      "title": "Uberlândia amplia exportações em 11% e movimenta R$ 4,4 bilhões em 2025",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/02/15/uberlandia-amplia-exportacoes-em-11percent-e-movimenta-r-44-bilhoes-em-2025.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T19:00:11.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
@@ -1080,16 +1036,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cyv9pzql39po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Brasil",
       "dateISO": "2026-02-15T18:54:58.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "1764d35c7ed6a059",
-      "title": "Pampulha tem trânsito intenso após interdições para apresentação de Marina Sena",
-      "link": "https://g1.globo.com/mg/minas-gerais/carnaval/2026/noticia/2026/02/15/pampulha-tem-transito-intenso-apos-interdicoes-para-apresentacao-de-marina-sena.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-15T18:52:57.000Z",
       "topics": [
         "saude"
       ]
@@ -1196,41 +1142,11 @@
       ]
     },
     {
-      "id": "ad14f056bcd81ce3",
-      "title": "Medicina j� debate se ci�me pode ser doen�a de verdade",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2026/02/medicina-ja-debate-se-ciume-pode-ser-doenca-de-verdade.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-15T11:30:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "281bedaebd45588d",
-      "title": "Por que 'O Morro dos Ventos Uivantes' � t�o dif�cil de adaptar, mas est� sempre no cinema",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/02/por-que-o-morro-dos-ventos-uivantes-e-tao-dificil-de-adaptar-mas-esta-sempre-no-cinema.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-15T11:00:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "81ebb9eb1b93b979",
       "title": "Horóscopo do dia: previsão para os 12 signos em 15/02/2026",
       "link": "https://www.cartacapital.com.br/astrologia/horoscopo-do-dia-previsao-para-os-12-signos-em-15-02-2026/",
       "source": "CartaCapital",
       "dateISO": "2026-02-15T10:00:04.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "5e0704e4f1baadec",
-      "title": "Gest�o Tarc�sio de Freitas recebe R$ 1,3 bi com leil�o e venda de im�veis",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/02/gestao-tarcisio-de-freitas-recebe-r-13-bi-com-leilao-e-venda-de-imoveis.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-15T09:00:00.000Z",
       "topics": [
         "saude"
       ]
