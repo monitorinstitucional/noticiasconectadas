@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-17T05:15:13.830Z",
+  "generatedAtISO": "2026-02-17T08:01:55.573Z",
   "failures": [
     {
       "name": "UOL",
@@ -15,11 +15,6 @@
       "name": "O Globo",
       "url": "https://oglobo.globo.com/rss/oglobo.xml",
       "error": "Status code 404"
-    },
-    {
-      "name": "Metrópoles",
-      "url": "https://www.metropoles.com/feed",
-      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
     },
     {
       "name": "Correio Braziliense",
@@ -50,6 +45,11 @@
       "name": "O Tempo",
       "url": "https://www.otempo.com.br/rss/ultimas",
       "error": "Status code 404"
+    },
+    {
+      "name": "ConJur",
+      "url": "https://www.conjur.com.br/rss.xml",
+      "error": "AggregateError"
     },
     {
       "name": "ICL Notícias",
@@ -123,6 +123,196 @@
     }
   ],
   "items": [
+    {
+      "id": "c038ded32307dfc9",
+      "title": "Terça de Carnaval ainda tem interdições no trânsito em São Paulo",
+      "link": "https://veja.abril.com.br/brasil/carnaval-hoje-em-sao-paulo-terca-transito-bloqueios/",
+      "source": "Veja",
+      "dateISO": "2026-02-17T08:00:49.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2421bd878037134e",
+      "title": "Juliana Alves exalta enredo sobre Carolina Maria de Jesus: “Honra”",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/juliana-alves-exalta-enredo-sobre-carolina-maria-de-jesus-honra/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-17T07:42:07.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "64691ba5276a17d6",
+      "title": "Isabel Fillardis defende valorização de heróis negros",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/carnaval/isabel-fillardis-defende-valorizacao-de-herois-negros/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-17T07:13:58.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "7e976198c9d65dee",
+      "title": "Robôs que salvam vidas e arrumam a casa ",
+      "link": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/02/17/robos-que-salvam-vidas-e-arrumam-a-casa.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-17T07:01:36.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "acda3f55094ed1fb",
+      "title": "'Ela vendeu as netas': avó teria facilitado e negociado encontro entre duas menores e piloto acusado de abuso",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/02/17/ela-vendeu-as-netas-avo-teria-facilitado-e-negociado-encontro-entre-duas-menores-e-piloto-acusado-de-abuso.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-17T07:01:31.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "1a7129b4dfef1623",
+      "title": "'Sentia que eu tinha dificuldade de ganhar músculo': a tentativa de mudar o corpo que terminou em falência renal",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/02/17/sentia-que-eu-tinha-dificuldade-de-ganhar-musculo-a-tentativa-de-mudar-o-corpo-que-terminou-em-falencia-renal.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-17T07:01:29.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "65a7a6bd2fca9df6",
+      "title": "Cronologia de família desaparecida no RS: confira passo a passo do sumiço à prisão de PM suspeito",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/02/17/cronologia-de-familia-desaparecida-no-rs-confira-passo-a-passo-do-sumico-a-prisao-de-pm-suspeito.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-17T07:01:12.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "4e9e3bcf31f3f3b9",
+      "title": "Quanto custa viver no ES? Pesquisa revela que capixaba gasta mais do que a média brasileira; veja valor",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/02/17/quanto-custa-viver-no-es-pesquisa-revela-que-capixaba-gasta-mais-do-que-a-media-brasileira-veja-valor.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-17T07:01:03.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "022c6bcc3cef710d",
+      "title": "Homem condenado por atirar na cabeça de torcedor do Náutico antes de jogo é preso 13 anos após crime",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/02/17/homem-condenado-por-atirar-na-cabeca-de-torcedor-do-nautico-antes-de-jogo-e-preso-13-anos-apos-crime.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-17T07:00:54.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c0033e783507dbd6",
+      "title": "Baianeiros, Juventude Bronzeada, Truck do Desejo, Funk You, Bartucada e mais: veja guia de blocos desta terça de carnaval em BH",
+      "link": "https://g1.globo.com/mg/minas-gerais/carnaval/2026/noticia/2026/02/17/baianeiros-juventude-bronzeada-truck-do-desejo-funk-you-bartucada-e-mais-veja-guia-de-blocos-desta-terca-de-carnaval-em-bh.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-17T07:00:37.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "21c908c05a9ad8b2",
+      "title": "Supershape de Virginia já teve barriga negativa, inchada, cinturinha de pilão e fase menos sarada; fotos ",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/17/super-shape-de-virginia-ja-teve-barriga-negativa-inchada-cinturinha-de-pilao-e-fase-menos-sarada-fotos.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-17T07:00:33.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "efcf25b59573b7fc",
+      "title": "Beija-Flor gasta mais de R$ 1 milhão em estrutura que vira Iemanjá em pleno desfile ",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/17/beija-flor-gasta-mais-de-r-1-milhao-em-estrutura-que-vira-iemanja-em-pleno-desfile.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-17T07:00:30.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b1e7632f1ecaab45",
+      "title": "Protesto exp�e atrito entre Nikolas e ala bolsonarista que evita 'Fora, Toffoli'",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/protesto-expoe-atrito-entre-nikolas-e-ala-bolsonarista-que-evita-fora-toffoli.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-17T07:00:00.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "678dc645beff63bb",
+      "title": "Aumento de sal�rio com IA impulsiona interesse por acordos pr�-nupciais nos EUA",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/02/aumento-de-salario-com-ia-impulsiona-interesse-por-acordos-pre-nupciais-nos-eua.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-17T07:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "734f8b6290029783",
+      "title": "Musical que conta a vida da cantora Tina Tuner estreia em SP",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/teatro/2026/02/musical-que-conta-a-vida-da-cantora-tina-tuner-estreia-em-sp.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-17T07:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "3da2e7c03453d2dc",
+      "title": "Juliana Alves, ex rainha da Unidos da Tijuca, desfila à frente da escola e retorna na última ala",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/17/juliana-alves-ex-rainha-da-unidos-da-tijuca-desfila-a-frente-da-escola-e-retorna-na-ultima-ala.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-17T06:48:42.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "39a668b105eb2c89",
+      "title": "A memória de Carolina de Jesus que encerra segunda noite na Sapucaí",
+      "link": "https://veja.abril.com.br/coluna/veja-gente/a-memoria-de-carolina-de-jesus-que-encerra-segunda-noite-na-sapucai/",
+      "source": "Veja",
+      "dateISO": "2026-02-17T06:23:31.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "caa90e143d37a5e3",
+      "title": "VÍDEO: Ciça aparece de surpresa na comissão de frente da Viradouro antes de reger bateria em cima de carro",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/17/mestre-cica-na-viradouro.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-17T05:31:16.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "5e818ead13624312",
+      "title": "INSS, Master, TSE: André Mendonça amplia poderes em ano eleitoral",
+      "link": "\n\t\t\t\thttps://www.metropoles.com/brasil/inss-master-tse-andre-mendonca-amplia-poderes-em-ano-eleitoral",
+      "source": "Metrópoles",
+      "dateISO": "2026-02-17T05:01:59.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
     {
       "id": "87e9ca1d7a16349b",
       "title": "Republicanos se recusou a assinar nota pró-Toffoli",
@@ -401,6 +591,16 @@
       "dateISO": "2026-02-17T02:48:24.000Z",
       "topics": [
         "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "674ffe10b5bfc8c2",
+      "title": "FOTOS: Veja os destaques no segundo dia de desfiles do Grupo Especial no Rio",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2026/noticia/2026/02/16/fotos-veja-os-destaques-no-segundo-dia-de-desfiles-do-grupo-especial-no-rio.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-17T02:46:31.000Z",
+      "topics": [
         "saude"
       ]
     },
@@ -701,7 +901,6 @@
       "source": "ConJur",
       "dateISO": "2026-02-16T23:49:28.000Z",
       "topics": [
-        "stf",
         "saude"
       ]
     },
@@ -757,26 +956,6 @@
       ]
     },
     {
-      "id": "325409f3375a205d",
-      "title": "Críticas à interpretação da modulação de efeitos adotada no julgamento do AREsp 2.354.017",
-      "link": "https://www.conjur.com.br/2026-fev-16/criticas-a-interpretacao-da-modulacao-de-efeitos-adotada-no-julgamento-do-aresp-2-354-017/",
-      "source": "ConJur",
-      "dateISO": "2026-02-16T23:17:18.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "e4829ced8beb2d13",
-      "title": "Relator retira novas taxações de novo marco do transporte público",
-      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/relator-retira-novas-taxacoes-de-novo-marco-do-transporte-publico/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-16T23:14:52.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "61aceade80861a07",
       "title": "Mulher cita agressão e abuso de ladrão ao ter casa invadida no interior de SP: 'Pegou nos meus peitos, apertou e me chutou'",
       "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/02/16/mulher-cita-agressao-e-abuso-de-ladrao-ao-ter-casa-invadida-no-interior-de-sp-pegou-nos-meus-peitos-apertou-e-me-chutou.ghtml",
@@ -827,102 +1006,11 @@
       ]
     },
     {
-      "id": "0df7c2a16a37a191",
-      "title": "PM investigado por fraudes na compra de abadás é preso em Salvador",
-      "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/pm-investigado-por-fraudes-na-compra-de-abadas-e-preso-em-salvador/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-16T23:00:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "76a1d46841128080",
-      "title": "Suspeito de matar homem de 38 anos é preso em Sorocaba",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/02/16/suspeito-de-matar-homem-de-38-anos-e-preso-em-sorocaba.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-16T22:56:14.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "e12ffbd2f79466b4",
-      "title": "Veja  pontos de BH com QR Code para mandar fotos e vídeos do seu carnaval; iniciativa vai ajudar no plantio de árvores",
-      "link": "https://g1.globo.com/mg/minas-gerais/carnaval/2026/noticia/2026/02/16/veja-pontos-de-bh-com-qr-code-para-mandar-fotos-e-videos-do-seu-carnaval-iniciativa-vai-ajudar-no-plantio-de-arvores.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-16T22:51:54.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "a8ac8812cab6c755",
-      "title": "Carlos diz que Bolsonaro passou mal na cadeia e está sendo monitorado",
-      "link": "https://g1.globo.com/politica/politico/noticia/2026/02/16/carlos-diz-que-bolsonaro-passou-mal-na-cadeia-e-esta-sendo-monitorado.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-16T22:49:26.000Z",
-      "topics": [
-        "stf",
-        "saude"
-      ]
-    },
-    {
-      "id": "6aa2b4bff5a99858",
-      "title": "MA recebe projeto para monitoramento e restauração de corais em parque estadual na cidade de Cururupu",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/02/16/ma-recebe-projeto-para-monitoramento-e-restauracao-de-corais-em-parque-estadual-na-cidade-de-cururupu.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-16T22:46:41.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "65bc3187fa6ca463",
       "title": "Bloco de Brasília faz carnaval acessível para pessoas com deficiência",
       "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/bloco-de-brasilia-faz-carnaval-acessivel-para-pessoas-com-deficiencia",
       "source": "Agência Brasil",
       "dateISO": "2026-02-16T22:46:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "11a974c70d0e4842",
-      "title": "Seu Boinha, pai do influenciador Francisco Garcia, fica em estado crítico",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/02/16/seu-boinha-pai-do-influenciador-francisco-garcia-fica-em-estado-critico.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-16T22:45:07.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "2e791cf1ee81246f",
-      "title": "Após ataque a tiros que deixou três mortos, moradores de Santa Rita relatam violência na cidade: 'Falta segurança'",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/02/16/apos-ataque-a-tiros-que-deixou-tres-mortos-moradores-de-santa-rita-relatam-violencia-na-cidade-falta-seguranca.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-16T22:42:01.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "268f3418c11291dc",
-      "title": "Chuva forte deixa mais de 70 mil imóveis sem energia elétrica na capital e Grande SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/02/16/chuva-forte-deixa-mais-de-70-mil-imoveis-sem-energia-eletrica-na-capital-e-grande-sp.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-16T22:41:21.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "6902350da94ad85e",
-      "title": "Gari é atacado por cachorro da raça pit bull no Ver-o-Peso, em Belém",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/02/16/gari-e-atacado-por-cachorro-da-raca-pit-bull-no-ver-o-peso-em-belem.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-16T22:41:13.000Z",
       "topics": [
         "saude"
       ]
@@ -935,16 +1023,6 @@
       "dateISO": "2026-02-16T22:37:28.000Z",
       "topics": [
         "stf",
-        "saude"
-      ]
-    },
-    {
-      "id": "639c4940a681a41a",
-      "title": "VÍDEO: moradores registram diversos peixes mortos boiando em rio do Bailique, distrito de Macapá",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/02/16/video-moradores-registram-diversos-peixes-mortos-boiando-em-rio-do-bailique-distrito-de-macapa.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-16T22:36:46.000Z",
-      "topics": [
         "saude"
       ]
     },
@@ -974,36 +1052,6 @@
       "link": "https://www.poder360.com.br/poder-justica/moraes-vota-para-rejeitar-recursos-de-kids-pretos-condenados/",
       "source": "Poder360",
       "dateISO": "2026-02-16T21:52:43.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "53c62a2de2f569fe",
-      "title": "Ganso é homenageado por marca histórica com a camisa do Fluminense",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/ganso-e-homenageado-por-marca-historica-com-a-camisa-do-fluminense/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-16T21:24:22.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "841b9bdded818db1",
-      "title": "Índia apreende três petroleiros ligados ao Irã e sancionados pelos EUA",
-      "link": "https://www.cnnbrasil.com.br/internacional/india-apreende-tres-petroleiros-ligados-ao-ira-e-sancionados-pelos-eua/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-16T21:19:13.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "a033997d2a9f6bff",
-      "title": "Patent term adjustment no Brasil: panorama atual e perspectivas",
-      "link": "https://www.conjur.com.br/2026-fev-16/patent-term-adjustment-no-brasil-panorama-atual-e-perspectivas/",
-      "source": "ConJur",
-      "dateISO": "2026-02-16T21:16:36.000Z",
       "topics": [
         "stf"
       ]
@@ -1089,16 +1137,6 @@
       ]
     },
     {
-      "id": "7ced013bb40a02fa",
-      "title": "ESPN fecha lista de enviados para cobrir Copa do Mundo e define cobertura; veja mais",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/02/espn-fecha-lista-de-enviados-para-cobrir-copa-do-mundo-e-define-cobertura-veja-mais.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-16T17:00:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "caeea9273bcec9de",
       "title": "O fim do “acho que cabe”: como a medição a laser mudou a forma de planejar a casa",
       "link": "https://www.cartacapital.com.br/toquetec/o-fim-do-acho-que-cabe-como-a-medicao-a-laser-mudou-a-forma-de-planejar-a-casa/",
@@ -1116,16 +1154,6 @@
       "dateISO": "2026-02-16T15:00:11.000Z",
       "topics": [
         "saude"
-      ]
-    },
-    {
-      "id": "7c5c10c214bb5056",
-      "title": "Pedido do delator Fernando Cavendish chega a Toffoli no STF",
-      "link": "https://platobr.com.br/pedido-do-delator-fernando-cavendish-chega-a-toffoli-no-stf",
-      "source": "PlatôBR",
-      "dateISO": "2026-02-16T12:00:37.000Z",
-      "topics": [
-        "stf"
       ]
     },
     {
