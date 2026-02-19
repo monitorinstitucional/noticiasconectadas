@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-19T05:13:17.658Z",
+  "generatedAtISO": "2026-02-19T07:59:11.734Z",
   "failures": [
     {
       "name": "UOL",
@@ -77,6 +77,11 @@
       "error": "Status code 404"
     },
     {
+      "name": "Metrópoles",
+      "url": "https://www.metropoles.com/feed",
+      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    },
+    {
       "name": "Correio Braziliense",
       "url": "https://www.correiobraziliense.com.br/rss/ultimas.xml",
       "error": "Status code 404"
@@ -119,11 +124,161 @@
   ],
   "items": [
     {
-      "id": "007a3619adcbabdb",
-      "title": "Athletico-PR e Corinthians fazem duelo atrasado pelo Brasileirão",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/esportes/corinthians-e-athletico-pr-fazem-duelo-atrasado-pelo-brasileirao",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-19T05:00:59.000Z",
+      "id": "f4f3c97b31677318",
+      "title": "Em ofício interno, Correios apontam que o programa Remessa Conforme expôs problemas de 'reposicionamento negocial da empresa'",
+      "link": "https://g1.globo.com/economia/noticia/2026/02/19/em-oficio-interno-correios-apontam-que-o-programa-remessa-conforme-expos-problemas-de-reposicionamento-negocial-da-empresa.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-19T07:02:01.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "479c3002c34ed751",
+      "title": "Correios admitem 'ciclo vicioso de prejuízos' com perda de clientes e de receitas",
+      "link": "https://g1.globo.com/economia/noticia/2026/02/19/correios-admitem-ciclo-vicioso-de-prejuizos-com-perda-de-clientes-e-de-receitas.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-19T07:01:40.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "1198dcd6f3cbf762",
+      "title": "Bugio-vermelho: espécie que desapareceu durante surto de febre amarela volta a ser registrada em SC; VÍDEO",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/02/19/bugio-vermelho-especie-desapareceu-surto-febre-amarela-volta-ser-registrada-sc-video.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-19T07:01:32.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "46d4d3fff489b0a7",
+      "title": "Família de servidor que morreu ao inalar poeira contaminada por hantavírus deverá ser indenizada em R$ 200 mil",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/02/19/familia-de-servidor-que-morreu-ao-inalar-poeira-contaminada-por-hantavirus-devera-ser-indenizada-em-r-200-mil.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-19T07:01:32.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ff54322acc60fa3f",
+      "title": "Ex-atleta precisou de hemodiálise e de transplante após consumo excessivo de proteína",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/02/19/ex-atleta-precisou-de-hemodialise-e-de-transplante-apos-consumo-excessivo-de-proteina.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-19T07:01:28.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b936125ddff30f33",
+      "title": "Mulher morta a facadas pelo ex em MG mudou de cidade, mas continuou a ser perseguida",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/02/19/mulher-morta-a-facadas-pelo-ex-em-mg-mudou-de-cidade-mas-continuou-a-ser-perseguida.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-19T07:01:06.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "d456c3cf40567cc7",
+      "title": "Drone gigante, tombo na avenida, motorista 'preso' em bloco: veja vídeos que viralizaram no carnaval 2026",
+      "link": "https://g1.globo.com/carnaval/2026/noticia/2026/02/19/drone-gigante-tombo-na-avenida-motorista-preso-em-bloco-veja-videos-que-viralizaram-no-carnaval-2026.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-19T07:01:05.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "51331e6a5d31d1fe",
+      "title": "Saiba quem é a comerciante que viralizou com vídeos bem-humorados sobre mato alto, buracos e sujeira no interior de SP",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/02/19/saiba-quem-e-a-comerciante-que-viralizou-com-videos-bem-humorados-sobre-mato-alto-buracos-e-sujeira-no-interior-de-sp.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-19T07:01:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "63e44a5a89624664",
+      "title": "Passado o Carnaval, veja quais assuntos devem ser discutidos pelo Congresso",
+      "link": "https://g1.globo.com/politica/noticia/2026/02/19/passado-o-carnaval-veja-quais-assuntos-devem-ser-discutidos-pelo-congresso.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-19T07:00:53.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "5b88334a8281b3eb",
+      "title": "Com processo por corrupção de volta ao STJ, Witzel aciona STF para trancar ação",
+      "link": "https://platobr.com.br/com-processo-por-corrupcao-de-volta-ao-stj-witzel-aciona-stf-para-trancar-acao",
+      "source": "PlatôBR",
+      "dateISO": "2026-02-19T07:00:21.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "7f96e9f69b381ca8",
+      "title": "Pistas simples concentram acidentes de tr�nsito mais graves no Brasil, aponta estudo",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/pistas-simples-concentram-acidentes-de-transito-mais-graves-no-brasil-aponta-estudo.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-19T07:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "1f5014c0f16c9b2f",
+      "title": "Depois do Carnaval, veja calend�rio com os pr�ximos feriados de 2026",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/02/depois-do-carnaval-veja-calendario-com-os-proximos-feriados-de-2026.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-19T07:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "cb344d8b0b0da530",
+      "title": "Rodízio de veículos volta a partir desta quinta-feira (19) em SP",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/rodizio-de-veiculos-volta-a-partir-desta-quinta-feira-19-em-sp/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-19T06:35:37.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "a369c0d1bb40162f",
+      "title": "Prefere um usado? Veja 5 SUVs maiores e mais potentes pelo mesmo preço do Toyota Yaris Cross ",
+      "link": "https://g1.globo.com/carros/noticia/2026/02/19/5-suvs-maiores-e-mais-potentes-pelo-mesmo-preco-do-toyota-yaris-cross.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-19T06:00:41.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c3cae02d9cc21e17",
+      "title": "Exportação de gado vivo dobra em 3 anos, mesmo com críticas de ambientalistas ao transporte",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/02/19/exportacao-de-gado-vivo-dobra-em-3-anos-mesmo-com-criticas-de-ambientalistas-ao-transporte.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-19T06:00:36.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b848796e582c858b",
+      "title": "Bactéria presa no gelo há 5 mil anos já era resistente a antibióticos modernos, revela estudo",
+      "link": "https://g1.globo.com/ciencia/noticia/2026/02/19/bacteria-presa-no-gelo-ha-5-mil-anos-ja-era-resistente-a-antibioticos-modernos-revela-estudo.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-19T06:00:32.000Z",
       "topics": [
         "saude"
       ]
@@ -144,16 +299,6 @@
       "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/02/19/df-segue-bem-abaixo-da-meta-de-imunizar-jovens-de-10-a-14-anos-contra-a-dengue-veja-locais-de-vacinacao.ghtml",
       "source": "G1",
       "dateISO": "2026-02-19T05:00:50.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "930d516f2c26348b",
-      "title": "Veja as calças mais versáteis para quem enjoou do jeans",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/colunas/ilca-maria-estevao/veja-as-calcas-mais-versateis-para-quem-enjoou-do-jeans",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-19T05:00:49.000Z",
       "topics": [
         "saude"
       ]
@@ -813,17 +958,6 @@
       ]
     },
     {
-      "id": "85221391eb84b533",
-      "title": "STF deve retomar debate sobre desoneração da folha em 27 de fevereiro",
-      "link": "https://www.cnnbrasil.com.br/politica/stf-deve-retomar-debate-sobre-desoneracao-da-folha-em-27-de-fevereiro/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-18T23:23:37.000Z",
-      "topics": [
-        "stf",
-        "saude"
-      ]
-    },
-    {
       "id": "6f7ee43ca87f2ae8",
       "title": "Bebê de 5 meses agredida por ex-namorado da mãe é internada após ter febre e vômito, diz Conselho Tutelar",
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/18/bebe-de-5-meses-agredida-por-ex-namorado-da-mae-e-internada-apos-ter-febre-e-vomito-diz-conselho-tutelar.ghtml",
@@ -844,27 +978,6 @@
       ]
     },
     {
-      "id": "568d03de6f412d61",
-      "title": "Após adiamentos, CPMI do INSS agenda depoimento de Daniel Vorcaro para dia 23 de fevereiro",
-      "link": "https://g1.globo.com/politica/noticia/2026/02/18/apos-adiamentos-cpi-do-inss-agenda-depoimento-de-daniel-vorcaro-para-dia-23-de-fevereiro.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-18T23:19:29.000Z",
-      "topics": [
-        "stf",
-        "saude"
-      ]
-    },
-    {
-      "id": "4f2dd63fdcb22d55",
-      "title": "CPI do INSS antecipa depoimento de Vorcaro para 23 de fevereiro",
-      "link": "https://www.poder360.com.br/poder-congresso/cpi-do-inss-antecipa-depoimento-de-vorcaro-para-23-de-fevereiro/",
-      "source": "Poder360",
-      "dateISO": "2026-02-18T23:19:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "eb7e83fa887bc8aa",
       "title": "Entidade contesta no STF lei que alterou regime do lucro presumido",
       "link": "https://www.conjur.com.br/2026-fev-18/entidade-contesta-no-stf-lei-que-alterou-regime-do-lucro-presumido/",
@@ -872,26 +985,6 @@
       "dateISO": "2026-02-18T23:18:21.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "6079e1a96e99266a",
-      "title": "Sargento da Polícia Militar morre após sofrer acidente de moto, em Goiânia",
-      "link": "https://g1.globo.com/go/goias/transito/noticia/2026/02/18/sargento-da-policia-militar-morre-apos-sofrer-acidente-de-moto-em-goiania.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-18T23:17:11.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "1ec7eab4c9cff543",
-      "title": "Homem é preso após furtar fios e dormir no telhado de casa devido ao 'clima agradável'",
-      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/02/18/homem-e-preso-apos-furtar-fios-e-dormir-no-telhado-de-casa-devido-ao-clima-agradavel.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-18T23:10:41.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
@@ -905,61 +998,11 @@
       ]
     },
     {
-      "id": "a1a2354d9cb91173",
-      "title": "Horários dos shows do Carnaboi 2026 no Sambódromo de Manaus é divulgado; veja programação completa",
-      "link": "https://g1.globo.com/am/amazonas/carnaval/2026/noticia/2026/02/18/horarios-dos-shows-do-carnaboi-2026-no-sambodromo-de-manaus-e-divulgado-confira-programacao.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-18T23:06:18.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "4266568accc48e50",
-      "title": "MP denuncia mãe e padrasto por estupro contra menina de 3 anos em Ribeirão Preto, SP ",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/02/18/mp-denuncia-mae-e-padrasto-por-estupro-contra-menina-de-3-anos-em-ribeirao-preto-sp.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-18T23:05:35.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "80829d78bc720815",
-      "title": "VÍDEO: Temporal de 15 minutos provoca alagamentos e água invade casas em Bom Despacho",
-      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/02/18/video-temporal-de-15-minutos-provoca-alagamentos-e-agua-invade-casas-em-bom-despacho.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-18T23:04:37.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "b1093afef3d009b3",
       "title": "Brasil e mais 100 países condenam expansão de Israel na Cisjordânia",
       "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/brasil-e-mais-100-paises-condenam-expansao-de-israel-na-cisjordania",
       "source": "Agência Brasil",
       "dateISO": "2026-02-18T23:04:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "4dd774127b4342e2",
-      "title": "Projeto que proíbe confinamento de animais com multa de até R$ 19,3 mil avança na Câmara de Campinas",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/18/projeto-que-proibe-confinamento-de-animais-com-multa-de-ate-r-193-mil-avanca-na-camara-de-campinas.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-18T23:02:32.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "1e71cda710e97ea7",
-      "title": "Falso 'corretor' é denunciado por golpe em venda de apartamentos no litoral de SP",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/02/18/falso-corretor-e-denunciado-por-golpe-em-venda-de-apartamentos-no-litoral-de-sp.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-18T23:00:29.000Z",
       "topics": [
         "saude"
       ]
@@ -985,36 +1028,6 @@
       ]
     },
     {
-      "id": "4a2f27f00c536c5b",
-      "title": "Furto de fios fecha UBS Casa Verde nesta quinta, em Vinhedo",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/18/furto-de-fios-fecha-ubs-casa-verde-nesta-quinta-feira-19-em-vinhedo.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-18T22:56:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "2a6d7a86fbe25490",
-      "title": "Morro da Casa Verde é campeã do Acesso 2 do carnaval de SP 2026; X-9 Paulistana também sobe de grupo",
-      "link": "https://g1.globo.com/sp/sao-paulo/carnaval/2026/noticia/2026/02/18/morro-da-casa-verde-e-campea-do-acesso-2-do-carnaval-de-sp-2026-x-9-paulistana-tambem-sobe-de-grupo.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-18T22:53:38.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "4f35b384b0e629ec",
-      "title": "EPTV2 - Ribeirão e Franca",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-18T22:53:35.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "34608a284463a6e1",
       "title": "Moraes arquiva inqu�rito por coa��o e obstru��o ap�s PGR dizer que Zambelli n�o cumpriu plano",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/pgr-diz-que-zambelli-nao-cumpriu-plano-e-moraes-arquiva-inquerito-por-coacao-e-obstrucao.shtml",
@@ -1022,16 +1035,6 @@
       "dateISO": "2026-02-18T22:50:00.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "8ecddc03c89ba013",
-      "title": "BemAgro capta R$ 30,3 milhões em Série A com expansão de IA no agro",
-      "link": "https://www.cnnbrasil.com.br/agro/bemagro-capta-r-303-milhoes-em-serie-a-com-expansao-de-ia-no-agro/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-18T22:42:48.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
@@ -1172,16 +1175,6 @@
       "link": "https://www.congressoemfoco.com.br/artigo/116490/em-defesa-do-marco-legal-dos-transportes",
       "source": "Congresso em Foco",
       "dateISO": "2026-02-18T18:49:03.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "bdb06f62b77772ea",
-      "title": "Corpos de 3 suspeitos de morte de menina de 8 anos s�o encontrados em Nova Igua�u (RJ)",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/corpos-de-3-suspeitos-de-morte-de-menina-de-8-anos-sao-encontrados-em-nova-iguacu-rj.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-18T18:29:00.000Z",
       "topics": [
         "saude"
       ]
