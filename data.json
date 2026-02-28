@@ -1,6 +1,66 @@
 {
-  "generatedAtISO": "2026-02-27T16:04:41.079Z",
+  "generatedAtISO": "2026-02-28T04:37:01.415Z",
   "failures": [
+    {
+      "name": "UOL",
+      "url": "https://rss.uol.com.br/feed/noticias.xml",
+      "error": "Feed not recognized as RSS 1 or 2."
+    },
+    {
+      "name": "Estadão",
+      "url": "https://www.estadao.com.br/rss/ultimas.xml",
+      "error": "Status code 404"
+    },
+    {
+      "name": "O Globo",
+      "url": "https://oglobo.globo.com/rss/oglobo.xml",
+      "error": "Status code 404"
+    },
+    {
+      "name": "Metrópoles",
+      "url": "https://www.metropoles.com/feed",
+      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    },
+    {
+      "name": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/rss/ultimas.xml",
+      "error": "Status code 504"
+    },
+    {
+      "name": "Valor Econômico",
+      "url": "https://valor.globo.com/rss/valor.xml",
+      "error": "Status code 404"
+    },
+    {
+      "name": "R7",
+      "url": "https://noticias.r7.com/rss.xml",
+      "error": "Status code 404"
+    },
+    {
+      "name": "Migalhas",
+      "url": "https://www.migalhas.com.br/rss",
+      "error": "Status code 404"
+    },
+    {
+      "name": "DW Brasil",
+      "url": "https://rss.dw.com/rdf/rss-pt-br",
+      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: E"
+    },
+    {
+      "name": "O Tempo",
+      "url": "https://www.otempo.com.br/rss/ultimas",
+      "error": "Status code 404"
+    },
+    {
+      "name": "ICL Notícias",
+      "url": "https://iclnoticias.com.br/feed/",
+      "error": "Status code 403"
+    },
+    {
+      "name": "Crusoé",
+      "url": "https://revistacrusoe.com.br/feed/",
+      "error": "getaddrinfo ENOTFOUND revistacrusoe.com.br"
+    },
     {
       "name": "UOL",
       "url": "https://rss.uol.com.br/feed/noticias.xml",
@@ -60,613 +120,999 @@
       "name": "Crusoé",
       "url": "https://revistacrusoe.com.br/feed/",
       "error": "getaddrinfo ENOTFOUND revistacrusoe.com.br"
-    },
-    {
-      "name": "UOL",
-      "url": "https://rss.uol.com.br/feed/noticias.xml",
-      "error": "Feed not recognized as RSS 1 or 2."
-    },
-    {
-      "name": "Estadão",
-      "url": "https://www.estadao.com.br/rss/ultimas.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "O Globo",
-      "url": "https://oglobo.globo.com/rss/oglobo.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "Correio Braziliense",
-      "url": "https://www.correiobraziliense.com.br/rss/ultimas.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "Valor Econômico",
-      "url": "https://valor.globo.com/rss/valor.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "R7",
-      "url": "https://noticias.r7.com/rss.xml",
-      "error": "Status code 404"
-    },
-    {
-      "name": "Migalhas",
-      "url": "https://www.migalhas.com.br/rss",
-      "error": "Status code 404"
-    },
-    {
-      "name": "DW Brasil",
-      "url": "https://rss.dw.com/rdf/rss-pt-br",
-      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: E"
-    },
-    {
-      "name": "O Tempo",
-      "url": "https://www.otempo.com.br/rss/ultimas",
-      "error": "Status code 404"
-    },
-    {
-      "name": "ICL Notícias",
-      "url": "https://iclnoticias.com.br/feed/",
-      "error": "Status code 403"
-    },
-    {
-      "name": "Crusoé",
-      "url": "https://revistacrusoe.com.br/feed/",
-      "error": "getaddrinfo ENOTFOUND revistacrusoe.com.br"
     }
   ],
   "items": [
     {
-      "id": "19c9a75d68116bfb",
-      "title": "Itália elogia aplicação provisória do acordo UE-Mercosul; França lamenta",
-      "link": "https://istoe.com.br/italia-elogia-aplicacao-provisoria-do-acordo-ue-mercosul-franca-lamenta",
-      "source": "IstoÉ",
-      "dateISO": "2026-02-27T16:01:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c4ce33bc7471d88e",
-      "title": "Moraes rejeita autorização para visita de Magno Malta a Bolsonaro",
-      "link": "https://oantagonista.com.br/brasil/moraes-rejeita-autorizacao-para-visita-de-magno-malta-a-bolsonaro/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-27T15:59:10.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "ca01f78f25975c0e",
-      "title": "Cidade no interior libera Mounjaro de graça no SUS. Veja as regras",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/sao-paulo/cidade-no-interior-libera-mounjaro-de-graca-no-sus-veja-as-regras",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-27T15:57:37.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "e3da5b9e79df4681",
-      "title": "Freira de 82 anos morta em convento no Paraná também foi vítima de estupro, diz polícia",
-      "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/02/27/freira-de-82-anos-morta-em-convento-no-parana-tambem-foi-vitima-de-estupro-diz-policia.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T15:54:37.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "6c8be7a35651c614",
-      "title": "VÍDEO: homem escapa por um triz de ser atingido por caminhonete que bateu em poste no interior de SP",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/02/27/video-homem-escapa-por-um-triz-de-ser-atingido-por-caminhonete-que-bateu-em-poste-no-interior-de-sp.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T15:52:05.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "a2b7235d4f3ddccf",
-      "title": "Família encontra larvas na boca de paciente internado em UTI no RS",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/02/27/familia-encontra-larvas-na-boca-de-paciente-internado-em-uti-no-rs.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T15:51:25.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "159eb7bd3160f635",
-      "title": "Bélgica identifica 5 mil suspeitos após investigar sistema de mensagens criptografadas",
-      "link": "https://istoe.com.br/belgica-identifica-5-mil-suspeitos-apos-investigar-sistema-de-mensagens-criptografadas",
-      "source": "IstoÉ",
-      "dateISO": "2026-02-27T15:51:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "f492dea64d3c1ceb",
-      "title": "Adolescente é apreendida por suspeita de matar bebê de 2 anos no Maranhão",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/brasil/adolescente-e-apreendida-por-suspeita-de-matar-bebe-de-2-anos-no-ma",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-27T15:50:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "22629784bb5c98ed",
-      "title": "Montevidéu recebe primeira livraria Feltrinelli da América do Sul",
-      "link": "https://istoe.com.br/montevideu-recebe-primeira-livraria-feltrinelli-da-america-do-sul",
-      "source": "IstoÉ",
-      "dateISO": "2026-02-27T15:50:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "877b8ef0236b8654",
-      "title": "VÍDEO: Vaca é flagrada amamentando porco no RS; especialistas explicam se comportamento oferece risco",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/02/27/video-vaca-e-flagrada-amamentando-porco-no-rs-especialistas-explicam-se-comportamento-oferece-risco.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T15:49:57.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "15e9cb76ee96686e",
-      "title": "'Parecia que tinha caído uma bomba' diz comerciante que ouviu estrondo no Rio; confira relatos de moradores ",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/02/27/parecia-que-tinha-caido-uma-bomba-ou-alguma-coisa-aqui-perto-da-gente-diz-comerciante-que-ouviu-estrondo-no-rio-confira-relatos-de-moradores.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T15:46:05.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "5047b53744cc63a7",
-      "title": "PMs presos por tráfico foram detidos quando desembarcavam três toneladas de drogas de lancha em Manaus",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/02/27/pms-presos-por-trafico-foram-detidos-quando-desembarcavam-tres-toneladas-de-drogas-de-lancha-em-manaus.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T15:45:03.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "913122eed6c01491",
-      "title": "Sino furtado após invasão de igreja em Fortaleza é recuperado",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/02/27/sino-furtado-apos-invasao-de-igreja-em-fortaleza-e-recuperado.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T15:44:30.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "405025472ffa30f1",
-      "title": "Chuvas causam destruição, alagamentos e prejuízos no Agreste; veja os municípios mais afetados",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/02/27/chuvas-causam-destruicao-alagamentos-e-prejuizos-no-agreste-veja-os-municipios-mais-afetados.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T15:42:53.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "2515d2f3b3322e28",
-      "title": "Após Câmara proibir, CBV vai ao STF para que atleta trans jogue em Londrina",
-      "link": "https://www.cnnbrasil.com.br/esportes/volei/apos-camara-proibir-cbv-vai-ao-stf-para-que-atleta-trans-jogue-em-londrina/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-27T15:41:32.000Z",
+      "id": "587256ce5aec7131",
+      "title": "Cármen Lúcia barra lei municipal e autoriza atleta trans em semifinal de vôlei feminino",
+      "link": "https://revistaoeste.com/brasil/carmen-lucia-barra-lei-municipal-e-autoriza-atleta-trans-em-semifinal-de-volei-feminino/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-28T04:17:41.000Z",
       "topics": [
         "stf",
         "saude"
       ]
     },
     {
-      "id": "78187a0b3ee58b0c",
-      "title": "Deputado do RJ Rodrigo Bacellar � indiciado sob suspeita de vazar dados ao Comando Vermelho",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/deputado-do-rj-rodrigo-bacellar-e-indiciado-sob-suspeita-de-vazar-dados-ao-comando-vermelho.shtml",
+      "id": "f9ab3b95dfb6c8f9",
+      "title": "Esses 3 signos precisam de limites urgentemente ou vão estourar por excesso de demanda",
+      "link": "https://oantagonista.com.br/ladooa/entretenimento/esses-3-signos-precisam-de-limites-urgentemente-ou-vao-estourar-por-excesso-de-demanda/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-28T04:07:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "54162dc16f32db9e",
+      "title": "Psicopatas podem mudar? Estudos mostram que empatia pode ser desenvolvida com instrução",
+      "link": "https://g1.globo.com/saude/noticia/2026/02/28/estudo-avalia-se-psicopatas-podem-mudar.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T04:00:30.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "453f49ab53c512ef",
+      "title": "Doenças raras: brasileiros esperam 5,4 anos por diagnóstico, aponta estudo; confira as condições mais frequentes ",
+      "link": "https://g1.globo.com/saude/noticia/2026/02/28/doencas-raras-brasileiros-esperam-54-anos-por-diagnostico-aponta-estudo-confira-as-condicoes-mais-frequentes.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T04:00:29.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "175b0d9c9f3127fe",
+      "title": "Seleção feminina derrota Costa Rica em primeiro amistoso de 2026",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/selecao-feminina-derrota-costa-rica-em-primeiro-amistoso-de-2026",
+      "source": "Agência Brasil",
+      "dateISO": "2026-02-28T03:18:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "8c999fa149b23bd0",
+      "title": "Penduricalhos: Gilmar Mendes manda cumprir decisões do STF",
+      "link": "https://revistaoeste.com/politica/penduricalhos-gilmar-manda-cumprir-decisoes-do-stf/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-28T03:08:20.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "15d40268db69df8b",
+      "title": "O apreciador do vinho mudou: agora não busca só preço, mas propósito e terroir",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/02/28/o-apreciador-do-vinho-mudou-agora-nao-busca-so-preco-mas-proposito-e-terroir.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T03:00:51.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "e8cf0409fed6a371",
+      "title": "Delegada explica por que reação de pet ao reencontrar tutor no RS serviu de prova para a polícia: 'A gente tinha certeza que ela reconheceria'",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/02/28/delegada-policia-explica-por-que-reacao-pet-reencontrar-tutor-rs.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T03:00:40.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "d65a1b14a872f16c",
+      "title": "Estupro em Indianópolis: veja como fica situação da adolescente após prisão de mãe e homem de 35 anos",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/02/28/estupro-em-indianopolis-veja-como-fica-situacao-da-adolescente-apos-prisao-de-mae-e-homem-de-35-anos.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T03:00:39.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b9832b4e2ef70b54",
+      "title": "Mais um porta-aviões chega ao Oriente Médio: veja como está o cerco dos EUA ao Irã",
+      "link": "https://g1.globo.com/mundo/noticia/2026/02/28/mais-um-porta-avioes-chega-ao-oriente-medio-veja-como-esta-o-cerco-dos-eua-ao-ira.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T03:00:38.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "fb35ebdcc5e314b3",
+      "title": "Vice-governadora do DF aciona Justiça contra estudantes e pede R$ 30 mil por 'ofensa à honra' em cartazes",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/02/28/vice-governadora-do-df-aciona-justica-contra-estudantes-e-pede-r-30-mil-por-ofensa-a-honra-em-cartazes.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T03:00:37.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "631204ffb072540e",
+      "title": "Estrondos no Sul do RJ: o que se sabe e o que falta esclarecer sobre o som que assustou moradores",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/02/28/estrondos-no-sul-do-rj-o-que-se-sabe-e-o-que-falta-esclarecer-sobre-o-som-que-assustou-moradores.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T03:00:35.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "986272f045f9d8f3",
+      "title": "Cadeirante arremessado de prédio por homem em surto era paratleta do MS e foi enterrado como indigente: 'Família sem resposta', diz prima",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/02/28/cadeirante-arremessado-de-predio-por-homem-em-surto-era-paratleta-do-ms-e-foi-enterrado-como-indigente-familia-sem-resposta-diz-prima.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T03:00:33.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "35e38705ac00771f",
+      "title": "Chuvas em MG: buscas por desaparecidos entram no 5º dia em Juiz de Fora e Ubá ",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/02/28/chuvas-em-mg-buscas-por-desaparecidos-entram-no-5o-dia-em-juiz-de-fora-e-uba.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T03:00:32.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "a9542096a7ff9e4c",
+      "title": "Avião carregado de dinheiro invade avenida e deixa 15 mortos",
+      "link": "https://revistaoeste.com/mundo/aviao-carregado-de-dinheiro-invade-avenida-e-deixa-15-mortos/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-28T02:54:58.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c70afde4207361a8",
+      "title": "Avião carregado de dinheiro cai na Bolívia e deixa ao menos 11 mortos ",
+      "link": "https://www.bbc.com/portuguese/articles/cre0xp70vvjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Brasil",
+      "dateISO": "2026-02-28T02:43:38.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "78e666b3224d4ff2",
+      "title": "TCU cobra informações sobre eventual federalização do BRB",
+      "link": "https://revistaoeste.com/economia/tcu-cobra-informacoes-sobre-eventual-federalizacao-do-brb/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-28T02:27:27.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "bb9360b358165aaa",
+      "title": "Acidente com avião militar deixa ao menos 15 mortos na Bolívia",
+      "link": "https://istoe.com.br/acidente-com-aviao-militar-deixa-ao-menos-15-mortos-na-bolivia",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-28T02:18:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "1ecb9703b9eea3a0",
+      "title": "Alemanha determina recall global de milhares de veículos BMW por risco de incêndio",
+      "link": "https://istoe.com.br/alemanha-determina-recall-global-de-milhares-de-veiculos-bmw-por-risco-de-incendio",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-28T02:11:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "070ff648ed97bc6a",
+      "title": "Pessoas tentam saquear carga de dinheiro após acidente de avião na Bolívia, e governo manda queimar cédulas",
+      "link": "https://g1.globo.com/mundo/noticia/2026/02/27/pessoas-tentam-saquear-dinheiro-apos-acidente-de-aviao-na-bolivia-e-governo-manda-queimar-cedulas.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T02:09:14.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c90e5e5b0abb0f85",
+      "title": "Acidente aéreo na Bolívia deixa ao menos 15 mortos (bombeiros)",
+      "link": "https://istoe.com.br/acidente-aereo-na-bolivia-deixa-ao-menos-15-mortos-bombeiros",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-28T02:06:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "4a19bc69e90e8951",
+      "title": "Senado da Argentina aprova reforma trabalhista de Milei",
+      "link": "https://revistaoeste.com/mundo/senado-da-argentina-aprova-reforma-trabalhista-de-milei/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-28T02:02:36.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "e1f058d11fe27072",
+      "title": "Senadores e STF travam embate sobre blindagem a Toffoli e poder de CPI para investigar empresa",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/senadores-e-stf-travam-embate-sobre-blindagem-a-toffoli-e-poder-de-cpi-para-investigar-empresa.shtml",
       "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-27T15:41:00.000Z",
+      "dateISO": "2026-02-28T02:00:00.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "72eea924970f2d65",
+      "title": "P�o de A��car encolheu mais de 60% sob gest�o do Casino e agora busca sa�da para d�vida",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/02/pao-de-acucar-encolheu-mais-de-60-sob-gestao-do-casino-e-agora-busca-saida-para-divida.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-28T02:00:00.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "7e0ead4a79b8ca1d",
-      "title": "Grandes festas atraem multidões e injetam milhões na economia do interior de São Paulo",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/02/27/grandes-festas-atraem-multidoes-e-injetam-milhoes-na-economia-do-interior-de-sao-paulo.ghtml",
+      "id": "2cbf246c663df102",
+      "title": "Livro ensina crian�as a entender como S�o Paulo mudou ao longo do tempo",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/02/livro-ensina-criancas-a-entender-como-sao-paulo-mudou-ao-longo-do-tempo.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-28T02:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "139aceb59aecf3a9",
+      "title": "'Assim como olho redes sociais, olho o aplicativo da Folha, diz leitor",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/02/assim-como-olho-redes-sociais-olho-o-aplicativo-da-folha-diz-leitor.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-28T02:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "677fbf73b1417094",
+      "title": "Sterling K. Brown relembra passagem pelo Brasil: “Senti um amor tão puro”",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/sterling-k-brown-relembra-passagem-pelo-brasil-senti-um-amor-tao-puro/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-28T01:56:14.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "18c9be90239ad2c2",
+      "title": "C-130 Hercules: avião militar envolvido em acidente na Bolívia é um dos mais usados no mundo",
+      "link": "https://g1.globo.com/mundo/noticia/2026/02/27/c-130-hercules-aviao-militar-envolvido-em-acidente-na-bolivia-e-um-dos-mais-usados-no-mundo.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T15:39:38.000Z",
+      "dateISO": "2026-02-28T01:50:26.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "b197a7a685ef69db",
-      "title": "Bordado, calçados e outlets impulsionam turismo de compras em cidades paulistas",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/02/27/bordado-calcados-e-outlets-impulsionam-turismo-de-compras-no-interior-de-sp.ghtml",
+      "id": "cabdd17e63591954",
+      "title": "Homem é preso por perseguir e ameaçar ex-enteada em Oeiras do Pará",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/02/27/homem-e-preso-por-perseguir-e-ameacar-ex-enteada-em-oeiras-do-para.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T15:39:33.000Z",
+      "dateISO": "2026-02-28T01:49:57.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "4845577016a2cd20",
-      "title": "Leiloeiro se pronuncia após polêmica com mansão de Ana Hickmann",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/colunas/fabia-oliveira/leiloeiro-se-pronuncia-apos-polemica-com-mansao-de-ana-hickmann",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-27T15:37:42.000Z",
+      "id": "a8fd48271b94a162",
+      "title": "Haddad diz que Master tentou aumentar cobertura do FGC",
+      "link": "https://revistaoeste.com/economia/haddad-diz-que-master-tentou-aumentar-cobertura-do-fgc/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-28T01:40:29.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "9dfee472f8f06541",
-      "title": "\"Vocês enfrentaram a Covid e iniciaram o sonho de ser médico”, diz CEO da UCP",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/especial-publicitario/ucp/universidade-central-do-paraguai/noticia/2026/02/27/voces-enfrentaram-a-covid-e-iniciaram-o-sonho-de-ser-medico-diz-ceo-da-ucp.ghtml",
+      "id": "363ae21885de74ce",
+      "title": "Acidente com avião militar deixa ao menos 15 mortos na Bolívia",
+      "link": "https://veja.abril.com.br/mundo/acidente-com-aviao-militar-deixa-ao-menos-15-mortos-na-bolivia/",
+      "source": "Veja",
+      "dateISO": "2026-02-28T01:40:06.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "5abd0aea33b4c794",
+      "title": "STF determina cumprimento imediato pelos MPs de decisões sobre verbas indenizatórias",
+      "link": "https://www.conjur.com.br/2026-fev-27/stf-determina-cumprimento-imediato-pelos-mps-de-decisoes-sobre-verbas-indenizatorias/",
+      "source": "ConJur",
+      "dateISO": "2026-02-28T01:34:22.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "c96f3797db395bc6",
+      "title": "Gilmar manda CNJ explicar orientações sobre suspensão de penduricalhos",
+      "link": "https://www.poder360.com.br/poder-justica/gilmar-manda-cnj-explicar-orientacoes-sobre-suspensao-de-penduricalhos/",
+      "source": "Poder360",
+      "dateISO": "2026-02-28T01:10:02.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "d6942520a4b546e6",
+      "title": "Como eliminar moscas definitivamente sem veneno usando um método simples e seguro para toda a casa",
+      "link": "https://oantagonista.com.br/ladooa/entretenimento/como-eliminar-moscas-definitivamente-sem-veneno-usando-um-metodo-simples-e-seguro-para-toda-a-casa/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-28T01:01:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "a8e21edf3ac2ce03",
+      "title": "Tifanny pode jogar Copa Brasil de Vôlei após veto de vereadores de Londrina, define STF",
+      "link": "https://istoe.com.br/tifanny-pode-jogar-copa-brasil-de-volei-apos-veto-de-vereadores-de-londrina-define-stf",
+      "source": "IstoÉ",
+      "dateISO": "2026-02-28T01:00:00.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "118aff38dac946da",
+      "title": "A escala de trabalho 6x1 deve acabar no Brasil? SIM",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/02/a-escala-de-trabalho-6x1-deve-acabar-no-brasil-sim.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-28T01:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ecffb3fa83bb8def",
+      "title": "Alcachofra é símbolo de purificação",
+      "link": "https://revistaoeste.com/agronegocio/alcachofra-e-simbolo-de-purificacao/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-28T01:00:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "378a9d2c38593bfa",
+      "title": "Mais de 20 PMs presos em Manaus não são encontrados durante revista após deixarem prisão sem autorização ",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/02/27/mais-de-20-policiais-militares-presos-em-nucleo-prisional-de-manaus-nao-sao-encontrados-durante-revista-apos-deixarem-local-sem-autorizacao.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T15:37:28.000Z",
+      "dateISO": "2026-02-28T00:53:31.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "46e2bdb5f19c4a75",
-      "title": "Dupla é presa por furto e receptação em Boa Vista",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/02/27/dupla-e-presa-por-furto-e-receptacao-em-boa-vista.ghtml",
+      "id": "c834763a0caf53dd",
+      "title": "AGU defende no STF que aborto legal é restrito a médicos",
+      "link": "https://www.poder360.com.br/poder-governo/agu-defende-no-stf-que-aborto-legal-e-restrito-a-medicos/",
+      "source": "Poder360",
+      "dateISO": "2026-02-28T00:52:51.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "a2be3abf5578100b",
+      "title": "Severina de “Dona Beja” é transfake? Entenda o conceito do termo",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/severina-de-dona-beja-e-transfake-entenda-o-conceito-do-termo/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-28T00:48:19.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f74c06c53870de03",
+      "title": "PF indicia Rodrigo Bacellar e mais 4 por vazamento de dados para o Comando Vermelho",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/27/pf-indicia-rodrigo-bacellar-e-mais-4-por-vazamento-de-dados-para-o-comando-vermelho.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T15:36:35.000Z",
+      "dateISO": "2026-02-28T00:47:10.000Z",
       "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "2b127951db58d034",
+      "title": "A manobra que levou a ação sobre a empresa de Toffoli às mãos de Gilmar Mendes",
+      "link": "https://www.cartacapital.com.br/justica/a-manobra-que-levou-a-acao-sobre-a-empresa-de-toffoli-nas-maos-de-gilmar-mendes/",
+      "source": "CartaCapital",
+      "dateISO": "2026-02-28T00:46:28.000Z",
+      "topics": [
+        "stf",
         "saude"
       ]
     },
     {
-      "id": "b85384a8a73c54b8",
-      "title": "MP denuncia à Justiça influencer que ofendeu PMs em Ribeirão Preto, SP",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/02/27/mp-denuncia-a-justica-influencer-que-ofendeu-pms-em-ribeirao-preto-sp.ghtml",
+      "id": "2b1e5d1d8e8e7987",
+      "title": "Jovem é preso suspeito de ajudar a ocultar corpo de mulher assassinada na Bahia",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/02/27/jovem-e-preso-na-bahia.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T15:31:46.000Z",
+      "dateISO": "2026-02-28T00:45:07.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "a16a67c6fd9e90d5",
-      "title": "Chuvas em MG: número de mortos sobe para 64; acompanhe ao vivo",
+      "id": "b179e52250ccf41f",
+      "title": "Vídeo mostra tentativa de bombeiros de entrar em apartamento com vazamento de gás antes da explosão em Salvador ",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/02/27/video-mostra-tentativa-de-bombeiros-de-entrar-em-predio-antes-de-explosao-em-salvador.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T00:42:15.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ec291e28ab302f88",
+      "title": "Gilmar Mendes anula decisão de CPI e suspende quebra de sigilo de empresa da família de Dias Toffoli",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/27/gilmar-mendes-anula-decisao-de-cpi-e-suspende-quebra-de-sigilo-de-empresa-da-familia-de-dias-toffoli.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T00:41:49.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "8c08d48cf7f66ad6",
+      "title": "Ponte desaba e deixa município ilhado em Pernambuco",
+      "link": "https://revistaoeste.com/brasil/ponte-desaba-e-deixa-municipio-ilhado-em-pernambuco/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-28T00:40:54.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "cdceba803d5953ec",
+      "title": "Justiça bloqueia ações do BRB em posse de envolvidos no caso Master",
+      "link": "https://revistaoeste.com/economia/justica-bloqueia-acoes-do-brb-em-posse-de-envolvidos-no-caso-master/",
+      "source": "Revista Oeste",
+      "dateISO": "2026-02-28T00:40:27.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "8bf01227d9cb2191",
+      "title": "Em noite de apoio a Tiffany, Osasco vence Flamengo por 3 sets a 0",
+      "link": "https://www.cnnbrasil.com.br/esportes/volei/em-noite-de-apoio-a-tiffany-osasco-vence-flamengo-por-3-sets-a-0/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-28T00:38:21.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f94099ed8a0467ce",
+      "title": "Ministério da Saúde confirma morte de bebês Yanomami",
+      "link": "https://oantagonista.com.br/brasil/ministerio-da-saude-confirma-morte-de-bebes-yanomami/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-28T00:37:58.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "55ffa553c809be8c",
+      "title": "Assista ao presidente do PT classificando Flávio como “fascista”",
+      "link": "https://www.poder360.com.br/poder-eleicoes/assista-ao-presidente-do-pt-classificando-flavio-como-fascista/",
+      "source": "Poder360",
+      "dateISO": "2026-02-28T00:33:09.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "dc67038308dca840",
+      "title": "CNJ afasta desembargador suspeito de abuso sexual em Minas Gerais",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/27/cnj-afasta-desembargador-suspeito-de-abuso-sexual-em-minas-gerais.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T00:32:36.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "58ea2cdaf8da406c",
+      "title": "Resumão diário do JN: CNJ afasta desembargador suspeito de abuso sexual; Gilmar Mendes suspende quebra de sigilo de empresa de Toffoli; temporal em Minas atinge Cataguases ",
+      "link": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/02/27/resumao-diario-do-jn-cnj-afasta-desembargador-suspeito-de-abuso-sexual-gilmar-mendes-suspende-quebra-de-sigilo-de-empresa-de-toffoli-temporal-em-minas-atinge-cataguases.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T00:30:17.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "af420af0bae8f33d",
+      "title": "Gilmar suspende sigilo e invalida ação contra empresa ligada a Toffoli",
+      "link": "https://oantagonista.com.br/videos/gilmar-suspende-sigilo-e-invalida-acao-contra-empresa-ligada-a-toffoli/",
+      "source": "O Antagonista",
+      "dateISO": "2026-02-28T00:26:46.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "5ccc5472dfc6d962",
+      "title": "Rio de Janeiro tem o fevereiro mais chuvoso em quase 30 anos",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/27/rio-de-janeiro-tem-o-fevereiro-mais-chuvoso-em-quase-30-anos.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T00:23:10.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "0edff729b6873cdd",
+      "title": "Ceará recebe pontos de coleta gratuita para exames genéticos de doenças raras",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/02/27/ceara-recebe-pontos-de-coleta-gratuita-para-exames-geneticos-de-doencas-raras.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T00:22:07.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ef1e82cd73e6528a",
+      "title": "Fam�lia de Toffoli usou a��o j� arquivada por Gilmar para barrar quebra de sigilo",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/familia-de-toffoli-usou-acao-ja-arquivada-por-gilmar-para-barrar-quebra-de-sigilo.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-28T00:21:00.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "5b639acf00195bbd",
+      "title": "Gilmar proíbe MP e tribunais de acelerar pagamentos de penduricalhos",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/gilmar-proibe-mp-e-tribunais-de-acelerar-pagamentos-de-penduricalhos",
+      "source": "Agência Brasil",
+      "dateISO": "2026-02-28T00:20:00.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "2435424ff99c8303",
+      "title": "STF permite participação de atleta trans em torneio de vôlei em Londrina",
+      "link": "https://www.conjur.com.br/2026-fev-27/stf-permite-participacao-de-atleta-trans-em-torneio-de-volei-em-londrina/",
+      "source": "ConJur",
+      "dateISO": "2026-02-28T00:18:53.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "ad153830a7491678",
+      "title": "Suspeito de matar mulher grávida em Altamira morre em confronto com a polícia em Pacajá, no PA",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/02/27/suspeito-de-matar-mulher-em-altamira-morre-em-confronto-com-a-policia-em-pacaja-no-pa.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T00:18:15.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "11f6fc925eb171a4",
+      "title": "Rio Ubá transborda após novo temporal e volta a provocar estragos em Minas Gerais",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/27/rio-uba-transborda-apos-novo-temporal-e-volta-a-provocar-estragos-em-minas-gerais.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T00:18:11.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "d4b500bc96dbdb8c",
+      "title": "Relator da CPI do Crime Organizado diz que recorrerá de decisão de Gilmar sobre quebra de sigilo",
+      "link": "https://www.cartacapital.com.br/politica/relator-da-cpi-do-crime-organizado-diz-que-recorrera-de-decisao-de-gilmar-sobre-quebra-de-sigilo/",
+      "source": "CartaCapital",
+      "dateISO": "2026-02-28T00:15:43.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "c6bb2ad1e6f8a872",
+      "title": "“Todo Mundo em Pânico 6”: Wayans divulga prévia com paródias de filmes",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/todo-mundo-em-panico-6-wayans-divulga-previa-com-parodias-de-filmes/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-28T00:14:36.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f06de25a1c48ffa8",
+      "title": "Sterling K. Brown compara seus personagens de “This Is Us” e “Paradise”",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/sterling-k-brown-compara-seus-personagens-de-this-is-us-e-paradise/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-28T00:11:40.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ab66a98e2fad0db3",
+      "title": "Número de mortos pelas chuvas em Juiz de Fora e Ubá se aproxima de 70; veja como foi o 4ª dia de buscas",
       "link": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/chuvas-uba-juiz-de-fora-minas-gerais-acompanhe-ao-vivo.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T15:28:08.000Z",
+      "dateISO": "2026-02-28T00:09:46.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "93b352e2dbf136d3",
-      "title": "Moraes autoriza ex-assessor de Bolsonaro a trabalhar na prisão",
-      "link": "https://revistaoeste.com/politica/moraes-autoriza-ex-assessor-de-bolsonaro-a-trabalhar-na-prisao/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-27T15:28:04.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "95526138ab37e083",
-      "title": "R$ 77 milhões: homem recusa oferta e não cede terras à expansão da IA",
-      "link": "\n\t\t\t\thttps://www.metropoles.com/vida-e-estilo/homem-recusa-mais-de-r-77-milhoes-para-nao-ceder-terras-a-expansao-da-ia",
-      "source": "Metrópoles",
-      "dateISO": "2026-02-27T15:25:29.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "f6a2fbe6b7a63cae",
-      "title": "Professores de Minas acusam governo Zema de desrespeitar piso salarial e anunciam greve",
-      "link": "https://www.cartacapital.com.br/educacao/professores-de-minas-acusam-governo-zema-de-desrespeitar-piso-salarial-e-anunciam-greve/",
-      "source": "CartaCapital",
-      "dateISO": "2026-02-27T15:24:51.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "609c30630b2b1747",
-      "title": "Homem é preso após matar e decapitar amigo da esposa por ciúmes no ES",
-      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/02/27/homem-e-preso-apos-matar-e-decapitar-amigo-da-esposa-por-ciumes-no-es.ghtml",
+      "id": "d657c868ea7297b2",
+      "title": "Alvos de operação que encontrou criação de gado na Resex Chico Mendes no AC são processados",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/02/27/alvos-de-operacao-que-encontrou-criacao-de-gado-na-resex-chico-mendes-no-ac-sao-processados.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T15:23:02.000Z",
+      "dateISO": "2026-02-28T00:08:24.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "516ef38dc344af1b",
-      "title": "Com quebra de sigilos, oposição trabalha para recolocar Lulinha no centro da guerra eleitoral de 2026",
-      "link": "https://www.cartacapital.com.br/politica/com-quebra-de-sigilos-oposicao-trabalha-para-recolocar-lulinha-no-centro-da-guerra-eleitoral-de-2026/",
-      "source": "CartaCapital",
-      "dateISO": "2026-02-27T15:21:41.000Z",
+      "id": "675e659fbf381fc6",
+      "title": "Servidora é presa suspeita de vender e aplicar ilegalmente 'caneta emagrecedora' em posto de saúde no interior de SP",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/27/servidora-e-presa-suspeita-de-vender-e-aplicar-ilegalmente-caneta-emagrecedora-em-posto-de-saude-no-interior-de-sp.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-28T00:07:49.000Z",
       "topics": [
-        "stf"
+        "saude"
       ]
     },
     {
-      "id": "6d7500201f7ad262",
-      "title": "Cobertura da vacina contra HPV atinge 95,81% na cidade de São Paulo",
-      "link": "https://www.cnnbrasil.com.br/saude/cobertura-da-vacina-contra-hpv-atinge-9581-na-cidade-de-sao-paulo/",
+      "id": "62879318609eccea",
+      "title": "Bicheiro Adilsinho é transferido para presídio federal em Brasília",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/bicheiro-adilsinho-e-transferido-para-presidio-federal-em-brasilia/",
       "source": "CNN Brasil",
-      "dateISO": "2026-02-27T15:20:44.000Z",
+      "dateISO": "2026-02-28T00:06:15.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "8c6eefb10c850161",
-      "title": "Justiça suspende processo seletivo para contratar professores temporários em Taubaté após ação do MP-SP",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/02/27/justica-suspende-processo-seletivo-para-contratar-professores-temporarios-em-taubate-apos-acao-do-mp-sp.ghtml",
+      "id": "0319485e600f150e",
+      "title": "Omar Aziz consolida pré-candidatura ao governo do Amazonas e lança caderno com propostas para economia",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/02/27/omar-aziz-consolida-pre-candidatura-ao-governo-do-amazonas-e-lanca-caderno-com-propostas-para-economia.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T15:19:47.000Z",
+      "dateISO": "2026-02-28T00:04:29.000Z",
       "topics": [
-        "stf",
         "saude"
       ]
     },
     {
-      "id": "9854d18bbf2dee36",
-      "title": "Empresa catarinense premia gestores com viagem para celebrar meta cumprida ",
-      "link": "https://g1.globo.com/sc/santa-catarina/especial-publicitario/consulth-solucoes-empresariais/noticia/2026/02/27/empresa-catarinense-premia-gestores-com-viagem-para-celebrar-meta-cumprida.ghtml",
+      "id": "39bfa84df6f400f9",
+      "title": "Justiça bloqueia R$ 2,5 milhões em nova etapa de operação contra suposta fraude à indústria do agro",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/02/27/justica-bloqueia-r-25-milhoes-em-nova-etapa-de-operacao-contra-suposta-fraude-a-industria-do-agro.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T15:16:54.000Z",
+      "dateISO": "2026-02-27T23:55:25.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "53f7b3a67803f198",
-      "title": "Após furtos de cabos elétricos, abastecimento de água é normalizado em bairros de Santarém",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/02/27/apos-furtos-de-cabos-eletricos-abastecimento-de-agua-e-normalizado-em-bairros-de-santarem.ghtml",
+      "id": "3dd1030189d4c4ba",
+      "title": "Mulher é presa suspeita de tráfico de drogas por 'delivery' na Zona Oeste de Boa Vista",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/02/27/mulher-e-presa-suspeita-de-trafico-de-drogas-por-delivery-na-zona-oeste-de-boa-vista.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T15:13:01.000Z",
+      "dateISO": "2026-02-27T23:48:34.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "af0b722f07a0a4b6",
-      "title": "Chuvas no Rio de Janeiro deixam um morto em Angra dos Reis",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/chuvas-no-rio-de-janeiro-deixam-um-morto-em-angra-dos-reis",
-      "source": "Agência Brasil",
-      "dateISO": "2026-02-27T15:13:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "b0a0d9335edeff6a",
-      "title": "Concursos e processos seletivos no Maranhão: o que já está aberto e o que vem aí em março",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/02/27/concursos-e-processos-seletivos-no-maranhao-o-que-ja-esta-aberto-e-o-que-vem-ai-em-marco.ghtml",
+      "id": "346aeb7ba6a7d727",
+      "title": "Juiz de Fora está entre as cidades com maior população em áreas de risco; entenda os motivos",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/02/27/juiz-de-fora-esta-entre-as-cidades-com-maior-populacao-em-areas-de-risco-entenda-os-motivos.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T15:11:45.000Z",
+      "dateISO": "2026-02-27T23:44:46.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "acf7482498308d85",
-      "title": "Quatro foragidos do sistema prisional de Sergipe morrem em confronto com  policiais na BR-235 em Sergipe",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/02/27/quatro-foragidos-do-sistema-prisional-de-sergipe-morrem-em-confronto-com-policiais-civis-na-br-235.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T15:10:47.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "0c51ee5af71acd28",
-      "title": "Renda domiciliar per capita chega a R$ 2.316 em 2025, diz IBGE",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/renda-domiciliar-capita-chega-r-2316-em-2025-diz-ibge",
-      "source": "Agência Brasil",
-      "dateISO": "2026-02-27T15:09:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c662e33770c7fbde",
-      "title": "Flávio e Tarcísio confirmam apoio mútuo: ‘Vamos fazer história juntos’",
-      "link": "https://revistaoeste.com/politica/flavio-e-tarcisio-confirmam-apoio-mutuo-vamos-fazer-historia-juntos/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-27T15:05:41.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "9a61a184a7a42025",
-      "title": "Gilmar Mendes defende Inquérito das Fake News depois de pedido da OAB por fim da apuração",
-      "link": "https://revistaoeste.com/politica/gilmar-mendes-defende-inquerito-das-fake-news-depois-de-pedido-da-oab-por-fim-da-apuracao/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-27T15:03:11.000Z",
-      "topics": [
-        "stf",
-        "saude"
-      ]
-    },
-    {
-      "id": "166a7aed64f38aff",
-      "title": "Torcedor do O'Higgins preso após imitar macacos para jogadores do Bahia tem prisão mantida pela Justiça",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/02/27/torcedor-do-ohiggins-preso-apos-imitar-macacos-para-jogadores-do-bahia-tem-prisao-mantida-pela-justica.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T15:02:35.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "a3b8da27b7f83f7c",
-      "title": "Suspeito de liderar facção criminosa é preso após agredir companheira no Amapá",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/02/27/suspeito-de-liderar-faccao-criminosa-e-preso-apos-agredir-companheira-no-amapa.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T15:02:32.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "42b118f7b8f7ff91",
-      "title": "Como funciona a política ambiental no Brasil: sistema, leis e instituições?",
-      "link": "https://revistaoeste.com/brasil/o-que-e-politica-ambiental/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-27T15:00:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "73dc86f7cf44247a",
-      "title": "Esporte sem Firula: assista ao programa de 27/2/2026",
-      "link": "https://revistaoeste.com/videos/esporte-sem-firula/esporte-sem-firula-assista-ao-programa-de-27-2-2026/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-27T15:00:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "cee7b37fc14b6c7e",
-      "title": "Mais de 30 animais são resgatados em Juiz de Fora e região em meio à tragédia; veja histórias",
-      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/02/27/mais-de-30-animais-sao-resgatados-em-juiz-de-fora-e-regiao-em-meio-a-tragedia-veja-historias.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:57:36.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "d272efeb36308336",
-      "title": "Jovem é detido suspeito de agredir açougueiro com cabo de machado em Conceição do Coité",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/02/27/agressao-conceicao-do-coite.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:57:10.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "06edef53dff32537",
-      "title": "Mais de 100 cestas básicas são apreendidas em casa abandonada de Cuiabá",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/02/27/mais-de-100-cestas-basicas-sao-apreendidas-em-casa-abandonada-de-cuiaba.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:55:39.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "b2b12b57d5e9ff1b",
-      "title": "Mulher em situação de rua é esfaqueada em cemitério no PI; suspeita é presa tentando fugir",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/02/27/mulher-esfaqueada-cemiterio.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:55:20.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c178aac3bc3d8d12",
-      "title": "VÍDEO: Idoso cai em voçoroca e é resgatado com vida em Buriticupu, no MA",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/02/27/video-idoso-cai-em-vocoroca-e-e-resgatado-com-vida-em-buriticupu-no-ma.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:55:09.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "3123e891dd2a1e05",
-      "title": "Estrondo no céu assusta moradores de cidades no interior do Rio; veja VÍDEO",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/02/27/estrondo-no-ceu-assusta-moradores-de-volta-redonda-pinheiral-e-pirai.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:54:02.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "cddaf02297e790c6",
-      "title": "Folha de pagamento consome o orçamento da Justiça estadual e supera 70% em sete estados",
-      "link": "https://www.cartacapital.com.br/justica/estados-e-df-gastaram-r-932-bilhoes-com-instituicoes-de-justica-em-2024-tema-esta-em-debate-no-stf/",
-      "source": "CartaCapital",
-      "dateISO": "2026-02-27T14:54:01.000Z",
+      "id": "900e30c02e6ad2a0",
+      "title": "PT questiona relativização da proteção a menores de 14 anos em caso de estupro",
+      "link": "https://www.conjur.com.br/2026-fev-27/pt-questiona-relativizacao-da-protecao-a-menores-de-14-anos-em-caso-de-estupro/",
+      "source": "ConJur",
+      "dateISO": "2026-02-27T23:41:56.000Z",
       "topics": [
         "stf"
       ]
     },
     {
-      "id": "896d1962926b095e",
-      "title": "Adilsinho será transferido para presídio federal, um dia após prisão",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/02/27/adilsinho-presidio-federal-transferencia.ghtml",
+      "id": "335bf07167ab59bc",
+      "title": "Ivete Sangalo mostra estado do rosto dois dias após queda e recebe apoio de famosos: 'Linda de qualquer jeito'",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/02/27/ivete-sangalo-mostra-estado-do-rosto-dois-dias-apos-queda.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T14:53:45.000Z",
+      "dateISO": "2026-02-27T23:40:17.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "32185ee4abdc15a6",
-      "title": "Professor morre após carro capotar no interior da Bahia",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/02/27/professor-morre-apos-carro-capotar-no-interior-da-bahia.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:52:55.000Z",
+      "id": "d7483ca8ad9147b6",
+      "title": "\"Eu só fui”: ex-soldado salva criança de inundação em Juiz de Fora",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/eu-so-fui-ex-soldado-salva-crianca-de-inundacao-em-juiz-de-fora",
+      "source": "Agência Brasil",
+      "dateISO": "2026-02-27T23:38:00.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "a1ccbb783becc37c",
-      "title": "Inmet renova alertas de chuvas intensas para toda a Paraíba ",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/02/27/inmet-emite-alertas-de-chuvas-intensas-para-toda-a-paraiba.ghtml",
+      "id": "eb3b125e36629f7d",
+      "title": "Empresário se apresenta à polícia e diz que atirou na direção de cão em Ituverava para tirá-lo do canteiro por causa dos carros",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/02/27/empresario-se-apresenta-a-policia-e-diz-que-atirou-na-direcao-de-cao-em-ituverava-para-tira-lo-do-canteiro-por-causa-dos-carros.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T14:52:18.000Z",
+      "dateISO": "2026-02-27T23:35:48.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "855dd58fc30d270b",
-      "title": "Chelpa Ferro e Fausto Fawcett expõem  'náusea do absurdo brasileiro' entre os ruídos urbanos de 'Pesadelo ambicioso'",
-      "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/02/27/chelpa-ferro-e-fausto-fawcett-expoem-nausea-do-absurdo-brasileiro-entre-os-ruidos-urbanos-de-pesadelo-ambicioso.ghtml",
+      "id": "1e112e2b5a3de5bb",
+      "title": "Magistrada debocha da popula��o em julgamento no STF",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/02/magistrada-debocha-da-populacao-em-julgamento-no-stf.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-27T23:35:00.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "63e8c525084a2d67",
+      "title": "Atendente de farmácia é baleada de raspão na cabeça durante assalto na Grande Belém",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/02/27/atendente-de-farmacia-e-baleada-durante-assalto-na-grande-belem.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T14:50:12.000Z",
+      "dateISO": "2026-02-27T23:33:29.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "fdad445830d49f22",
-      "title": "Secretário de Itumbiara matou os filhos enquanto eles dormiam, diz polícia",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/02/27/secretario-de-itumbiara-matou-os-filhos-enquanto-eles-dormiam-diz-policia.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:49:32.000Z",
+      "id": "2bbfbdaedd86b409",
+      "title": "Luana Xavier relata dificuldades financeiras: 'Estou mesmo sem dinheiro'",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/02/luana-xavier-relata-dificuldades-financeiras-estou-mesmo-sem-dinheiro.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-27T23:32:00.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "714ffa279f1c371e",
-      "title": "Garota recria foto que viralizou e virou meme nas redes sociais 10 anos depois",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/02/27/garota-recria-foto-que-viralizou-e-virou-meme-nas-redes-sociais-10-anos-depois.ghtml",
+      "id": "0b4660dddac3d029",
+      "title": "Casa da Mulher de Santos abre vagas para cursos gratuitos; veja como se inscrever ",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/02/27/casa-da-mulher-de-santos-abre-vagas-para-cursos-gratuitos-veja-como-se-inscrever.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T14:47:27.000Z",
+      "dateISO": "2026-02-27T23:31:06.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "ba12c7e16d4b04d1",
+      "title": "A decisão do STF sobre participação de Tiffany em jogo de vôlei em Londrina",
+      "link": "https://veja.abril.com.br/esporte/a-decisao-de-carmen-lucia-sobre-participacao-de-tiffany-em-jogo-de-volei/",
+      "source": "Veja",
+      "dateISO": "2026-02-27T23:23:07.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "3e9d0b240e511762",
+      "title": "Exército indica primeira mulher ao quadro de generais",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/exercito-indica-primeira-mulher-ao-quadro-de-generais",
+      "source": "Agência Brasil",
+      "dateISO": "2026-02-27T23:22:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "e48a14e26ba880bd",
+      "title": "Entenda a decisão de Gilmar Mendes sobre empresa da família de Toffoli",
+      "link": "https://www.cnnbrasil.com.br/politica/entenda-a-decisao-de-gilmar-mendes-sobre-empresa-da-familia-de-toffoli/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-27T23:20:36.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "e13702f747078686",
+      "title": "Ap�s vit�ria na Justi�a, Tifanny joga e leva o Osasco � final da Copa do Brasil",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/02/apos-vitoria-na-justica-tifanny-joga-e-leva-o-osasco-a-final-da-copa-do-brasil.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-27T23:17:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "e56519c112971c41",
+      "title": "Avião da Força Aérea da Bolívia com carga de dinheiro sai da pista, invade avenida e deixa 15 mortos",
+      "link": "https://g1.globo.com/mundo/noticia/2026/02/27/aviao-da-forca-aerea-da-bolivia-cai.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-27T23:15:33.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "908636e0dd687201",
+      "title": "AGU defende que somente médicos podem realizar abortos legais ",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/agu-defende-que-somente-medicos-podem-realizar-abortos-legais",
+      "source": "Agência Brasil",
+      "dateISO": "2026-02-27T23:15:00.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "7d4e673b528b10ee",
+      "title": "Cármen Lúcia libera a participação de jogadora trans em campeonato de vôlei",
+      "link": "https://www.cartacapital.com.br/justica/carmen-lucia-libera-a-participacao-de-jogadora-trans-em-campeonato-de-volei/",
+      "source": "CartaCapital",
+      "dateISO": "2026-02-27T23:12:50.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "edf84a511dbd70cb",
+      "title": "CPI do Crime Organizado vai recorrer de decisão de Gilmar, diz relator",
+      "link": "https://www.cnnbrasil.com.br/politica/cpi-do-crime-organizado-vai-recorrer-de-decisao-de-gilmar-diz-relator/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-27T23:08:42.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "471f03734938ddad",
+      "title": "Homem é preso após descumprir medida protetiva e invadir condomínio de ex-mulher em RR",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/02/27/homem-e-preso-apos-descumprir-medida-protetiva-e-invadir-condominio-de-ex-mulher-em-rr.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-27T23:06:09.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "2853dc62628a256b",
+      "title": "Homem suspeito de matar namorada adolescente e esfaquear ex-mulher no mesmo dia é condenado por tráfico de drogas em outro caso",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/02/27/homem-suspeito-de-matar-namorada-adolescente-e-esfaquear-ex-mulher-no-mesmo-dia-e-condenado-por-trafico-de-drogas-em-outro-caso.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-27T23:00:46.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b39c74c49f222af3",
+      "title": "Paciente com doença grave no ouvido relata demora para cirurgia no Hospital Metropolitano, na Grande João Pessoa: 'à mercê da coisa pública'",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/02/27/paciente-com-doenca-grave-no-ouvido-relata-demora-para-cirurgia-no-hospital-metropolitano-na-grande-joao-pessoa-a-merce-da-coisa-publica.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-27T22:59:51.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f2eedfbf8d0e8097",
+      "title": "Prefeitura investiga suspeita de surto de virose em escola após duas alunas serem internadas em Jundiaí",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/02/27/investiga-doenca-escola.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-27T22:59:08.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "a59d41d66d3b448f",
+      "title": "Secretaria de Segurança Pública do Paraná assinou contrato de R$ 438 milhões com a Celepar um dia antes de governo publicar edital para privatizar companhia",
+      "link": "https://g1.globo.com/pr/parana/economia/noticia/2026/02/27/sesp-contrato-celepar.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-27T22:57:37.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "e2ce33c2e56959a2",
+      "title": "Jim Carrey é homenageado no César e arrisca francês “Minha língua cansou”",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/jim-carrey-e-homenageado-no-cesar-e-arrisca-frances-minha-lingua-cansou/",
+      "source": "CNN Brasil",
+      "dateISO": "2026-02-27T22:55:14.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b6bb06eab52b0549",
+      "title": "Proibi��o a demoli��es e novos pr�dios atingiria 10% das constru��es aprovadas desde revis�o da Lei de Zoneamento de S�o Paulo",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/proibicao-a-demolicoes-e-novos-predios-atinge-102-imoveis-em-areas-com-zoneamento-alterado-em-sp.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-27T22:54:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "e91e4a4e739b98ba",
+      "title": "STF mantém suspensão de regras de supervisão de estágios em Psicologia",
+      "link": "https://www.conjur.com.br/2026-fev-27/stf-mantem-suspensao-de-regras-de-supervisao-de-estagios-em-psicologia/",
+      "source": "ConJur",
+      "dateISO": "2026-02-27T22:51:52.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "24d4a5d4e7bf1a3c",
+      "title": "VÍDEO: câmera acoplada em capacete de motociclista flagra roubo com 'quebra-vidro' na Marginal Pinheiros",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/02/27/video-camera-acoplada-em-capacete-de-motociclista-flagra-roubo-com-quebra-vidro-na-marginal-pinheiros.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-27T22:51:32.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "117dd6acfa1a75dc",
+      "title": "Piracicaba passa a oferecer ambulatório de cuidados paliativos pelo SUS",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/02/27/piracicaba-passa-a-oferecer-ambulatorio-de-cuidados-paliativos-pelo-sus.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-27T22:50:41.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "20074da939f9cf41",
+      "title": "Colégio Agostiniano comemora aniversário com inauguração de fonte, em Goiânia",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/02/27/colegio-agostiniano-comemora-aniversario-com-inauguracao-de-fonte-em-goiania.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-27T22:50:03.000Z",
       "topics": [
         "saude"
       ]
@@ -676,411 +1122,373 @@
       "title": "Assista aos telejornais da TV Liberal",
       "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T14:46:34.000Z",
+      "dateISO": "2026-02-27T22:46:29.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "3ba8d1cd5d45e09a",
-      "title": "Vídeo: Chuvas fortes alagam cidades do Piauí e Inmet mantém alerta de perigo; veja volumes ",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/02/27/video-chuvas-fortes-alagam-cidades-do-piaui-e-inmet-mantem-alerta-de-perigo-veja-volumes.ghtml",
+      "id": "386fd03a87dc4d0c",
+      "title": "Estragos da chuva em MG: g1 transmite ao vivo informações sobre os locais mais afetados",
+      "link": "https://g1.globo.com/mg/minas-gerais/mg1/ao-vivo/estragos-da-chuva-em-mg-g1-transmite-ao-vivo-informacoes-sobre-os-locais-mais-afetados.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T14:46:06.000Z",
+      "dateISO": "2026-02-27T22:43:38.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "15362710265322ee",
-      "title": "O submarino de 8.700 toneladas que muda o jogo e coloca a Coreia do Norte num patamar mais perigoso",
-      "link": "https://oantagonista.com.br/ladooa/entretenimento/o-submarino-de-8-700-toneladas-que-muda-o-jogo-e-coloca-a-coreia-do-norte-num-patamar-mais-perigoso/",
-      "source": "O Antagonista",
-      "dateISO": "2026-02-27T14:44:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "5a5eb67ebaf54433",
-      "title": "Após 7 anos de tentativas, bicudo nasce na natureza e será criado por 'mãe solo'",
-      "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/02/27/apos-7-anos-de-tentativas-bicudo-nasce-na-natureza-e-sera-criado-por-mae-solo.ghtml",
+      "id": "a523690eb238fafd",
+      "title": "Chuva provoca alagamentos, derruba muros de casas e deixa famílias desabrigadas no extremo Sul do PI; veja estragos por cidade",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/02/27/chuva-sul-do-piaui-estragos.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T14:42:21.000Z",
+      "dateISO": "2026-02-27T22:42:16.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "9d5189d451361ae9",
-      "title": "Assista ao JAP1 desta sexta (27) ",
-      "link": "https://g1.globo.com/ap/ao-vivo/assista-ao-jap1-desta-sexta-27.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:42:18.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "d6d7c67de0d884f7",
-      "title": "Idoso de 80 anos é morto e tem corpo enterrado na Bahia; quatro suspeitos foram presos e um morreu em confronto com a polícia",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/02/27/idoso-de-80-e-morto-e-tem-corpo-enterrado-na-bahia.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:40:52.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "d34ae64ebd4ecea1",
-      "title": "Imagens aéreas mostram Peruíbe debaixo d'água; quase 500 estão desalojados",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/02/27/imagens-aereas-mostram-peruibe-debaixo-dagua-quase-500-estao-desalojados.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:36:46.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "72e031f1173ff42a",
-      "title": "Justiça suspende demolições e novos prédios em SP por ver falhas na revisão do zoneamento",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/02/27/justica-suspende-demolicoes-e-novos-predios-em-sp-por-falhas-na-revisao-do-zoneamento.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:33:54.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "1fc30e77a3e57f30",
-      "title": "Mulher sente 'dor de garganta', descobre infecção no peito e morre após passar por cirurgia, no Paraná",
-      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/02/27/morte-mulher-dor-de-garanta-parana.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:33:38.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "a5f64e6395afe26c",
-      "title": "Veja mudanças no trânsito para desfiles das escolas de samba em Belém",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/02/27/veja-mudancas-no-transito-para-desfiles-das-escolas-de-samba-em-belem.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:32:55.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "5d60749a79f0ba5e",
-      "title": "Alta das mensalidades escolares puxa IPCA-15 para 0,84% em fevereiro",
-      "link": "https://revistaoeste.com/economia/alta-das-mensalidades-escolares-puxa-ipca-15-para-084-em-fevereiro/",
-      "source": "Revista Oeste",
-      "dateISO": "2026-02-27T14:32:19.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "41c5fc91bc522a09",
-      "title": "Dois adolescentes morrem soterrados após temporal na zona rural de Parintins, no Amazonas",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/02/27/dois-adolescentes-morrem-soterrados-apos-temporal-na-zona-rural-de-parintins-no-amazonas.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:28:42.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "e412e06cbbba979a",
-      "title": "VÍDEO: Idoso é resgatado de enchente e carro submerso é puxado por corda em Atibaia, SP",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/02/27/video-homem-e-resgatado-de-enchente-e-carro-submerso-e-puxado-por-corda-em-atibaia-sp.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:26:12.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "5d59b9f1faf8d59c",
-      "title": "Celular de desaparecida no RS é encontrado com câmera tapada por fita",
-      "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/celular-de-desaparecida-no-rs-e-encontrado-com-camera-tapada-por-fita/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-27T14:25:53.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "dc7847d0f30cbf89",
-      "title": "Comunidade terapêutica é interditada e dois responsáveis são presos, na Paraíba",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/02/27/comunidade-terapeutica-e-interditada-e-dois-responsaveis-sao-presos-na-paraiba.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:25:38.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "6d533895460fddc8",
-      "title": "Final feliz: cachorro que esperava tutor morto em UPA reencontra família em Cuiabá ",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/02/27/final-feliz-cachorro-que-esperava-tutor-morto-em-upa-reencontra-familia-em-cuiaba.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:24:50.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "b9964230fc80d63a",
-      "title": "Idoso acamado é torturado por cuidador em Goiânia; vídeo é forte",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/02/27/idoso-acamado-e-torturado-por-cuidador-em-goiania-video-e-forte.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:22:16.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "3fde1ac0c18985fb",
-      "title": "Ipatinga, Aimorés, Resplendor e Sabinópolis estão entre cidades com mais áreas de risco de deslizamento em MG",
-      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/02/27/ipatinga-aimores-resplendor-e-sabinopolis-estao-entre-cidades-com-mais-areas-de-risco-de-deslizamento-em-mg.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:20:12.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "927c0c7a44420b08",
-      "title": "PM e auxiliar penitenciário são presos suspeitos de envolvimento em tiros que atingiram mulher na Grande São Luís",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/02/27/pm-e-auxiliar-penitenciario-sao-presos-suspeitos-de-envolvimento-em-tiros-que-atingiram-mulher-na-grande-sao-luis.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:18:21.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "55c26079d667b479",
-      "title": "Uma em cada quatro pessoas vive em áreas de risco em Juiz de Fora",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/uma-em-cada-quatro-pessoas-vive-em-areas-de-risco-em-juiz-de-fora",
-      "source": "Agência Brasil",
-      "dateISO": "2026-02-27T14:18:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "3c64c7c7459c387f",
-      "title": "Espetáculo das araras-azuis-de-lear em paredões da Bahia é tema do Terra da Gente",
-      "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/02/27/espetaculo-das-araras-azuis-de-lear-em-paredoes-da-bahia-e-tema-do-terra-da-gente.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:16:05.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "6387f503514a9125",
-      "title": "Policiais são alvos de operação por suspeita de contrabandear celulares para detentos em presídio de MT ",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/02/27/policiais-sao-alvos-de-operacao-por-suspeita-de-contrabandear-celulares-para-detentos-em-presidio-de-mt.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:15:16.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "bc08da5c33c70120",
-      "title": "Acusado de matar a namorada estrangulada vai a júri popular em Divinópolis  ",
-      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/02/27/acusado-de-matar-a-namorada-estrangulada-vai-a-juri-popular-em-divinopolis.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:14:08.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c11db4fdf3fcb02b",
-      "title": "Trump indica crítico para supervisionar relações entre Brasil e EUA",
-      "link": "https://www.cnnbrasil.com.br/internacional/trump-indica-critico-para-supervisionar-relacoes-entre-brasil-e-eua/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-27T14:12:50.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "54edad15b823b02d",
-      "title": "Urupês libera caneta emagrecedora para moradores com obesidade na rede municipal de saúde; entenda critérios",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/02/27/urupes-libera-caneta-emagrecedora-para-moradores-com-obesidade-na-rede-municipal-de-saude-entenda-criterios.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:12:12.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "0ed2058c471dfb62",
-      "title": "O STF está sob ataque por seus erros? Ou por seus acertos?",
-      "link": "https://www.cartacapital.com.br/opiniao/o-stf-esta-sob-ataque-por-seus-erros-ou-por-seus-acertos/",
+      "id": "f13c39b82b455def",
+      "title": "Moraes dá 24h para polícia explicar transferência não autorizada de Filipe Martins",
+      "link": "https://www.cartacapital.com.br/justica/moraes-da-24h-para-policia-explicar-transferencia-nao-autorizada-de-filipe-martins/",
       "source": "CartaCapital",
-      "dateISO": "2026-02-27T14:11:43.000Z",
+      "dateISO": "2026-02-27T22:41:50.000Z",
       "topics": [
-        "stf"
+        "saude"
       ]
     },
     {
-      "id": "3a22f6d931eeaddd",
-      "title": "Quadrilha é presa suspeita de roubar caminhão e sequestrar motorista em Itatiba",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/02/27/quadrilha-e-presa-suspeita-de-roubar-caminhao-e-sequestrar-motorista-em-itatiba.ghtml",
+      "id": "bb5c077cba77bb8a",
+      "title": "Fachin: 'Valorização salarial das carreiras não pode fragilizar legitimidade do Judiciário'",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/02/27/fachin-valorizacao-salarial-das-carreiras-nao-pode-fragilizar-legitimidade-do-judiciario.ghtml",
       "source": "G1",
-      "dateISO": "2026-02-27T14:10:19.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "7936ed80d8807a43",
-      "title": "TJMG mantém condenação de Pâmela Volp após tecnologia comprovar rota de carro usada no crime",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/02/27/tj-reconhece-rastreamento-digital-como-prova-chave-e-mantem-condenacao-de-pamela-volp-por-extorsao.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:07:18.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c90ba3193c6720bf",
-      "title": "Incêndio de grandes proporções atinge prédio residencial em Salvador e três bombeiros ficam feridos ",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/02/27/incendio-em-salvador.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:05:58.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "6b4ea9cf1fa51b68",
-      "title": "Defensoria Pública da Bahia realiza atendimentos jurídicos gratuitos na Ilha de Bom Jesus dos Passos ",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/02/27/servicos-realizados-na-bahia.ghtml",
-      "source": "G1",
-      "dateISO": "2026-02-27T14:02:38.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "af160e8026c015ae",
-      "title": "Diretor de presídio em SC é preso por beneficiar preso em troca de regalias",
-      "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/diretor-de-presidio-em-sc-e-preso-por-beneficiar-preso-em-troca-de-regalias/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-27T14:00:38.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "c54492e639519a85",
-      "title": "Vereadores aprovam veto a atleta trans em semifinal nacional de vôlei",
-      "link": "https://www.congressoemfoco.com.br/noticia/116795/vereadores-aprovam-veto-a-atleta-trans-em-semifinal-nacional-de-volei",
-      "source": "Congresso em Foco",
-      "dateISO": "2026-02-27T13:56:15.000Z",
+      "dateISO": "2026-02-27T22:41:46.000Z",
       "topics": [
         "stf",
         "saude"
       ]
     },
     {
-      "id": "6e16b6b8894fd160",
-      "title": "Falta de placa não é crime se chassi estiver legível, decide juíza",
-      "link": "https://www.conjur.com.br/2026-fev-27/falta-de-placa-nao-e-crime-se-chassi-estiver-legivel-decide-juiza/",
+      "id": "4f35b384b0e629ec",
+      "title": "EPTV2 - Ribeirão e Franca",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-27T22:40:07.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "56462c25ba35d847",
+      "title": "Assista ao JAP2 desta sexta (27) ",
+      "link": "https://g1.globo.com/ap/ao-vivo/assista-ao-jap2-desta-sexta-27.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-27T22:36:29.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "0fd2a63c4e68844e",
+      "title": "Trump diz que 'se dá muito bem' com Lula e que adoraria se encontrar com presidente do Brasil em Washington",
+      "link": "https://g1.globo.com/mundo/noticia/2026/02/27/trump-diz-que-se-da-muito-bem-com-lula-e-que-adoraria-se-encontrar-com-presidente-do-brasil-em-washington.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-27T22:36:19.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "ffd51ebbd4925d2f",
+      "title": "TCU dá prazo para Fazenda e bancos públicos informarem se estudam 'federalizar' o BRB",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/02/27/tcu-da-prazo-para-fazenda-e-bancos-publicos-informarem-se-estudam-a-federalizacao-do-brb.ghtml",
+      "source": "G1",
+      "dateISO": "2026-02-27T22:31:13.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "d0e8824a7b4f975c",
+      "title": "Motorista enfrenta terceiro dia com tr�nsito acima de 1.100 km em S�o Paulo",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/motorista-enfrenta-terceiro-dia-com-transito-acima-de-1100-km-em-sao-paulo.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-27T22:31:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "95fe045f715dd28d",
+      "title": "Brian, do Backstreet Boys, processa aposentada por usar praia em frente � sua casa",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/02/brian-do-backstreet-boys-processa-aposentada-por-usar-praia-em-frente-a-sua-casa.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-27T22:20:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "415fbaec5bb3cf50",
+      "title": "STF forma maioria para derrubar leis que proíbem linguagem neutra em escolas",
+      "link": "https://www.cartacapital.com.br/justica/stf-forma-maioria-para-derrubar-leis-que-proibem-linguagem-neutra-em-escolas/",
+      "source": "CartaCapital",
+      "dateISO": "2026-02-27T22:17:46.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "752a0713c50d9370",
+      "title": "Exames normais e sintomas persistentes: entenda por que não ignorar os sinais após os 40 anos",
+      "link": "https://www.cartacapital.com.br/bem-estar/exames-normais-e-sintomas-persistentes-entenda-por-que-nao-ignorar-os-sinais-apos-os-40-anos/",
+      "source": "CartaCapital",
+      "dateISO": "2026-02-27T22:00:12.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "7d457a75453ceabc",
+      "title": "Gilmar Mendes est� abafando?",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/02/gilmar-mendes-esta-abafando.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-27T22:00:00.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "e50e120a04629194",
+      "title": "Novo presidente do TRE-SP fala em coibir infiltra��o criminosa na elei��o e defende �tica na disputa",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/sociedade-pode-discordar-diz-novo-presidente-do-tre-sp-sobre-uso-de-urnas-eletronicas.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-27T21:58:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "1a06a8174e4ccc59",
+      "title": "Enquanto Kate brilha em Londres, Meghan aposta em minimalismo",
+      "link": "https://veja.abril.com.br/coluna/vitrine/enquanto-kate-brilha-em-londres-meghan-aposta-em-minimalismo/",
+      "source": "Veja",
+      "dateISO": "2026-02-27T21:52:39.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "85562758bed6072d",
+      "title": "ERRATA: CNJ não autorizou pagamentos, apenas cumpriu decisão do STF",
+      "link": "https://www.conjur.com.br/2026-fev-27/errata-cnj-nao-autorizou-pagamentos-apenas-cumpriu-decisao-do-stf/",
       "source": "ConJur",
-      "dateISO": "2026-02-27T13:46:40.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "be25b7f342ba2a08",
-      "title": "Temporal no RJ fecha escolas e alunos se abrigam sobre mesas; veja o vídeo",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/temporal-no-rj-fecha-escolas-e-alunos-se-abrigam-sobre-mesas-veja-o-video/",
-      "source": "CNN Brasil",
-      "dateISO": "2026-02-27T13:29:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "50d16d63888a3843",
-      "title": "Prévia da inflação de fevereiro atinge 0,84%, diz IBGE",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/previa-da-inflacao-de-fevereiro-atinge-084-diz-ibge",
-      "source": "Agência Brasil",
-      "dateISO": "2026-02-27T13:12:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "333de2e53f17e931",
-      "title": "Brasil pede que países apresentem plano de ação sobre combustíveis fósseis",
-      "link": "https://www.cartacapital.com.br/mundo/brasil-pede-que-paises-apresentem-plano-de-acao-sobre-combustiveis-fosseis/",
-      "source": "CartaCapital",
-      "dateISO": "2026-02-27T13:06:33.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "bb83c249c964e6be",
-      "title": "Como a franquia 'P�nico' redefiniu o g�nero horror nos cinemas",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/02/como-a-franquia-panico-redefiniu-o-genero-horror-nos-cinemas.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-27T13:00:00.000Z",
+      "dateISO": "2026-02-27T21:51:04.000Z",
       "topics": [
         "stf"
       ]
     },
     {
-      "id": "ada5e36cf6baf090",
-      "title": "Juiz acusado por Cafu de beneficiar leiloeiro pede afastamento de a��o",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/02/juiz-acusado-por-cafu-de-beneficiar-leiloeiro-pede-afastamento-de-acao.shtml",
+      "id": "cd2b03acf429947b",
+      "title": "Fel�cio falta a homenagem a Valdemar alegando agenda cheia no Pal�cio",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/02/felicio-falta-em-homenagem-a-valdemar-alegando-agenda-cheia-no-palacio.shtml",
       "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-27T13:00:00.000Z",
+      "dateISO": "2026-02-27T21:51:00.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "1fcfcefa2e1bed80",
-      "title": "Prévia da inflação acelera para 0,84% em fevereiro com pressão de Educação e Transportes",
-      "link": "https://www.cartacapital.com.br/economia/previa-da-inflacao-acelera-para-084-em-fevereiro-com-pressao-de-educacao-e-transportes/",
-      "source": "CartaCapital",
-      "dateISO": "2026-02-27T12:46:22.000Z",
+      "id": "12e5d26712c12f72",
+      "title": "Folha faz 105 anos de olho nos desafios do futuro",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-105-anos/2026/02/folha-faz-105-anos-de-olho-nos-desafios-do-futuro.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-27T21:45:00.000Z",
       "topics": [
         "saude"
       ]
     },
     {
-      "id": "ca15aaaf2e636f1c",
-      "title": "Confedera��o vai ao STF para derrubar lei que veta Tifanny, atleta trans, nas finais da Copa Brasil",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/02/confederacao-vai-ao-stf-para-derrubar-lei-que-veta-tifanny-atleta-trans-nas-finais-da-copa-brasil.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-27T12:39:00.000Z",
+      "id": "14c65b284d30f171",
+      "title": "Em dia simbólico, Flávio e Tarcísio sacramentam união em torno de projeto para 2026",
+      "link": "https://veja.abril.com.br/brasil/em-dia-simbolico-flavio-e-tarcisio-sacramentam-uniao-em-torno-de-projeto-para-2026/",
+      "source": "Veja",
+      "dateISO": "2026-02-27T21:44:51.000Z",
       "topics": [
         "stf",
         "saude"
       ]
     },
     {
-      "id": "8101f1410e396625",
-      "title": "STF vai referendar a suspensão dos \"penduricalhos\" em 25 de março",
-      "link": "https://www.congressoemfoco.com.br/noticia/116781/stf-vai-referendar-a-suspensao-dos-penduricalhos-em-25-de-marco",
+      "id": "2d23b833b84faaf3",
+      "title": "STF rejeita ação contra mudanças no limite de candidaturas por partido",
+      "link": "https://www.congressoemfoco.com.br/noticia/116822/stf-rejeita-acao-contra-mudancas-no-limite-de-candidaturas-por-partido",
       "source": "Congresso em Foco",
-      "dateISO": "2026-02-27T12:20:33.000Z",
+      "dateISO": "2026-02-27T21:40:36.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "ff929972e3acd56b",
+      "title": "Alberto Neto: certidão criminal no casamento evita violência de gênero",
+      "link": "https://www.congressoemfoco.com.br/noticia/116821/alberto-neto-certidao-criminal-no-casamento-evita-violencia-de-genero",
+      "source": "Congresso em Foco",
+      "dateISO": "2026-02-27T21:30:40.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "f493b4d2dd64f66f",
+      "title": "TRF-3 reafirma validade do decreto que moderniza o Programa de Alimentação do Trabalhador",
+      "link": "https://www.conjur.com.br/2026-fev-27/trf-3-reafirma-a-validade-do-decreto-no-12-712-2025/",
+      "source": "ConJur",
+      "dateISO": "2026-02-27T21:28:34.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "5e5d4fe0c60a7048",
+      "title": "Showrunner de Bridgerton fala a VEJA sobre mudança polêmica e do futuro da série",
+      "link": "https://veja.abril.com.br/cultura/showrunner-de-bridgerton-fala-a-veja-sobre-mudanca-polemica-e-do-futuro-da-serie/",
+      "source": "Veja",
+      "dateISO": "2026-02-27T21:25:40.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "311d0e168a4c8916",
+      "title": "STF tem maioria para manter decisão de Dino sobre emendas de Eduardo Bolsonaro e Ramagem",
+      "link": "https://www.cartacapital.com.br/justica/stf-tem-maioria-para-manter-decisao-de-dino-sobre-emendas-de-eduardo-bolsonaro-e-ramagem/",
+      "source": "CartaCapital",
+      "dateISO": "2026-02-27T21:01:07.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "e6ce36baf0025ace",
+      "title": "Freira morta em convento no Paran� foi v�tima de estupro, diz pol�cia",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/freira-morta-em-convento-no-parana-foi-vitima-de-estupro-diz-policia.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-27T20:38:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "cbd73e5735310e6f",
+      "title": "Comit� Gestor do IBS cria comiss�es para acelerar implementa��o do imposto",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/02/comite-gestor-do-ibs-cria-comissoes-para-acelerar-implementacao-do-imposto.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-27T19:54:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "b7ad05ca4fdf9270",
+      "title": "Suprema Corte de Israel suspende ordem que encerraria opera��es de ONGs em Gaza",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/02/suprema-corte-de-israel-suspende-ordem-que-encerraria-operacoes-de-ongs-em-gaza.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-27T19:40:00.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "37de815d4071da4c",
+      "title": "ONGs pedem que STF barre obras com emendas causadoras de desmate e invas�o de terras ind�genas",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/02/ongs-pedem-que-stf-barre-obras-com-emendas-causadoras-de-desmate-e-invasao-de-terras-indigenas.shtml",
+      "source": "Folha de S.Paulo",
+      "dateISO": "2026-02-27T19:33:00.000Z",
       "topics": [
         "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "903267f5acb83566",
+      "title": "Mendonça autoriza depoimento de Daniel Vorcaro, ex-dono do banco Master, ao Senado",
+      "link": "https://www.jota.info/stf/do-supremo/mendonca-autoriza-depoimento-de-daniel-vorcaro-ex-dono-do-banco-master-ao-senado",
+      "source": "JOTA",
+      "dateISO": "2026-02-27T19:16:17.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "c83df171aadd4a76",
+      "title": "Gilmar Mendes suspende quebra de sigilo de empresa da família de Toffoli",
+      "link": "https://www.jota.info/stf/do-supremo/gilmar-mendes-suspende-a-quebra-de-sigilo-da-empresa-da-familia-do-toffoli",
+      "source": "JOTA",
+      "dateISO": "2026-02-27T18:58:16.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "1495febe88f890f7",
+      "title": "Gilmar Mendes suspende quebra de sigilo de empresa ligada a Toffoli",
+      "link": "https://www.congressoemfoco.com.br/noticia/116815/gilmar-mendes-suspende-quebra-de-sigilo-de-empresa-ligada-a-toffoli",
+      "source": "Congresso em Foco",
+      "dateISO": "2026-02-27T18:34:45.000Z",
+      "topics": [
+        "stf",
+        "saude"
+      ]
+    },
+    {
+      "id": "2852e53eb1388210",
+      "title": "Mendonça autoriza ida de Daniel Vorcaro à CAE do Senado no dia 10",
+      "link": "https://www.congressoemfoco.com.br/noticia/116813/mendonca-autoriza-ida-de-daniel-vorcaro-a-cae-do-senado-no-dia-10",
+      "source": "Congresso em Foco",
+      "dateISO": "2026-02-27T17:48:03.000Z",
+      "topics": [
+        "stf"
+      ]
+    },
+    {
+      "id": "881c8758d2097d1a",
+      "title": "Operação mira grupo que usava perfis falsos de deputados em golpes",
+      "link": "https://www.congressoemfoco.com.br/noticia/116803/operacao-mira-grupo-que-usava-perfis-falsos-de-deputados-em-golpes",
+      "source": "Congresso em Foco",
+      "dateISO": "2026-02-27T15:48:15.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "74e1b74c69f6dd78",
+      "title": "A transição energética é mineral e 2026 é decisivo para o Brasil",
+      "link": "https://www.congressoemfoco.com.br/artigo/116792/a-transicao-energetica-e-mineral-e-2026-e-decisivo-para-o-brasil",
+      "source": "Congresso em Foco",
+      "dateISO": "2026-02-27T13:22:11.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "016a1829362d68bb",
+      "title": "Animais de estimação:  afeto que sustenta a saúde mental",
+      "link": "https://www.congressoemfoco.com.br/artigo/116791/animais-de-estimacao--afeto-que-sustenta-a-saude-mental",
+      "source": "Congresso em Foco",
+      "dateISO": "2026-02-27T13:14:40.000Z",
+      "topics": [
+        "saude"
+      ]
+    },
+    {
+      "id": "58a1a322d2f3d75f",
+      "title": "Lula sanciona lei que transforma ANPD em agência reguladora",
+      "link": "https://www.congressoemfoco.com.br/noticia/116782/lula-sanciona-lei-que-transforma-anpd-em-agencia-reguladora",
+      "source": "Congresso em Foco",
+      "dateISO": "2026-02-27T12:20:54.000Z",
+      "topics": [
         "saude"
       ]
     },
@@ -1095,103 +1503,11 @@
       ]
     },
     {
-      "id": "1236050ff5107523",
-      "title": "PF indicia Rodrigo Bacellar e TH Joias em investigação sobre suposto envolvimento com o CV",
-      "link": "https://www.cartacapital.com.br/politica/pf-indicia-rodrigo-bacellar-e-th-joias-em-investigacao-sobre-suposto-envolvimento-com-o-cv/",
-      "source": "CartaCapital",
-      "dateISO": "2026-02-27T12:06:56.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "b80714c7d69d39b6",
-      "title": "Saúde mental afastou 7 Maracanãs lotados de trabalhadores em 2025",
-      "link": "https://www.cartacapital.com.br/do-micro-ao-macro/saude-mental-afastamentos-trabalho-2025/",
-      "source": "CartaCapital",
-      "dateISO": "2026-02-27T12:00:26.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "f3a17bdd52b864d7",
-      "title": "STF pede nomes a governo e Congresso para comissão sobre verbas acima do teto",
-      "link": "https://www.conjur.com.br/2026-fev-27/stf-pede-nomes-a-governo-e-congresso-para-formar-comissao-sobre-verbas-acima-do-teto/",
-      "source": "ConJur",
-      "dateISO": "2026-02-27T11:53:23.000Z",
-      "topics": [
-        "stf",
-        "saude"
-      ]
-    },
-    {
-      "id": "04be6df2da906859",
-      "title": "Exposição traz influência de Jorge Amado e Carybé em artista italiano",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/exposicao-traz-influencia-de-jorge-amado-e-carybe-em-artista-italiano",
-      "source": "Agência Brasil",
-      "dateISO": "2026-02-27T11:48:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "2f599fc2879c9c03",
-      "title": "Temporais atingem o estado do Rio",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/temporais-atingem-o-estado-do-rio",
-      "source": "Agência Brasil",
-      "dateISO": "2026-02-27T11:45:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "25f1d3157919c2af",
-      "title": "Viana compara CPMI à sala de aula e mantém quebra de sigilo de Lulinha",
-      "link": "https://www.congressoemfoco.com.br/noticia/116777/viana-compara-cpmi-a-sala-de-aula-e-mantem-quebra-de-sigilo-de-lulinha",
-      "source": "Congresso em Foco",
-      "dateISO": "2026-02-27T11:11:20.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "99a7fc66e17c153c",
-      "title": "Corregedoria da PM usa dados errados em pris�o de escolta da Transwolff",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/02/corregedoria-da-pm-usa-dados-errados-em-prisao-de-escolta-da-transwolff.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-27T11:00:00.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
       "id": "33613ef3101d11ac",
       "title": "Presidente do TRF3 suspende liminares que resguardavam cartões VA e VR de regras do PAT",
       "link": "https://www.jota.info/trabalho/presidente-do-trf3-suspende-liminares-que-resguardavam-cartoes-va-e-vr-de-regras-do-pat",
       "source": "JOTA",
       "dateISO": "2026-02-27T10:30:15.000Z",
-      "topics": [
-        "saude"
-      ]
-    },
-    {
-      "id": "14b65a70ea351e13",
-      "title": "STF solicita a Poderes representantes para comissão de \"penduricalhos\"",
-      "link": "https://www.congressoemfoco.com.br/noticia/116770/stf-solicita-a-poderes-representantes-para-comissao-de-penduricalhos",
-      "source": "Congresso em Foco",
-      "dateISO": "2026-02-27T10:08:23.000Z",
-      "topics": [
-        "stf",
-        "saude"
-      ]
-    },
-    {
-      "id": "1467d3f7e2ec37a4",
-      "title": "Anos finais, tempo integral e a urg�ncia de enfrentar desigualdades",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/02/anos-finais-tempo-integral-e-a-urgencia-de-enfrentar-desigualdades.shtml",
-      "source": "Folha de S.Paulo",
-      "dateISO": "2026-02-27T09:30:00.000Z",
       "topics": [
         "saude"
       ]
@@ -1204,16 +1520,6 @@
       "dateISO": "2026-02-27T09:00:40.000Z",
       "topics": [
         "stf"
-      ]
-    },
-    {
-      "id": "d502243edaac98aa",
-      "title": "Instagram vai alertar pais sobre buscas por suicídio; associações dizem que medida é insuficiente",
-      "link": "https://www.bbc.com/portuguese/articles/cjd905nx158o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Brasil",
-      "dateISO": "2026-02-27T00:37:31.000Z",
-      "topics": [
-        "saude"
       ]
     },
     {
@@ -1273,37 +1579,6 @@
       "link": "https://www.jota.info/stf/do-supremo/supremo-adia-discussao-sobre-penduricalhos-para-25-de-marco",
       "source": "JOTA",
       "dateISO": "2026-02-26T19:25:32.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "4241e012db97bb05",
-      "title": "Supremo decide que vigilantes não têm direito automático a aposentadoria especial",
-      "link": "https://www.jota.info/trabalho/supremo-decide-que-vigilantes-nao-tem-direito-automatico-a-aposentadoria-especial",
-      "source": "JOTA",
-      "dateISO": "2026-02-26T18:44:25.000Z",
-      "topics": [
-        "stf"
-      ]
-    },
-    {
-      "id": "c0a2ccddf396d7a3",
-      "title": "Entidades da sociedade civil pedem que STF mantenha decisão de Dino contra supersalários",
-      "link": "https://www.jota.info/stf/do-supremo/entidades-da-sociedade-civil-pedem-que-stf-mantenha-decisao-de-dino-contra-supersalarios",
-      "source": "JOTA",
-      "dateISO": "2026-02-26T17:44:12.000Z",
-      "topics": [
-        "stf",
-        "saude"
-      ]
-    },
-    {
-      "id": "107c5e28f2097abe",
-      "title": "Quem são os condenados a 76 anos de prisão pelo assassinato de Marielle Franco",
-      "link": "https://www.bbc.com/portuguese/articles/cj6dx1k69nko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Brasil",
-      "dateISO": "2026-02-25T18:42:32.000Z",
       "topics": [
         "stf"
       ]
